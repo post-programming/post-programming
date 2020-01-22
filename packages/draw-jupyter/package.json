@@ -1,7 +1,7 @@
 {
   "name": "draw-jupyter",
   "version": "0.0.10-alpha.2",
-  "description": "draw.io & jupyter-notebook integration",
+  "description": "draw.io & jupyter Notebook Integration",
   "author": "Prateek Rastogi",
   "homepage": "https://github.com/prateekrastogi/gatsby-ant#readme",
   "license": "ISC",

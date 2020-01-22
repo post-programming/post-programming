@@ -1,6 +1,6 @@
 # `sketch-draw`
 
-> Sketch & draw.io Observer Browser Runtime for `Stiching Applications`
+Sketch & draw.io Live Browser Object Model(BOM) for `Stiching Applications`
 
 ## Usage
 

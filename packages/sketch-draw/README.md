@@ -1,6 +1,6 @@
 # `sketch-draw`
 
-Sketch & draw.io Live Browser Object Model(BOM) for `Stiching Applications`
+Sketch & draw.io Live Browser Object Model(BOM) for `Stitching Applications`
 
 ## Usage
 

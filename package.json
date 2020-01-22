@@ -1,6 +1,9 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "lint": "standard --fix"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lerna run lint",
@@ -9,6 +12,7 @@
   },
   "devDependencies": {
     "husky": "^4.2.0",
-    "lerna": "^3.20.2"
+    "lerna": "^3.20.2",
+    "standard": "^14.3.1"
   }
 }

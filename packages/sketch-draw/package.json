@@ -11,7 +11,6 @@
     "url": "git+https://github.com/prateekrastogi/gatsby-ant.git"
   },
   "scripts": {
-    "lint": "standard --fix",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
@@ -19,8 +18,5 @@
   },
   "dependencies": {
     "unzip": "^0.1.11"
-  },
-  "devDependencies": {
-    "standard": "^14.3.1"
   }
 }

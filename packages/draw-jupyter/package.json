@@ -1,8 +1,8 @@
 {
   "name": "draw-jupyter",
   "version": "0.0.10-alpha.1",
-  "description": "> TODO: description",
-  "author": "Prateek Rastogi <prastogi34@gmail.com>",
+  "description": "draw.io & jupyter-notebook integration",
+  "author": "Prateek Rastogi",
   "homepage": "https://github.com/prateekrastogi/gatsby-ant#readme",
   "license": "ISC",
   "main": "lib/draw-jupyter.js",

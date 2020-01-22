@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-const drawJupyter = require('..');
+const drawJupyter = require('..')
 
 describe('draw-jupyter', () => {
-    it('needs tests');
-});
+  it('needs tests')
+})

@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-const gatsbyAnt = require('..');
+const gatsbyAnt = require('..')
 
 describe('gatsby-ant', () => {
-    it('needs tests');
-});
+  it('needs tests')
+})

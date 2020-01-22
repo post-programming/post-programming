@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-const sketchDraw = require('..');
+const sketchDraw = require('..')
 
 describe('sketch-draw', () => {
-    it('needs tests');
-});
+  it('needs tests')
+})

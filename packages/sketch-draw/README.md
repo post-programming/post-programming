@@ -1,6 +1,6 @@
 # `sketch-draw`
 
-> TODO: description
+> Sketch & draw.io Observer Browser Runtime
 
 ## Usage
 

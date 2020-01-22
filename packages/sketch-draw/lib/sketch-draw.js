@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-module.exports = SketchDraw;
+module.exports = SketchDraw
 
-function SketchDraw() {
-    return(sketch-draw)
+function SketchDraw () {
+  return 'sketch-draw'
 }

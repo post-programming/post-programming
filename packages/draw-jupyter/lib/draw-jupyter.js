@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-module.exports = DrawJupyter;
+module.exports = DrawJupyter
 
-function DrawJupyter() {
-    return 'draw-jupyter'
+function DrawJupyter () {
+  return 'draw-jupyter'
 }

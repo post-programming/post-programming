@@ -1,0 +1,26 @@
+{
+    "name": "gatsby-ant",
+    "version": "0.0.9",
+    "description": "Gatsby Plugin: Alibaba Ant World & Sketch Auto-Codegen To Focus On Design Changes",
+    "main": "lib/gatsby-ant.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/prateekrastogi/gatsby-ant/tree/master/packages/gatsby-ant.git"
+    },
+    "keywords": [
+        "gatsby-plugin",
+        "gatsby",
+        "alibaba",
+        "ant",
+        "ant-motion",
+        "antv",
+        "antd",
+        "uform"
+    ],
+    "author": "Prateek Rastogi",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/prateekrastogi/gatsby-ant/issues"
+    },
+    "homepage": "https://github.com/prateekrastogi/gatsby-ant#readme"
+}

@@ -1,7 +1,14 @@
 {
   "name": "root",
   "private": true,
+  "husky": {
+    "hooks": {
+      "pre-commit": "lerna run lint",
+      "pre-push": "lerna run lint"
+    }
+  },
   "devDependencies": {
+    "husky": "^4.2.0",
     "lerna": "^3.20.2"
   }
 }

@@ -1,0 +1,30 @@
+{
+  "name": "draw-jupyter",
+  "version": "0.0.10-alpha.1",
+  "description": "> TODO: description",
+  "author": "Prateek Rastogi <prastogi34@gmail.com>",
+  "homepage": "https://github.com/prateekrastogi/gatsby-ant#readme",
+  "license": "ISC",
+  "main": "lib/draw-jupyter.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateekrastogi/gatsby-ant.git"
+  },
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/prateekrastogi/gatsby-ant/issues"
+  }
+}

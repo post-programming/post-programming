@@ -1,7 +1,7 @@
 'use strict';
 
-module.exports = gatsbyAnt;
+module.exports = GatsbyAnt
 
-function gatsbyAnt() {
-    // TODO
+function GatsbyAnt() {
+    return('gatsby-ant')
 }

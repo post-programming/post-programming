@@ -3,6 +3,9 @@
     "version": "0.0.10-alpha.0",
     "description": "Gatsby Plugin: Alibaba Ant World & Sketch Auto-Codegen To Focus On Design Changes",
     "main": "lib/gatsby-ant.js",
+    "scripts": {
+        "lint": "standard --fix"
+      },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/prateekrastogi/gatsby-ant/tree/master/packages/gatsby-ant.git"
@@ -22,5 +25,8 @@
     "bugs": {
         "url": "https://github.com/prateekrastogi/gatsby-ant/issues"
     },
-    "homepage": "https://github.com/prateekrastogi/gatsby-ant#readme"
+    "homepage": "https://github.com/prateekrastogi/gatsby-ant#readme",
+    "devDependencies": {
+        "standard": "^14.3.1"
+      }
 }

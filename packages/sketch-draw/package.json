@@ -1,7 +1,7 @@
 {
   "name": "sketch-draw",
   "version": "0.0.10-alpha.1",
-  "description": "Sketch & draw.io Live Browser Object Model(BOM) for `Stitching Applications`",
+  "description": "Sketch & draw.io Live Browser Object Model(BOM) for Stitching Applications",
   "author": "Prateek Rastogi",
   "homepage": "https://github.com/prateekrastogi/gatsby-ant/tree/master/packages/sketch-draw#readme",
   "license": "ISC",
@@ -11,6 +11,7 @@
     "url": "git+https://github.com/prateekrastogi/gatsby-ant.git"
   },
   "scripts": {
+    "lint": "standard --fix",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
@@ -18,5 +19,8 @@
   },
   "dependencies": {
     "unzip": "^0.1.11"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
   }
 }

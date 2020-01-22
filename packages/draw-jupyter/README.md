@@ -1,6 +1,6 @@
 # `draw-jupyter`
 
-> TODO: description
+> draw.io & jupyter `Notebook Integration`
 
 ## Usage
 

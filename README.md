@@ -42,15 +42,13 @@ So, mentioned are the originations of our eureka `Benzene Ring`:<br/>
 
 ### Code Examples
 
-### Author
+### 🤝 Contributing
+
+Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcome 🤞<br />
 
 👤 **Prateek Rastogi**
 
 * Github: [@prateekrastogi](https://github.com/prateekrastogi)
-
-### Contributing
-
-Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcome
 
 ### Show your support
 
@@ -58,5 +56,5 @@ Give your ⭐️ if this project helped you
 
 ### License
 
-This project is [ISC](https://en.wikipedia.org/wiki/ISC_license) licensed
+This project is [ISC](https://en.wikipedia.org/wiki/ISC_license) licensed 📝
 

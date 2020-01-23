@@ -2,10 +2,6 @@
 
 Sketch & draw.io Live Browser Object Model(BOM) for `Stitching Applications`
 
-## Usage
+# Usage
 
-```
-const sketchDraw = require('sketch-draw');
-
-// TODO: DEMONSTRATE API
-```
+### [paxos-raft](https://github.com/prateekrastogi/paxos-raft#readme)

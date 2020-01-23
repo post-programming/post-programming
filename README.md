@@ -24,6 +24,17 @@ Mathematical Induction: The ethereal natures of Automata can be described by Hom
 
 So, mentioned are the originations of our eureka `Benzene Ring`:<br/>
 
+<p align="center">♻
+  <a href="#">Link 1</a> ->
+  <a href="#">Link 2</a> ->
+  <a href="#">Link 3</a> ->
+  <a href="#">Link 4</a> ->
+  <a href="#">Link 4</a> ->
+  <a href="#">Link 6</a> ♻
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
 # Gist
 ### [Sketch](https://www.sketch.com/)
 ### [drawio](https://draw.io)

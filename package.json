@@ -41,7 +41,7 @@
     "manifest": "src/sketch/manifest.json",
     "main": "paxos-raft.sketchplugin",
     "assets": [
-      "src/sketch/assets/**/*""
+      "src/sketch/assets/**/*"
     ]
   }
 }

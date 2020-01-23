@@ -32,7 +32,7 @@ So, mentioned are the originations of our eureka `Benzene Ring`:<br/>
   <a href="#">Link 4</a> ->
   <a href="#">Link 6</a> ♻
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="https://raw.githubusercontent.com/prateekrastogi/paxos-raft/master/downloads/originations/recycle.gif">
 </p>
 
 # Gist

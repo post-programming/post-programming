@@ -1,6 +1,6 @@
 # `draw-jupyter`
 
-> draw.io & jupyter `Notebook Integration`
+> draw.io & jupyter-notebook `Metaprogramming`
 
 ## Usage
 

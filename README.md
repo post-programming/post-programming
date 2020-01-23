@@ -14,6 +14,8 @@
 ### 🏠 [Homepage](https://github.com/prateekrastogi/paxos-raft#readme)
 
 # Motivation
+
+> 'Automata create Static Affect' on `Field` e.g. Car i.e. E = mc<sup>2</sup>
 ## Synthesis of Candy Flip
 
 

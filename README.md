@@ -16,8 +16,9 @@
 # Motivation
 
 > 'Automata create Static Affect' on `Field` e.g. Car i.e. E = mc<sup>2</sup>
-## Synthesis of Candy Flip
 
+## Synthesis of Candy Flip
+Mathematical Induction: The ethereal natures of Automata can be described by Homomorphism e.g. functors and vectors  
 
 
 # Gist

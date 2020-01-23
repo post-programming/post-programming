@@ -1,5 +1,6 @@
 {
   "name": "paxos-raft",
+  "description": "npm Turing Machine Automata: Elucidations & Modulations of Developer Economics, Technical Documentations, and Code Reuse",
   "version": "0.0.10-alpha.5",
   "scripts": {
     "lint": "standard packages/**/**/*.js --fix"

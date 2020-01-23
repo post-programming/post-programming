@@ -1,35 +1,35 @@
 {
-  "name": "draw-jupyter",
-  "version": "0.0.10-alpha.11",
-  "description": "draw.io & jupyter-notebook Metaprogramming",
-  "author": "Prateek Rastogi",
-  "homepage": "https://github.com/prateekrastogi/paxos-raft/tree/master/packages/draw-jupyter#readme",
-  "license": "ISC",
-  "main": "lib/draw-jupyter.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/prateekrastogi/paxos-raft.git"
-  },
-  "keywords": [
-    "extension",
-    "jupyter",
-    "jupyterlab",
-    "jupyterlab-extension"
-  ],
-  "jupyterlab": {
-    "extension": true
-  },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/prateekrastogi/paxos-raft/issues"
-  }
+    "name": "draw-jupyter",
+    "version": "0.0.10-alpha.11",
+    "description": "draw.io & jupyter-notebook Metaprogramming",
+    "author": "Prateek Rastogi",
+    "homepage": "https://github.com/prateekrastogi/paxos-raft/tree/master/packages/draw-jupyter#readme",
+    "license": "ISC",
+    "main": "lib/draw-jupyter.js",
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/prateekrastogi/paxos-raft.git"
+    },
+    "keywords": [
+        "extension",
+        "jupyter",
+        "jupyterlab",
+        "jupyterlab-extension"
+    ],
+    "jupyterlab": {
+        "extension": true
+    },
+    "scripts": {
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    },
+    "bugs": {
+        "url": "https://github.com/prateekrastogi/paxos-raft/issues"
+    }
 }

@@ -1,26 +1,26 @@
 {
-  "name": "paxos-raft",
-  "description": "npm NP Turing Machine Automata: Elucidations & Modulations of Developer Economics, Technical Docs, and Code Reuse",
-  "bin": "index.js",
-  "author": "Prateek Rastogi",
-  "homepage": "https://github.com/prateekrastogi/paxos-raft/#readme",
-  "license": "ISC",
-  "version": "0.0.10-alpha.11",
-  "scripts": {
-    "lint": "standard packages/**/**/*.js --fix"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lerna run lint",
-      "pre-push": "lerna run lint"
-    }
-  },
-  "devDependencies": {
-    "husky": "^4.2.0",
-    "lerna": "^3.20.2",
-    "standard": "^14.3.1"
-  },
-   "keywords": [
+    "name": "paxos-raft",
+    "description": "npm NP Turing Machine Automata: Elucidations & Modulations of Developer Economics, Technical Docs, and Code Reuse",
+    "bin": "index.js",
+    "author": "Prateek Rastogi",
+    "homepage": "https://github.com/prateekrastogi/paxos-raft/#readme",
+    "license": "ISC",
+    "version": "0.0.10-alpha.11",
+    "scripts": {
+        "lint": "standard packages/**/**/*.js --fix"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "lerna run lint",
+            "pre-push": "lerna run lint"
+        }
+    },
+    "devDependencies": {
+        "husky": "^4.2.0",
+        "lerna": "^3.20.2",
+        "standard": "^14.3.1"
+    },
+    "keywords": [
         "gatsby-plugin",
         "gatsby",
         "alibaba",
@@ -29,19 +29,19 @@
         "antv",
         "antd",
         "uform",
-    "jupyter",
-    "jupyterlab",
-    "jupyterlab-extension"
+        "jupyter",
+        "jupyterlab",
+        "jupyterlab-extension"
     ],
-  "jupyterlab": {
-    "extension": true
-  },
-  "skpm": {
-    "name": "paxos-raft",
-    "manifest": "src/sketch/manifest.json",
-    "main": "paxos-raft.sketchplugin",
-    "assets": [
-      "src/sketch/assets/**/*"
-    ]
-  }
+    "jupyterlab": {
+        "extension": true
+    },
+    "skpm": {
+        "name": "paxos-raft",
+        "manifest": "src/sketch/manifest.json",
+        "main": "paxos-raft.sketchplugin",
+        "assets": [
+            "src/sketch/assets/**/*"
+        ]
+    }
 }

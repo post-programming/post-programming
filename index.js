@@ -1,2 +1,2 @@
 #!/bin/sh
-console.log('paxos-raft')
+echo('paxos-raft')

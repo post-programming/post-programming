@@ -19,5 +19,29 @@
     "husky": "^4.2.0",
     "lerna": "^3.20.2",
     "standard": "^14.3.1"
+  },
+   "keywords": [
+        "gatsby-plugin",
+        "gatsby",
+        "alibaba",
+        "ant",
+        "ant-motion",
+        "antv",
+        "antd",
+        "uform",
+    "jupyter",
+    "jupyterlab",
+    "jupyterlab-extension"
+    ],
+  "jupyterlab": {
+    "extension": true
+  },
+  "skpm": {
+    "name": "paxos-raft",
+    "manifest": "src/sketch/manifest.json",
+    "main": "paxos-raft.sketchplugin",
+    "assets": [
+      "src/sketch/assets/**/*""
+    ]
   }
 }

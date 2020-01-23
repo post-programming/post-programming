@@ -1,6 +1,6 @@
-# `sketch-draw`
+<h1 align="center">sketch-draw </h1>
 
-Sketch & draw.io Live Browser Object Model(BOM) for `Stitching Applications`
+> Sketch & draw.io Live Browser Object Model(BOM) for `Stitching Applications`
 
 # Usage
 

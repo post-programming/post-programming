@@ -1,4 +1,4 @@
-<h1 align="center">gatsby-ant 👋</h1>
+<h1 align="center">gatsby-ant </h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/prateekrastogi/paxos-raft/tree/master/packages/gatsby-ant#readme" target="_blank">

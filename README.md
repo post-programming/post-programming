@@ -9,7 +9,7 @@
   </a>
 </p>
 
- > `npm Turing Machine Automata`: __Elucidations & Modulations__ of ~~Developer Economics, Technical Documentations, Code Reuse~~ 
+ > `npm NP Turing Machine Automata`: __Elucidations & Modulations__ of ~~Developer Economics, Technical Documentations, Code Reuse~~ 
 
 ### 🏠 [Homepage](https://github.com/prateekrastogi/paxos-raft#readme)
 

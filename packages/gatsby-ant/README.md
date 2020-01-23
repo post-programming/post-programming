@@ -1,20 +1,20 @@
 <h1 align="center">gatsby-ant 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/prateekrastogi/gatsby-ant-ecosystem#readme" target="_blank">
+  <a href="https://github.com/prateekrastogi/paxos-raft/tree/master/packages/gatsby-ant#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/prateekrastogi/gatsby-ant-ecosystem/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/prateekrastogi/paxos-raft/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/prateekrastogi/gatsby-ant-ecosystem/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/prateekrastogi/gatsby-ant-ecosystem" />
+  <a href="https://en.wikipedia.org/wiki/ISC_license" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/github/license/prateekrastogi/paxos-raft" />
   </a>
 </p>
 
  > Gatsby Plugin: `Alibaba Ant World & Sketch Auto-Codegen` To Focus On Design Changes 
 
-### 🏠 [Homepage](https://github.com/prateekrastogi/gatsby-ant-ecosystem#readme)
+### 🏠 [Homepage](https://github.com/prateekrastogi/paxos-raft/tree/master/packages/gatsby-ant#readme)
 
 # Influence
 ## Why Not CSS-in-JS and How much CSS-in-JS<a href="https://github.com/phuoc-ng/csslayout" target="_blank"><sup>1</sup></a>
@@ -36,7 +36,7 @@ Let `==` denote `abstract homomorphism of functors i.e. mathematical identity`
 * [antd](https://ant.design/) + [uform](https://github.com/alibaba/uform) == ...( [antd-mobile](https://mobile.ant.design/) || [material-ui](https://material-ui.com/) || [tailwindcss](https://tailwindcss.com/) || [semantic-ui](https://semantic-ui.com/) )
 
 # Gist
-### [Sketch](https://www.sketch.com/)
+### [paxos-raft](https://github.com/prateekrastogi/paxos-raft#readme)
 
 ### Author
 
@@ -54,5 +54,5 @@ Give your ⭐️ if this project helped you!
 
 ### 📝 License
 
-This project is [MIT](https://github.com/prateekrastogi/gatsby-ant/blob/master/LICENSE) licensed
+This project is [ISC](https://en.wikipedia.org/wiki/ISC_license) licensed
 

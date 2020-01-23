@@ -5,7 +5,7 @@
     "main": "lib/gatsby-ant.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/prateekrastogi/gatsby-ant/tree/master/packages/gatsby-ant.git"
+        "url": "git+https://github.com/prateekrastogi/paxos-raft/tree/master/packages/gatsby-ant.git"
     },
     "keywords": [
         "gatsby-plugin",
@@ -18,9 +18,9 @@
         "uform"
     ],
     "author": "Prateek Rastogi",
-    "license": "MIT",
+    "license": "ISC",
     "bugs": {
-        "url": "https://github.com/prateekrastogi/gatsby-ant/issues"
+        "url": "https://github.com/prateekrastogi/paxos-raft/issues"
     },
-    "homepage": "https://github.com/prateekrastogi/gatsby-ant#readme"
+    "homepage": "https://github.com/prateekrastogi/paxos-raft/tree/master/packages/gatsby-ant#readme"
 }

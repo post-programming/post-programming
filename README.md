@@ -8,7 +8,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://en.wikipedia.org/wiki/ISC_license" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/github/license/prateekrastogi/gatsby-ant-ecosystem" />
+    <img alt="License: ISC" src="https://img.shields.io/github/license/prateekrastogi/paxos-raft" />
   </a>
 </p>
 

@@ -3,7 +3,7 @@
   "version": "0.0.10-alpha.4",
   "description": "draw.io & jupyter-notebook Metaprogramming",
   "author": "Prateek Rastogi",
-  "homepage": "https://github.com/prateekrastogi/gatsby-ant#readme",
+  "homepage": "https://github.com/prateekrastogi/paxos-raft/tree/master/packages/draw-jupyter#readme",
   "license": "ISC",
   "main": "lib/draw-jupyter.js",
   "directories": {
@@ -15,12 +15,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prateekrastogi/gatsby-ant.git"
+    "url": "git+https://github.com/prateekrastogi/paxos-raft.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/prateekrastogi/gatsby-ant/issues"
+    "url": "https://github.com/prateekrastogi/paxos-raft/issues"
   }
 }

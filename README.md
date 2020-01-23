@@ -48,15 +48,15 @@ So, mentioned are the originations of our eureka `Benzene Ring`:<br/>
 
 * Github: [@prateekrastogi](https://github.com/prateekrastogi)
 
-### 🤝 Contributing
+### Contributing
 
-Contributions, issues and feature requests are welcome! As long as connotations are preserved too 🤞<br />
+Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcome
 
 ### Show your support
 
-Give your ⭐️ if this project helped you!
+Give your ⭐️ if this project helped you
 
-### 📝 License
+### License
 
 This project is [ISC](https://en.wikipedia.org/wiki/ISC_license) licensed
 

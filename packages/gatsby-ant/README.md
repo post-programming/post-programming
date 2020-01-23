@@ -35,21 +35,4 @@ Let `==` denote `abstract homomorphism of functors i.e. mathematical identity`
 # Usage
 ### [paxos-raft](https://github.com/prateekrastogi/paxos-raft#readme)
 
-### Author
-
-👤 **Prateek Rastogi**
-
-* Github: [@prateekrastogi](https://github.com/prateekrastogi)
-
-### 🤝 Contributing
-
-Contributions, issues and feature requests are welcome! As long as connotations are preserved too 🤞<br />
-
-### Show your support
-
-Give your ⭐️ if this project helped you!
-
-### 📝 License
-
-This project is [ISC](https://en.wikipedia.org/wiki/ISC_license) licensed
 

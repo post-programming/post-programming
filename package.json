@@ -1,6 +1,7 @@
 {
   "name": "paxos-raft",
   "description": "npm Turing Machine Automata: Elucidations & Modulations of Developer Economics, Technical Documentations, and Code Reuse",
+  "main": "index.js",
   "author": "Prateek Rastogi",
   "homepage": "https://github.com/prateekrastogi/paxos-raft/#readme",
   "license": "ISC",

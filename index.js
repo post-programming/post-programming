@@ -1,6 +1,4 @@
-#!/bin/sh
-':' //# comment ; exec /usr/bin/env node "$0" "$@"
-
+#!/usr/bin/env node
 'use strict' 
 
 console.log('paxos-raft')

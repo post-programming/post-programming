@@ -17,6 +17,15 @@
     "type": "git",
     "url": "git+https://github.com/prateekrastogi/paxos-raft.git"
   },
+  "keywords": [
+    "extension",
+    "jupyter",
+    "jupyterlab",
+    "jupyterlab-extension"
+  ],
+  "jupyterlab": {
+    "extension": true
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },

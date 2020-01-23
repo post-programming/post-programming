@@ -2,10 +2,6 @@
 
 > draw.io & jupyter-notebook `Metaprogramming`
 
-## Usage
+# Usage
 
-```
-const drawJupyter = require('draw-jupyter');
-
-// TODO: DEMONSTRATE API
-```
+### [paxos-raft](https://github.com/prateekrastogi/paxos-raft#readme)

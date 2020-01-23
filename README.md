@@ -22,7 +22,7 @@ Mathematical Induction: The ethereal natures of Automata can be described by Hom
 
 * `Organic Compounds` and their time-dimensional `climate change posses same virtues`
 
-So, mentioned are the originations of our eureka `Benzene Ring`:
+So, mentioned are the originations of our eureka `Benzene Ring`:<br/>
 
 # Gist
 ### [Sketch](https://www.sketch.com/)

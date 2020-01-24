@@ -41,11 +41,11 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 ## [Jupyter](https://jupyter.org/)
 ## [Gatsby](https://www.gatsbyjs.org/)
 
-## Yo-Yo Links
+# Yo-Yo Links
 * [Strapi](https://strapi.io/)
 * [Ghost](https://github.com/TryGhost/Ghost)
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcome 🤞<br />
 
@@ -53,11 +53,15 @@ Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcom
 
 * Github: [@prateekrastogi](https://github.com/prateekrastogi)
 
-### Show your support
+## Show your support
 
 Give your ⭐️ if this project helped you
 
-### License
+## Get-Remote-Job
+* Black, Brown, Eastern White: LinkedIn InMail
+* White: Calibre
+
+## License
 
 This project is [ISC](https://en.wikipedia.org/wiki/ISC_license) licensed 📝
 

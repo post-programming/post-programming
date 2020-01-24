@@ -36,11 +36,14 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 </p>
 
 # Gist
-### [Sketch](https://www.sketch.com/)
-### [drawio](https://draw.io)
-### [Jupyter](https://jupyter.org/)
+## [Sketch](https://www.sketch.com/)
+## [drawio](https://draw.io)
+## [Jupyter](https://jupyter.org/)
+## [Gatsby](https://www.gatsbyjs.org/)
 
-### Code Examples
+## Yo-Yo Links
+* [Strapi](https://strapi.io/)
+* [Ghost](https://github.com/TryGhost/Ghost)
 
 ### 🤝 Contributing
 

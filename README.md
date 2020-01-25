@@ -44,6 +44,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 # Yo-Yo Links
 * [Strapi](https://strapi.io/)
 * [Ghost](https://github.com/TryGhost/Ghost)
+* [Dark Reader](https://darkreader.org/)
 
 ## 🤝 Contributing
 

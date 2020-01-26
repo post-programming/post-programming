@@ -17,7 +17,7 @@
 
 > 'Automata create Static Affect' on `Field` e.g. Car i.e. E = mc<sup>2</sup>
 
-## Synthesis of Candy Flip
+### Synthesis of Candy Flip
 Mathematical Induction: The ethereal natures of Automata can be described by Homomorphism e.g. functors and vectors  
 
 * `Organic Compounds` and their time-dimensional `climate change posses same virtues`
@@ -46,7 +46,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 * [Ghost](https://github.com/TryGhost/Ghost)
 * [Dark Reader](https://darkreader.org/)
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcome 🤞<br />
 
@@ -54,15 +54,15 @@ Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcom
 
 * Github: [@prateekrastogi](https://github.com/prateekrastogi)
 
-## Show your support
+### Show your support
 
 Give your ⭐️ if this project helped you
 
-## Get-Remote-Job
+### Get-Remote-Job
 * Black, Brown, Eastern White: LinkedIn InMail
 * White: Calibre
 
-## License
+### License
 
 This project is [ISC](https://en.wikipedia.org/wiki/ISC_license) licensed 📝
 

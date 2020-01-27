@@ -36,6 +36,9 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 </p>
 
 # Gist
+* Install `'paxos-raft' as plugins/extensions/packages on Sketch, drawio, Jupyter, or Gatsby` via npm
+* Export construed `DFA Workflows as npm packages`
+
 ## [Sketch](https://www.sketch.com/)
 ## [drawio](https://draw.io)
 ## [Jupyter](https://jupyter.org/)

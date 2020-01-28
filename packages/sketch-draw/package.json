@@ -10,21 +10,11 @@
         "type": "git",
         "url": "git+https://github.com/prateekrastogi/paxos-raft.git"
     },
-    "skpm": {
-        "name": "sketch-draw",
-        "manifest": "src/sketch/manifest.json",
-        "main": "sketch-draw.sketchplugin",
-        "assets": [
-            "src/sketch/assets/**/*"
-        ]
-    },
     "scripts": {
         "test": "echo \"Error: run tests from root\" && exit 1"
     },
     "bugs": {
         "url": "https://github.com/prateekrastogi/paxos-raft/issues"
     },
-    "dependencies": {
-        "unzip": "^0.1.11"
-    }
+    "dependencies": {}
 }

@@ -34,14 +34,14 @@
         "jupyterlab-extension"
     ],
     "jupyterlab": {
-        "extension": true
+        "extension": "lib/jupyterlab"
     },
     "skpm": {
         "name": "paxos-raft",
-        "manifest": "src/sketch/manifest.json",
+        "manifest": "lib/sketch/manifest.json",
         "main": "paxos-raft.sketchplugin",
         "assets": [
-            "src/sketch/assets/**/*"
+            "lib/sketch/assets/**/*"
         ]
     }
 }

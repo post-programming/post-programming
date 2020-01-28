@@ -7,16 +7,6 @@
         "type": "git",
         "url": "git+https://github.com/prateekrastogi/paxos-raft/tree/master/packages/gatsby-ant.git"
     },
-    "keywords": [
-        "gatsby-plugin",
-        "gatsby",
-        "alibaba",
-        "ant",
-        "ant-motion",
-        "antv",
-        "antd",
-        "uform"
-    ],
     "author": "Prateek Rastogi",
     "license": "ISC",
     "bugs": {

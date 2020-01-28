@@ -1,6 +1,6 @@
 {
     "name": "draw-jupyter",
-    "version": "0.0.10-alpha.13",
+    "version": "0.0.10-alpha.20",
     "description": "draw.io & jupyter-notebook Metaprogramming",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/prateekrastogi/paxos-raft/tree/master/packages/draw-jupyter#readme",

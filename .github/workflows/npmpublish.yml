@@ -12,7 +12,7 @@ jobs:
           node-version: 12
       - run: npm ci
       - run: lerna bootstrap 
-
+      - run: lerna run test
   publish-npm:
     needs: build
     runs-on: ubuntu-latest

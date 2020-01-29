@@ -36,8 +36,9 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 </p>
 
 # Gist
-* Install `'paxos-raft' as plugins/extensions/packages on Sketch, drawio, Jupyter, or VS Code`
-* Export construed `DFA Workflows as npm packages`
+* Install: `'paxos-raft' as plugins/extensions/packages on Sketch, drawio, Jupyter, or VS Code`
+* Export: `DFA Workflows as npm packages`
+* UX: `Automated Read-Write-Containers for Supported Development Platforms`
 
 ## [Sketch](https://www.sketch.com/)
 ## [drawio](https://draw.io)
@@ -45,15 +46,16 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 ## [VS Code](https://code.visualstudio.com/)
 
 ### Packages
-* [sketch-draw](https://github.com/paxos-raft/paxos-raft/tree/master/packages/sketch-draw)
-* [draw-jupyter](https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-jupyter)
-* [gatsby-ant](https://github.com/paxos-raft/paxos-raft/tree/master/packages/gatsby-ant)
-* [react-react-native](https://github.com/paxos-raft/paxos-raft/tree/master/packages/react-react-native)
+* [sketch-draw](https://github.com/paxos-raft/Origins/tree/master/packages/sketch-draw)
+* [draw-jupyter](https://github.com/paxos-raft/Origins/tree/master/packages/draw-jupyter)
+* [gatsby-ant](https://github.com/paxos-raft/Origins/tree/master/packages/gatsby-ant)
+* [react-react-native](https://github.com/paxos-raft/Origins/tree/master/packages/react-react-native)
 
 # Yo-Yo Links
 * [Gatsby](https://www.gatsbyjs.org/)
 * [Strapi](https://strapi.io/)
 * [Ghost](https://github.com/TryGhost/Ghost)
+* [Helm](https://helm.sh/)
 * [Dark Reader](https://darkreader.org/)
 
 ### 🤝 Contributing

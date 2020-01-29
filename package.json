@@ -31,7 +31,9 @@
         "uform",
         "jupyter",
         "jupyterlab",
-        "jupyterlab-extension"
+        "jupyterlab-extension",
+        "react",
+        "react-native"
     ],
     "jupyterlab": {
         "extension": "lib/jupyterlab"

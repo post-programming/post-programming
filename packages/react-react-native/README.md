@@ -1,11 +1,8 @@
 # `react-react-native`
 
-> TODO: description
+> Transpile React To Performant React-Native
 
-## Usage
+# Usage
 
-```
-const reactReactNative = require('react-react-native');
+### [paxos-raft](https://github.com/prateekrastogi/paxos-raft#readme)
 
-// TODO: DEMONSTRATE API
-```

@@ -6,7 +6,7 @@
     "react",
     "react-native"
   ],
-  "author": "Prateek Rastogi <prastogi34@gmail.com>",
+  "author": "Prateek Rastogi",
   "homepage": "https://github.com/prateekrastogi/paxos-raft/tree/maste/packages/react-react-native#readme",
   "license": "ISC",
   "main": "lib/react-react-native.js",

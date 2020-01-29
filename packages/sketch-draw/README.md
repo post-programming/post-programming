@@ -13,5 +13,7 @@
 > Sketch & draw.io Live Browser Object Model (BOM) for `Stitching Applications`
 
 # Usage
+## Why Babel?
+Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Trasformations
 
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

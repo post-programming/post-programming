@@ -62,7 +62,7 @@ Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcom
 
 👤 **Prateek Rastogi**
 
-* Github: [@paxos-raft](https://github.com/prateekrastogi)
+* Github: [@prateekrastogi](https://github.com/prateekrastogi)
 
 ### Show your support
 

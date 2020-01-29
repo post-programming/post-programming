@@ -4,5 +4,5 @@
 
 # Usage
 
-### [paxos-raft](https://github.com/prateekrastogi/paxos-raft#readme)
+### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)
 

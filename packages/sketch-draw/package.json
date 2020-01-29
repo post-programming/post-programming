@@ -3,17 +3,17 @@
     "version": "0.0.10-alpha.20",
     "description": "Sketch & draw.io Live Browser Object Model(BOM) for Stitching Applications",
     "author": "Prateek Rastogi",
-    "homepage": "https://github.com/prateekrastogi/paxos-raft/tree/master/packages/sketch-draw#readme",
+    "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/sketch-draw#readme",
     "license": "ISC",
     "main": "lib/sketch-draw.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/prateekrastogi/paxos-raft.git"
+        "url": "git+https://github.com/paxos-raft/paxos-raft.git"
     },
     "scripts": {
         "test": "echo \"Error: run tests from root\" && exit 1"
     },
     "bugs": {
-        "url": "https://github.com/prateekrastogi/paxos-raft/issues"
+        "url": "https://github.com/paxos-raft/paxos-raft/issues"
     }
 }

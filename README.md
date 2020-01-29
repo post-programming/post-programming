@@ -43,6 +43,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 ## [drawio](https://draw.io)
 ## [Jupyter](https://jupyter.org/)
 ## [Gatsby](https://www.gatsbyjs.org/)
+## [VS Code](https://code.visualstudio.com/)
 
 ### Packages
 * [sketch-draw](https://github.com/prateekrastogi/paxos-raft/tree/master/packages/sketch-draw)

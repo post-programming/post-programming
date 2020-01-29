@@ -42,7 +42,6 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 ## [Sketch](https://www.sketch.com/)
 ## [drawio](https://draw.io)
 ## [Jupyter](https://jupyter.org/)
-## [Gatsby](https://www.gatsbyjs.org/)
 ## [VS Code](https://code.visualstudio.com/)
 
 ### Packages
@@ -52,6 +51,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 * [react-react-native](https://github.com/paxos-raft/paxos-raft/tree/master/packages/react-react-native)
 
 # Yo-Yo Links
+* [Gatsby](https://www.gatsbyjs.org/)
 * [Strapi](https://strapi.io/)
 * [Ghost](https://github.com/TryGhost/Ghost)
 * [Dark Reader](https://darkreader.org/)

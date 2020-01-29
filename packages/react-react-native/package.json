@@ -7,7 +7,7 @@
     "react-native"
   ],
   "author": "Prateek Rastogi",
-  "homepage": "https://github.com/paxos-raft/paxos-raft/tree/maste/packages/react-react-native#readme",
+  "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/react-react-native#readme",
   "license": "ISC",
   "main": "lib/react-react-native.js",
   "directories": {

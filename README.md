@@ -11,7 +11,7 @@
 
  > `npm NP Turing Machine Automata`: __Elucidations & Modulations__ ~~of Developer Economics, Technical Docs, Code Reuse~~ 
 
-### 🏠 [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
+### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 
 # Motivation
 
@@ -61,9 +61,9 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 * [TensorFlow](https://www.tensorflow.org/)
 * [Dark Reader](https://darkreader.org/)
 
-### 🤝 Contributing
+### Contributing
 
-Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcome 🤞<br />
+Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcome <br />
 
 👤 **Prateek Rastogi**
 

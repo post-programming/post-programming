@@ -11,7 +11,7 @@
 
  > `npm NP Turing Machine Automata`: __Elucidations & Modulations__ ~~of Developer Economics, Technical Docs, Code Reuse~~ 
 
-### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
+### 🏠 [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 
 # Motivation
 

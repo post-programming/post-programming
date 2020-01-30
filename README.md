@@ -59,6 +59,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 * [Ghost](https://github.com/TryGhost/Ghost)
 * [Helm](https://helm.sh/)
 * [TensorFlow](https://www.tensorflow.org/)
+* [Yeoman](https://yeoman.io/)
 * [Dark Reader](https://darkreader.org/)
 
 ### Contributing

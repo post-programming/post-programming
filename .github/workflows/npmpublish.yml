@@ -13,8 +13,8 @@ jobs:
         with:
           node-version: 12  
       - run: npm ci
-      - run: lerna bootstrap 
-      - run: lerna run test  
+      - run: npm run lerna:bootstrap 
+      - run: npm run lerna:test  
 
   publish-npm:
     needs: build

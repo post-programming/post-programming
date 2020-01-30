@@ -10,8 +10,11 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - uses: actions/setup-node@v1
+      - uses: "MrBoolean/action-lerna@master"
         with:
           node-version: 12
+      - run: lerna bootstrap 
+      - run: lerna run test  
       - run: npm ci
 
   publish-npm:
@@ -23,8 +26,6 @@ jobs:
         with:
           node-version: 12
           registry-url: https://registry.npmjs.org/
-      - run: lerna bootstrap 
-      - run: lerna run test
       - run: lerna publish --canary
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}

@@ -13,7 +13,6 @@ jobs:
         with:
           node-version: 12  
       - run: npm ci
-      - uses: "MrBoolean/action-lerna@master"  
       - run: lerna bootstrap 
       - run: lerna run test  
 

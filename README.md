@@ -38,7 +38,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 # Gist
 * Install: `'paxos-raft' as plugins/extensions/packages on Sketch, drawio, Jupyter, or VS Code`
 * Export: `DFA Workflows as npm packages`
-* UX: `(Automated Read-Write-Container)s for Supported Development Platforms`
+* UX: `Automated Read-Write-Containers for Supported Development Platforms`
 
 ## [Sketch](https://www.sketch.com/)
 ## [drawio](https://draw.io)

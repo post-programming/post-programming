@@ -73,7 +73,7 @@ Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcom
 
 Give your ⭐️ if this project helped you
 
-### Get-Remote-Job
+### Get Remote Job
 * Black, Brown, Eastern White: LinkedIn InMail
 * White: Calibre
 

@@ -36,7 +36,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 </p>
 
 # Gist
-* Install: `'paxos-raft' as plugins/extensions/packages on local instances of Sketch, drawio, Jupyter, or VS Code`
+* Install: `'paxos-raft' as plugins/extensions on local instances of Sketch, drawio, Jupyter, or VS Code`
 * Export: `DFA Workflows as npm packages`
 * UX: `Automated Read-Write-Containers for Supported Development Platforms`
 
@@ -46,13 +46,14 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 * [Jupyter](https://jupyter.org/)
 * [VS Code](https://code.visualstudio.com/)
 
-### Packages
+# Yo-Yo Links
+### Base Packages
 * [sketch-draw](https://github.com/paxos-raft/Origins/tree/master/packages/sketch-draw)
 * [draw-jupyter](https://github.com/paxos-raft/Origins/tree/master/packages/draw-jupyter)
 * [gatsby-ant](https://github.com/paxos-raft/Origins/tree/master/packages/gatsby-ant)
 * [react-react-native](https://github.com/paxos-raft/Origins/tree/master/packages/react-react-native)
 
-# Yo-Yo Links
+### Roadmaps
 * [Gatsby](https://www.gatsbyjs.org/)
 * [Strapi](https://strapi.io/)
 * [Ghost](https://github.com/TryGhost/Ghost)

@@ -18,12 +18,7 @@ jobs:
       - run: git config --global user.name USER_NAME
       - run: git config --global user.email USER_EMAIL
       - run: git remote set-url origin https://$GITHUB_ACTOR:$GITHUB_AUTH_TOKEN@github.com/paxos-raft/paxos-raft
-      - run: |
-          npm logout
-          echo "@apollo-elements:registry=http://registry.npmjs.org/" > .npmrc
-          echo "registry=http://registry.npmjs.org/" >> .npmrc
-          echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" >> .npmrc
-          npm whoami
+      - run: npm set '//registry.npmjs.org/:_authToken=$NPM_AUTH_TOKEN'
       - run: npm run lerna:publish  
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}

@@ -29,11 +29,12 @@ jobs:
       - run: npm run lerna:bootstrap
       - run: git config --global user.name USER_NAME
       - run: git config --global user.email USER_EMAIL
-      - run: npm run lerna:publish
+      - run: git remote set-url origin https://$GITHUB_ACTOR:$GITHUB_AUTH_TOKEN@github.com/paxos-raft/paxos-raft
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
           USER_EMAIL: ${{secrets.github_email}}
           USER_NAME: ${{secrets.github_user}}
+          GIT_AUTH_TOKEN: ${{secrets.github_token}}
 
   publish-gpr:
     needs: build

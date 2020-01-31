@@ -34,7 +34,7 @@ jobs:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
           USER_EMAIL: ${{secrets.github_email}}
           USER_NAME: ${{secrets.github_user}}
-          GIT_AUTH_TOKEN: ${{secrets.github_token}}
+          GIT_AUTH_TOKEN: ${{secrets.github_auth}}
 
   publish-gpr:
     needs: build

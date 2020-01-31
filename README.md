@@ -57,7 +57,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 * [Gatsby](https://www.gatsbyjs.org/)
 * [Strapi](https://strapi.io/)
 * [Ghost](https://github.com/TryGhost/Ghost)
-* [Helm](https://helm.sh/) + [Wrangler](https://github.com/cloudflare/wrangler)
+* [Helm](https://helm.sh/) + [wrangler](https://github.com/cloudflare/wrangler)
 * [TensorFlow](https://www.tensorflow.org/)
 * [Yeoman](https://yeoman.io/)
 * [Dark Reader](https://darkreader.org/)

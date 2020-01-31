@@ -15,21 +15,9 @@ jobs:
       - run: npm ci
       - run: npm run lerna:bootstrap 
       - run: npm run lerna:test  
-
-  publish-npm:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 12
-          registry-url: https://registry.npmjs.org/
-      - run: npm ci
-      - run: npm run lerna:bootstrap
       - run: git config --global user.name USER_NAME
       - run: git config --global user.email USER_EMAIL
-      - run: git remote set-url origin https://$GITHUB_ACTOR:$GITHUB_AUTH_TOKEN@github.com/paxos-raft/paxos-
+      - run: git remote set-url origin https://$GITHUB_ACTOR:$GITHUB_AUTH_TOKEN@github.com/paxos-raft/paxos-raft
       - run: npm run lerna:publish  
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}

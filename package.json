@@ -7,11 +7,10 @@
     "license": "ISC",
     "version": "0.0.10-alpha.23",
     "scripts": {
-        "lint": "standard packages/**/**/*.js --fix",
+        "lint": "standard packages/**/lib/*.js --fix",
         "lerna:bootstrap": "lerna bootstrap",
         "lerna:test": "lerna run test",
-        "lerna:version": "lerna version prerelease --yes",
-        "lerna:publish": "lerna publish from-package --yes"
+        "lerna:publish": "lerna version prerelease --yes && lerna publish from-package --yes"
     },
     "husky": {
         "hooks": {

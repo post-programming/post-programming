@@ -40,6 +40,7 @@ jobs:
 
       - name: Publish package
         run: npm run lerna:publish
-        GH_TOKEN: ${{secrets.github_auth}}
-        GITHUB_TOKEN: ${{secrets.github_auth}}
-        NPM_AUTH_TOKEN: ${{secrets.npm_token}}
+        env:
+          GH_TOKEN: ${{secrets.github_auth}}
+          GITHUB_TOKEN: ${{secrets.github_auth}}
+          NPM_AUTH_TOKEN: ${{secrets.npm_token}}

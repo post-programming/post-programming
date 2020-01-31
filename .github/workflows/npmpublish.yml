@@ -26,8 +26,7 @@ jobs:
           node-version: 12
           registry-url: https://registry.npmjs.org/
       - run: npm ci
-      - run: npm run lerna:bootstrap 
-      - run: npm run lerna:publish
+      - run: npm run lerna:bootstrap
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
 
@@ -42,6 +41,5 @@ jobs:
           registry-url: https://npm.pkg.github.com'
       - run: npm ci
       - run: npm run lerna:bootstrap    
-      - run: npm run lerna:publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}

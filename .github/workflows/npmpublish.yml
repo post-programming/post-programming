@@ -27,8 +27,8 @@ jobs:
           registry-url: https://registry.npmjs.org/
       - run: npm ci
       - run: npm run lerna:bootstrap
-      -run: git config --global user.name USER_NAME
-      -run: git config --global user.email USER_EMAIL
+      - run: git config --global user.name USER_NAME
+      - run: git config --global user.email USER_EMAIL
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
           USER_EMAIL: ${{secrets.github_email}}

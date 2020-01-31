@@ -10,7 +10,7 @@
         "lint": "standard packages/**/**/*.js --fix",
         "lerna:bootstrap": "lerna run bootstrap",
         "lerna:test": "lerna run test",
-        "lerna:publish": "lerna run publish --canary"
+        "lerna:publish": "lerna run publish --canary --yes"
     },
     "husky": {
         "hooks": {

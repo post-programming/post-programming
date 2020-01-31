@@ -29,23 +29,10 @@ jobs:
       - run: npm run lerna:bootstrap
       - run: git config --global user.name USER_NAME
       - run: git config --global user.email USER_EMAIL
-      - run: git remote set-url origin https://$GITHUB_ACTOR:$GITHUB_AUTH_TOKEN@github.com/paxos-raft/paxos-raft
+      - run: git remote set-url origin https://$GITHUB_ACTOR:$GITHUB_AUTH_TOKEN@github.com/paxos-raft/paxos-
+      - run: npm run lerna:publish  
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
           USER_EMAIL: ${{secrets.github_email}}
           USER_NAME: ${{secrets.github_user}}
           GIT_AUTH_TOKEN: ${{secrets.github_auth}}
-
-  publish-gpr:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 12
-          registry-url: https://npm.pkg.github.com'
-      - run: npm ci
-      - run: npm run lerna:bootstrap    
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}

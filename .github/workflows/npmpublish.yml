@@ -14,15 +14,33 @@ jobs:
           node-version: 12  
       - run: npm ci
       - run: npm run lerna:bootstrap 
-      - run: npm run lerna:test  
-      - run: git config --global user.name USER_NAME
-      - run: git config --global user.email USER_EMAIL
-      - run: git remote set-url origin https://$GITHUB_ACTOR:$GITHUB_AUTH_TOKEN@github.com/paxos-raft/paxos-raft 
-      - run: npm config set registry https://registry.npmjs.org
-      - run: npm config set //registry.npmjs.org/:_authToken=$NPM_AUTH_TOKEN
-      - run: npm run lerna:publish  
+      - run: npm run lerna:test
+
+      - name: Configure CI Git User
+        run: |
+          git config --global user.name USER_NAME
+          git config --global user.email USER_EMAIL
+          git remote set-url origin https://$GITHUB_ACTOR:$GIT_AUTH_TOKEN@github.com/paxos-raft/paxos-raft
         env:
-          NPM_AUTH_TOKEN: ${{secrets.npm_token}}
           USER_EMAIL: ${{secrets.github_email}}
           USER_NAME: ${{secrets.github_user}}
           GIT_AUTH_TOKEN: ${{secrets.github_auth}}
+
+      - name: Checkout and pull branch
+        run: git checkout "${GITHUB_REF:11}" && git pull
+
+      - name: Install Packages
+        run: yarn install
+
+      - name: Authenticate with Registry
+        run: |
+          yarn logout
+          echo "@apollo-elements:registry=http://registry.npmjs.org/" > .npmrc
+          echo "registry=http://registry.npmjs.org/" >> .npmrc
+          echo "//registry.npmjs.org/:_authToken=$NPM_AUTH_TOKEN" >> .npmrc
+          npm whoami
+        env:
+          NPM_AUTH_TOKEN: ${{secrets.npm_token}}
+
+      - name: Publish package
+        run: npm run lerna:publish

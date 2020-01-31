@@ -48,10 +48,10 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 
 # Yo-Yo Links
 ### Base Packages
-* [sketch-draw](https://github.com/paxos-raft/Origins/tree/master/packages/sketch-draw)
-* [draw-jupyter](https://github.com/paxos-raft/Origins/tree/master/packages/draw-jupyter)
-* [gatsby-ant](https://github.com/paxos-raft/Origins/tree/master/packages/gatsby-ant)
-* [react-react-native](https://github.com/paxos-raft/Origins/tree/master/packages/react-react-native)
+* [sketch-draw](https://www.npmjs.com/package/sketch-draw)
+* [draw-jupyter](https://www.npmjs.com/package/draw-jupyter)
+* [gatsby-ant](https://www.npmjs.com/package/gatsby-ant)
+* [react-react-native](https://www.npmjs.com/package/react-react-native)
 
 ### Roadmaps
 * [Gatsby](https://www.gatsbyjs.org/)

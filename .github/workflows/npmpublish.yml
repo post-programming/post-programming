@@ -15,7 +15,7 @@ jobs:
       - run: npm ci
       - run: npm run lerna:bootstrap 
       - run: npm run lerna:test
-
+      - run: npm run lerna:version    
       - name: Configure CI Git User
         run: |
           git config --global user.name USER_NAME
@@ -38,4 +38,4 @@ jobs:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
 
       - name: Publish package
-        run: npm run lerna:publish
+        run: npm run lerna:version

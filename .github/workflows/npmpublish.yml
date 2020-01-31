@@ -39,5 +39,6 @@ jobs:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
 
       - name: Publish package
-        run: npm whoami  
+        run: npm whoami
+      - name: Publish    
         run: npm run lerna:publish

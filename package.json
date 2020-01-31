@@ -9,7 +9,8 @@
     "scripts": {
         "lint": "standard packages/**/**/*.js --fix",
         "lerna:bootstrap": "lerna run bootstrap",
-        "lerna:test": "lerna run test"
+        "lerna:test": "lerna run test",
+        "lerna:publish": "lerna run publish --canary"
     },
     "husky": {
         "hooks": {

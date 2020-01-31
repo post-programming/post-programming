@@ -25,7 +25,7 @@ jobs:
         with:
           node-version: 12
           registry-url: https://registry.npmjs.org/
-      - run: lerna publish --canary
+      - run: npm run lerna:publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
 
@@ -38,6 +38,6 @@ jobs:
         with:
           node-version: 12
           registry-url: https://npm.pkg.github.com'
-      - run: lerna publish --canary
+      - run: run: npm run lerna:publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}

@@ -24,19 +24,12 @@
         "standard": "^14.3.1"
     },
     "keywords": [
-        "gatsby-plugin",
-        "gatsby",
-        "alibaba",
-        "ant",
-        "ant-motion",
-        "antv",
-        "antd",
-        "uform",
+        "Sketch",
+        "drawio",
+        "VS Code",
         "jupyter",
         "jupyterlab",
-        "jupyterlab-extension",
-        "react",
-        "react-native"
+        "jupyterlab-extension"
     ],
     "jupyterlab": {
         "extension": "lib/jupyterlab"

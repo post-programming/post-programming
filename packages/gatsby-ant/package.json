@@ -12,5 +12,15 @@
     "bugs": {
         "url": "https://github.com/paxos-raft/paxos-raft/issues"
     },
-    "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/gatsby-ant#readme"
+    "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/gatsby-ant#readme",
+    "keywords": [
+        "gatsby-plugin",
+        "gatsby",
+        "alibaba",
+        "ant",
+        "ant-motion",
+        "antv",
+        "antd",
+        "uform"
+    ]
 }

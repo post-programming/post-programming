@@ -27,7 +27,7 @@ jobs:
           GIT_AUTH_TOKEN: ${{secrets.github_auth}}
 
       - name: Checkout and pull branch
-        run: git checkout "${GITHUB_REF:11}" && git pull
+        run: git checkout master && git pull
 
       - name: Authenticate with Registry
         run: |

@@ -29,12 +29,8 @@ jobs:
       - name: Checkout and pull branch
         run: git checkout "${GITHUB_REF:11}" && git pull
 
-      - name: Install Packages
-        run: yarn install
-
       - name: Authenticate with Registry
         run: |
-          yarn logout
           echo "@apollo-elements:registry=http://registry.npmjs.org/" > .npmrc
           echo "registry=http://registry.npmjs.org/" >> .npmrc
           echo "//registry.npmjs.org/:_authToken=$NPM_AUTH_TOKEN" >> .npmrc

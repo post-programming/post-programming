@@ -22,7 +22,7 @@ jobs:
       - run: npm config set '//registry.npmjs.org/:_authToken=$NPM_AUTH_TOKEN'
       - run: npm run lerna:publish  
         env:
-          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+          NPM_AUTH_TOKEN: ${{secrets.npm_token}}
           USER_EMAIL: ${{secrets.github_email}}
           USER_NAME: ${{secrets.github_user}}
           GIT_AUTH_TOKEN: ${{secrets.github_auth}}

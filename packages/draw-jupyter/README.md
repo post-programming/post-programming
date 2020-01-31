@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> draw.io & jupyter-notebook `Metaprogramming`
+> draw.io & JupyterLab `Metaprogramming`
 
 # Usage
 

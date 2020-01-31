@@ -20,7 +20,7 @@ jobs:
         run: |
           git config --global user.name USER_NAME
           git config --global user.email USER_EMAIL
-          git remote set-url origin https://$GITHUB_ACTOR:$GIT_AUTH_TOKEN@github.com/USER_NAME/paxos-raft
+          git remote set-url origin https://$GITHUB_ACTOR:$GIT_AUTH_TOKEN@github.com/paxos-raft/paxos-raft
         env:
           USER_EMAIL: ${{secrets.github_email}}
           USER_NAME: ${{secrets.github_user}}
@@ -39,8 +39,5 @@ jobs:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
 
       - name: Publish package
+        run: npm whoami  
         run: npm run lerna:publish
-        env:
-          GH_TOKEN: ${{secrets.github_auth}}
-          GITHUB_TOKEN: ${{secrets.github_auth}}
-          NPM_AUTH_TOKEN: ${{secrets.npm_token}}

@@ -31,9 +31,9 @@ jobs:
 
       - name: Authenticate with Registry
         run: |
-          echo "@apollo-elements:registry=http://registry.npmjs.org/" > .npmrc
-          echo "registry=http://registry.npmjs.org/" >> .npmrc
-          echo "//registry.npmjs.org/:_authToken=$NPM_AUTH_TOKEN" >> .npmrc
+          echo "@apollo-elements:registry=http://registry.npmjs.com/" > .npmrc
+          echo "registry=http://registry.npmjs.com/" >> .npmrc
+          echo "//registry.npmjs.com/:_authToken=$NPM_AUTH_TOKEN" >> .npmrc
           npm whoami
         env:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}

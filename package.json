@@ -10,8 +10,7 @@
         "lint": "standard packages/**/lib/*.js --fix",
         "lerna:bootstrap": "lerna bootstrap",
         "lerna:test": "lerna run test",
-        "lerna:version": "lerna version prerelease --yes",
-        "lerna:publish": "lerna publish from-package --yes"
+        "lerna:publish": "lerna version prerelease --yes && lerna publish from-package --yes"
     },
     "husky": {
         "hooks": {

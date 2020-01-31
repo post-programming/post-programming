@@ -18,8 +18,8 @@ jobs:
        
       - name: Authenticate with Git 
         run: |
-          git config --global user.name USER_NAME
-          git config --global user.email USER_EMAIL
+          git config --global user.name $USER_NAME
+          git config --global user.email $USER_EMAIL
           git remote set-url origin https://$GITHUB_ACTOR:$GIT_AUTH_TOKEN@github.com/paxos-raft/paxos-raft
         env:
           USER_EMAIL: ${{secrets.github_email}}

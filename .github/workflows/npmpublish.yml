@@ -26,7 +26,7 @@ jobs:
           USER_NAME: ${{secrets.github_user}}
           GIT_AUTH_TOKEN: ${{secrets.github_auth}}
 
-      - name: Checkout and Pull branch
+      - name: Checkout and Pull Master
         run: git checkout master && git pull
 
       - name: Authenticate with Registry

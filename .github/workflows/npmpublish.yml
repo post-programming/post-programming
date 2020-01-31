@@ -20,6 +20,7 @@ jobs:
       - run: git remote set-url origin https://$GITHUB_ACTOR:$GITHUB_AUTH_TOKEN@github.com/paxos-raft/paxos-raft 
       - run: npm config set registry https://registry.npmjs.org
       - run: npm config set //registry.npmjs.org/:_authToken NPM_AUTH_TOKEN
+      - run: npx npm-check-updates@stoically/npm-check-updates#registry-url-and-auth-token-debug
       - run: npm run lerna:publish  
         env:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}

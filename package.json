@@ -7,7 +7,7 @@
     "license": "ISC",
     "version": "0.0.10-alpha.29",
     "scripts": {
-        "lint": "standard packages/**/lib/*.js --fix",
+        "lint": "standard packages/**/**/*.js --fix",
         "lerna:bootstrap": "lerna bootstrap",
         "lerna:test": "lerna run test",
         "lerna:publish": "lerna version prerelease --yes && lerna publish from-package --yes"

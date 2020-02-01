@@ -5,7 +5,7 @@
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",
     "license": "ISC",
-    "version": "0.0.10-alpha.29",
+    "version": "0.0.10-alpha.30",
     "scripts": {
         "lint": "standard packages/**/**/*.js --fix",
         "lerna:bootstrap": "lerna bootstrap",

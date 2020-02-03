@@ -9,8 +9,10 @@
   </a>
 </p>
 
-> draw.io & JupyterLab `Metaprogramming`
+> drawio's JupyterLab Metaprogramming
 
-# Usage
+# Influence
 
+# Install
+### [npm](https://www.npmjs.com/package/draw-jupyter)
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

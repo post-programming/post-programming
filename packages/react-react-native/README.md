@@ -9,9 +9,12 @@
   </a>
 </p>
 
-> Transpile React To Performant React-Native
+> Transpile React To React Native
 
-# Usage
+# Influence
 
+# Install
+
+### [npm](https://www.npmjs.com/package/react-react-native)
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)
 

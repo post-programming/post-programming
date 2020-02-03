@@ -16,8 +16,10 @@
 ### Why Alibaba Ant React Foundation? 
 
 ### Why Standard React Native Base?
-# Install
 
+### Principle of Superposition 
+
+# Install
 ### [npm](https://www.npmjs.com/package/react-react-native)
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)
 

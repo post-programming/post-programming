@@ -10,7 +10,7 @@
 </p>
 
 
-> draw.io's & Cloud Computing Metaprogramming
+> draw.io's Cloud Computing Metaprogramming
 
 # Influence
 

@@ -10,10 +10,10 @@
 </p>
 
 
-> `Sketch Gatsby Schemas & draw.io Strapi Plans` for `Stitching 'Web Apps'`
+> `Sketch Schemas & draw.io Plans` for `Stitching 'Web Apps'`
 
 # Influence
-
+### What's Inside?
 
 # Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

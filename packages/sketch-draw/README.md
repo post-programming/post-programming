@@ -10,7 +10,7 @@
 </p>
 
 
-> Sketch & draw.io `Schemas and Plans` for `Stitching 'Web Apps'`
+> Sketch & draw.io `Gatsby Schemas and Strapi Plans` for `Stitching 'Web Apps'`
 
 # Influence
 ### Why Babel?

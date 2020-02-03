@@ -18,8 +18,8 @@
 * Represents Modern State of Web UI/UX 
 
 ### Why Standard React Native Base?
-* Most useful functionalities of Device Native UI/UX are its default API
-* Represents Modern Base of Native UI/UX 
+* Device Native UI/UX are its default API
+* Represents Modern Base for Native UI/UX 
 
 ### Principle of Superposition
 * Alibaba Ant React and React Native are higher order fragmentations spitting similiar compositions to an outsider

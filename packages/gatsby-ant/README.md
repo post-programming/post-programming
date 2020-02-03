@@ -10,7 +10,7 @@
  
 </p>
 
- > `Gatsby & Alibaba Ant` Compilation For Sketch Auto-Codegen of React Native and React 
+ > `Gatsby & Alibaba Ant` Compilation For Sketch Auto-Codegen on React Native and React 
 
 ### 🏠 [Homepage](https://github.com/paxos-raft/paxos-raft/tree/master/packages/gatsby-ant#readme)
 

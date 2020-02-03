@@ -13,6 +13,9 @@
 
 # Influence
 
+### Why Alibaba Ant React Foundation? 
+
+### Why Standard React Native Base?
 # Install
 
 ### [npm](https://www.npmjs.com/package/react-react-native)

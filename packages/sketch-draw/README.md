@@ -10,7 +10,7 @@
 </p>
 
 
-> Sketch & draw.io `Gatsby Schemas and Strapi Plans` for `Stitching 'Web Apps'`
+> `Sketch Gatsby Schemas & draw.io Strapi Plans` for `Stitching 'Web Apps'`
 
 # Influence
 

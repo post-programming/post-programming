@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Transpile Functional React To Standard React Native
+> SourceMap Functional React To Standard React Native
 
 # Influence
 

@@ -1,6 +1,6 @@
 {
     "name": "paxos-raft",
-    "description": "Developer Automata: Elucidations & Modulations in Technical Docs and Code Reuse",
+    "description": "Developer Automata: Elucidations & Modulations of Technical Docs and Code Reuse",
     "bin": "index.js",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",

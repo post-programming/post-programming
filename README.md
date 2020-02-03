@@ -53,7 +53,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 * [gatsby-ant](https://github.com/paxos-raft/paxos-raft/tree/master/packages/gatsby-ant)
 * [react-react-native](https://github.com/paxos-raft/paxos-raft/tree/master/packages/react-react-native)
 
-### Roadmaps
+### Infrastructure Frameworks
 * [Gatsby](https://www.gatsbyjs.org/)
 * [Strapi](https://strapi.io/)
 * [Ghost](https://github.com/TryGhost/Ghost)

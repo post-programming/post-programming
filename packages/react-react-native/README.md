@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Transpile React To React Native
+> Transpile Functional React To Standard React Native
 
 # Influence
 

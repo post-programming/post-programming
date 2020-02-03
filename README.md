@@ -63,6 +63,7 @@ Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Tra
 ### Tell me Orchestration Infra?
 * [Gatsby](https://www.gatsbyjs.org/)
 * [Strapi](https://strapi.io/)
+* [Ghost](https://github.com/TryGhost/Ghost)
 * [Helm](https://helm.sh/) + [wrangler](https://github.com/cloudflare/wrangler)
 * [TensorFlow](https://www.tensorflow.org/)
 * [Yeoman](https://yeoman.io/)

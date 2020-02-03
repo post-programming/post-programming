@@ -9,7 +9,7 @@
   </a>
 </p>
 
- > `npm Locked-Machine Automata`: __Elucidations & Modulations__ ~~of Developer Economics, Technical Docs, Code Reuse~~ 
+ > `Developer Automata`: __Elucidations & Modulations__ ~~in Technical Docs and Code Reuse~~ 
 
 ### 🏠 [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 
@@ -36,14 +36,14 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 </p>
 
 # Gist
-* Install: `'paxos-raft' as plugins/extensions on local instances of Sketch, drawio, Jupyter, or VS Code`
+* Install: `'paxos-raft' as plugins/extensions on local instances of Sketch, draw.io, JupyterLab, or VS Code`
 * Export: `DFA Workflows as npm packages`
 * UX: `Automated Read-Write-Containers for Supported Development Platforms`
 
 ### Supported Platforms
 * [Sketch](https://www.sketch.com/)
-* [drawio](https://github.com/fjudith/docker-draw.io)
-* [Jupyter](https://jupyter.org/)
+* [draw.io](https://github.com/fjudith/docker-draw.io)
+* [JupyterLab](https://jupyter.org/)
 * [VS Code](https://code.visualstudio.com/)
 
 # Yo-Yo Links

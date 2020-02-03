@@ -1,7 +1,7 @@
 {
     "name": "gatsby-ant",
     "version": "0.0.10-alpha.30",
-    "description": "Gatsby Plugin: Alibaba Ant World & Sketch Auto-Codegen To Focus On Design Changes",
+    "description": "Gatsby & Alibaba Ant Compilation For Auto-Codegen of React Native and React on Sketch",
     "main": "lib/gatsby-ant.js",
     "repository": {
         "type": "git",

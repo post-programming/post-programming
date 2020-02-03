@@ -1,7 +1,7 @@
 {
     "name": "sketch-draw",
     "version": "0.0.10-alpha.30",
-    "description": "Sketch & draw.io Live Browser Object Model(BOM) for Stitching Applications",
+    "description": "Sketch & draw.io Gatsby Schemas and Strapi Plans for Stitching Web Apps",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/sketch-draw#readme",
     "license": "ISC",

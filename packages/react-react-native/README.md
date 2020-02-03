@@ -14,10 +14,15 @@
 # Influence
 
 ### Why Alibaba Ant React Foundation? 
+* Broadest set of UI Elements for Frontend Engineering
+* Represents Modern State of Web UI/UX 
 
 ### Why Standard React Native Base?
+* Most useful functionalities of Device Native UI/UX are its default API
+* Represents Modern Base of Native UI/UX 
 
-### Principle of Superposition 
+### Principle of Superposition
+* Alibaba Ant React and React Native are higher order fragmentations for same compositions
 
 # Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

@@ -33,7 +33,7 @@ Let `==` denote `abstract homomorphism of functors i.e. mathematical identity`
 * [antv](https://antv.vision/en) == contains( [G2](https://g2.antv.vision/en), [G6](https://g6.antv.vision/en), [L7](https://l7.antv.vision/en) ) && ...( [D3](https://d3js.org/) || [vega-lite](https://github.com/vega/vega-lite) || [leaflet](https://leafletjs.com/) || [deck.gl](https://deck.gl/) )
 * [antd](https://ant.design/) + [uform](https://github.com/alibaba/uform) == ...( [antd-mobile](https://mobile.ant.design/) || [material-ui](https://material-ui.com/) || [tailwindcss](https://tailwindcss.com/) || [semantic-ui](https://semantic-ui.com/) )
 
-# Install
+# Usage
 ### [npm](https://www.npmjs.com/package/gatsby-ant)
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)
 

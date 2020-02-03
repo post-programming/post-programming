@@ -44,22 +44,22 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 ### Again, What it does?
 It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI`, employing best of cutting-edge technologies such as React, React Native, Node.js, Tensorflow, Google AI etc. to erode programming work and turnaround time. 
 
-### Why it uses Babel?
-Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations
-
-### Supported Platforms
+### How to Install?
 * [Sketch](https://www.sketch.com/)
 * [draw.io](https://github.com/fjudith/docker-draw.io)
 * [JupyterLab](https://jupyter.org/)
 * [VS Code](https://code.visualstudio.com/)
 
-### Base Packages
+### Why it uses Babel?
+Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations
+
+### What are its Base Packages?
 * [sketch-draw](https://github.com/paxos-raft/paxos-raft/tree/master/packages/sketch-draw)
 * [draw-jupyter](https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-jupyter)
 * [gatsby-ant](https://github.com/paxos-raft/paxos-raft/tree/master/packages/gatsby-ant)
 * [react-react-native](https://github.com/paxos-raft/paxos-raft/tree/master/packages/react-react-native)
 
-### Infrastructure Frameworks
+### Tell me Infrastructure Frameworks?
 * [Gatsby](https://www.gatsbyjs.org/)
 * [Strapi](https://strapi.io/)
 * [Ghost](https://github.com/TryGhost/Ghost)

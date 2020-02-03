@@ -34,7 +34,6 @@ Let `==` denote `abstract homomorphism of functors i.e. mathematical identity`
 * [antd](https://ant.design/) + [uform](https://github.com/alibaba/uform) == ...( [antd-mobile](https://mobile.ant.design/) || [material-ui](https://material-ui.com/) || [tailwindcss](https://tailwindcss.com/) || [semantic-ui](https://semantic-ui.com/) )
 
 # Usage
-### [npm](https://www.npmjs.com/package/gatsby-ant)
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)
 
 

@@ -48,7 +48,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 
 # Yo-Yo Talk
 
-### Why Babel?
+### Why it uses Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations
 
 ### Base Packages

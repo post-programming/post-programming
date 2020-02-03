@@ -1,6 +1,6 @@
 <h1 align="center">draw-jupyter </h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://www.npmjs.com/package/draw-jupyter"><img src="https://badge.fury.io/js/draw-jupyter.svg" alt="npm version" height="18"></a>
   <a href="https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-jupyter#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -13,6 +13,5 @@
 
 # Influence
 
-# Install
-### [npm](https://www.npmjs.com/package/draw-jupyter)
+# Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

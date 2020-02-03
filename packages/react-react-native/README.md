@@ -24,7 +24,7 @@
 ### Principle of Superposition
 * Alibaba Ant React and React Native are higher order fragmentations spitting similiar compositions to an outsider<a href="https://github.com/necolas/react-native-web" target="_blank"><sup>1</sup></a> 
 * From aspects of Developer Flexibility, they are Bipolar Evils
-* `React ridicules React Native` in Ecosystem Superpowers<a href="https://trends.google.com/trends/explore?q=React,React%20Native" target="_blank"><sup>2</sup></a>
+* `React ridicules React Native` with Ecosystem Superpowers<a href="https://trends.google.com/trends/explore?q=React,React%20Native" target="_blank"><sup>2</sup></a>
 
 # Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

@@ -56,13 +56,13 @@ Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Tra
 ### What are its Base Packages?
 * [sketch-draw](https://github.com/paxos-raft/paxos-raft/tree/master/packages/sketch-draw)
 * [draw-jupyter](https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-jupyter)
+* [draw-cloud](https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-cloud)
 * [gatsby-ant](https://github.com/paxos-raft/paxos-raft/tree/master/packages/gatsby-ant)
 * [react-react-native](https://github.com/paxos-raft/paxos-raft/tree/master/packages/react-react-native)
 
-### Tell me Infrastructure Frameworks?
+### Tell me Orchestration Infra?
 * [Gatsby](https://www.gatsbyjs.org/)
 * [Strapi](https://strapi.io/)
-* [Ghost](https://github.com/TryGhost/Ghost)
 * [Helm](https://helm.sh/) + [wrangler](https://github.com/cloudflare/wrangler)
 * [TensorFlow](https://www.tensorflow.org/)
 * [Yeoman](https://yeoman.io/)

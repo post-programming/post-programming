@@ -13,7 +13,7 @@
 > Sketch & draw.io Live Browser Object Model (BOM) for `Stitching 'Web Apps'`
 
 # Influence
-## Why Babel?
+### Why Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Trasformations
 
 # Usage

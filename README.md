@@ -47,6 +47,8 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 * [VS Code](https://code.visualstudio.com/)
 
 # Yo-Yo Talk
+### Again, What it does?
+It automatically generates full-fledged Web/Mobile Apps with ML/AI, employing best cutting-edge technologies from developer's landscape to significantly reduce programming work and turnaround time. 
 
 ### Why it uses Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations

@@ -10,7 +10,7 @@
 </p>
 
 
-> Sketch & draw.io Live Browser Object Model (BOM) for `Stitching 'Web Apps'`
+> Sketch & draw.io `Schemas and Plans` for `Stitching 'Web Apps'`
 
 # Influence
 ### Why Babel?

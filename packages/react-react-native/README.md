@@ -22,7 +22,7 @@
 * Represents Modern Base of Native UI/UX 
 
 ### Principle of Superposition
-* Alibaba Ant React and React Native are higher order fragmentations for same compositions
+* Alibaba Ant React and React Native are higher order fragmentations for same compositions to an outsider
 
 # Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

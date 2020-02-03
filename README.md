@@ -42,7 +42,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 
 # Yo-Yo Talk
 ### Again, What it does?
-It automatically generates full-fledged Web/Mobile Apps with latest ML/AI, employing best of cutting-edge technologies such as React, React Native, Node.js, Tensorflow, Google AI etc. from developer's landscape to significantly reduce programming work and turnaround time. 
+It automatically generates full-fledged Web/Mobile Apps with latest ML/AI, employing best of cutting-edge technologies such as React, React Native, Node.js, Tensorflow, Google AI etc. from to significantly reduce programming work and turnaround time. 
 
 ### Why it uses Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations

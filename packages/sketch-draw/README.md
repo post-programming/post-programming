@@ -13,8 +13,7 @@
 > Sketch & draw.io `Gatsby Schemas and Strapi Plans` for `Stitching 'Web Apps'`
 
 # Influence
-### Why Babel?
-Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Trasformations
+
 
 # Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

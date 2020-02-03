@@ -9,7 +9,7 @@
   </a>
 </p>
 
- > Gatsby Plugin: `Alibaba Ant World & Sketch Auto-Codegen` To Focus On Design Changes 
+ > `Gatsby & Alibaba Ant World` For Sketch & React-Native Auto-Codegen 
 
 ### 🏠 [Homepage](https://github.com/paxos-raft/paxos-raft/tree/master/packages/gatsby-ant#readme)
 

@@ -46,7 +46,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 * [JupyterLab](https://jupyter.org/)
 * [VS Code](https://code.visualstudio.com/)
 
-# Yo-Yo Unraveling
+# Yo-Yo Talk
 
 ### Why Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations

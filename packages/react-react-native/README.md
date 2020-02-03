@@ -23,6 +23,7 @@
 
 ### Principle of Superposition
 * Alibaba Ant React and React Native are higher order fragmentations spitting similiar compositions to an outsider
+* From aspects of Developer Flexibility, they are necessary evils
 
 # Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

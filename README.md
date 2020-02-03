@@ -42,7 +42,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 
 # Yo-Yo Talk
 ### Again, What it does?
-It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI on Cheapest Cloud Computing`,<br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow, Google AI etc. <br/> to erode programming work and turnaround time. 
+It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI on Cheapest Cloud Computing`,<br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 
 
 ### How to Install?
 * [Sketch](https://www.sketch.com/)
@@ -65,7 +65,7 @@ Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Tra
 * [Strapi](https://strapi.io/)
 * [Ghost](https://github.com/TryGhost/Ghost)
 * [Helm](https://helm.sh/) + [wrangler](https://github.com/cloudflare/wrangler)
-* [TensorFlow](https://www.tensorflow.org/)
+* [TensorFlow](https://www.tensorflow.org/) + [Google AI](https://ai.google/)
 * [Yeoman](https://yeoman.io/)
 * [Dark Reader](https://darkreader.org/)
 

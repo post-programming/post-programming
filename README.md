@@ -37,7 +37,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 
 # Gist
 * Install: `'paxos-raft' as plugins/extensions on local instances of Sketch, draw.io, JupyterLab, or VS Code`
-* Export: `Automation of Programmer as npm packages`
+* Export: `Programmer Repeat as npm packages`
 * UX: `Automated Read-Write-Containers` Integrating `Supported Development Platforms Workflow Side Chains`
 
 ### Supported Platforms

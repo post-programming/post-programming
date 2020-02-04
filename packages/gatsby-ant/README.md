@@ -15,7 +15,7 @@
 ### 🏠 [Homepage](https://github.com/paxos-raft/paxos-raft/tree/master/packages/gatsby-ant#readme)
 
 # Influence
-## Why Not CSS-in-JS and How much CSS-in-JS<a href="https://github.com/phuoc-ng/csslayout" target="_blank"><sup>1</sup></a>
+### Why Not CSS-in-JS and How much CSS-in-JS<a href="https://github.com/phuoc-ng/csslayout" target="_blank"><sup>1</sup></a>
 
 Let's `declare` that CSS-in-JS is another Systematic Fraud of Monkey Patchers Who Would Take Pride in Lines of Code and their Typing Speed while `Mutating Business Models`, just as `Compositional Design Patterns`.
 
@@ -25,7 +25,7 @@ The reasons being:
 * `Treeshaking`, `Code-Splitting`, & regular `Lighthouse` auditing
 * [Web Trends](https://httparchive.org/reports/page-weight)
 
-## Gatsby and Ant Alibaba Ecosystem VS Competitors!
+### Gatsby and Ant Alibaba Ecosystem VS Competitors!
 
 Let `==` denote `abstract homomorphism of functors i.e. mathematical identity` 
 

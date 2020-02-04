@@ -4,8 +4,7 @@
   "description": "draw.io's Cloud Computing Metaprogramming",
   "keywords": [
     "draw.io",
-    "cloud",
-    "computing"
+    "cloud computing"
   ],
   "author": "Prateek Rastogi",
   "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-cloud-computing#readme",

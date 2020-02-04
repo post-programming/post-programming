@@ -1,7 +1,7 @@
 {
     "name": "draw-jupyter",
     "version": "0.0.10-alpha.30",
-    "description": "draw.io's JupyterLab Metaprogramming",
+    "description": "draw.io JupyterLab Metaprogramming",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-jupyter#readme",
     "license": "ISC",

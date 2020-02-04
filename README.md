@@ -9,7 +9,7 @@
   </a>
 </p>
 
- > `Developer Automata`: __Elucidations & Modulations__ ~~of Technical Docs and Code Reuse~~ 
+ > `Developer Automata`: __Exploitation__ ~~of Developer's Technical/Programming/Environment~~ __Sphere__  
 
 ### 🏠 [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 

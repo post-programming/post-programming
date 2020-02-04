@@ -17,8 +17,8 @@
 * Permits draw.io Diagrams to code collapse general purpose cloud computing
 
 ### Can you Babel this?
-* draw.io Live Browser Object Model (BOM) 
-* Helm and wrangler command line utilities Browser Object Model (BOM)   
+* draw.io dynamic Browser Object Model (BOM) 
+* Helm and wrangler command line calls static Browser Object Model (BOM)   
 * Interconnections between them are then mapped
 
 # Usage

@@ -14,7 +14,7 @@
 
 # Influence
 ### What's Inside?
-* Sketch and draw.io Live Document Object Model (DOM) construed via Babel
+* Sketch and draw.io Live Browser Object Model (BOM) construed via Babel
 * Gatsby projects generation connectors for Sketch, and Strapi projects generation connectors for draw.io
 
 # Usage

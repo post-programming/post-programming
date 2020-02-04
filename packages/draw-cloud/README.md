@@ -16,7 +16,7 @@
 ### Why this?
 * Permits draw.io Diagrams to code collapse general purpose cloud computing
 
-### Can you Babel this?
+### How you Babel this?
 * draw.io Live Browser Object Model (BOM) 
 * Helm and wrangler command line utilities Browser Object Model (BOM)   
 * Interconnections between them are then mapped

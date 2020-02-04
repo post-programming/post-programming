@@ -18,7 +18,7 @@
 
 ### Can you Babel this?
 * draw.io dynamic Browser Object Model (BOM) 
-* Helm and wrangler command line calls static Browser Object Model (BOM)   
+* Helm and wrangler command line APIs static Browser Object Model (BOM)   
 * Interconnections between them are then mapped
 
 # Usage

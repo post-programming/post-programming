@@ -29,7 +29,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/Support%20backpropagation%20through%20unfold%20and%20recurse%20%C2%B7%20Issue%20%2379%20%C2%B7%20probcomp%20Gen.png">2</a> ->
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/How%20can%20we%20use%20Gen%20for%20facial%20recognition%20%C2%B7%20Issue%20%23179%20%C2%B7%20probcomp%20Gen.png">3</a> ->
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/Compatibility%20with%20torchtext%20%C2%B7%20Issue%20%2369%20%C2%B7%20huggingface%20tokenizers.png">4</a> ->
-  <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/Ending%20Notes%20Suggestions%20%C2%B7%20Issue%20%2330%20%C2%B7%20iamtrask%20Grokking-Deep-Learning.png">5</a> ->
+  <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/r%20programming.png">5</a> ->
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/%5BFeature%20Request%5D%20drawio-observer-iframe%20%C2%B7%20Issue%20%23715%20%C2%B7%20jgraph%20drawio.png">6</a> ♻
   <br><br>
   <img src="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/recycle.gif">

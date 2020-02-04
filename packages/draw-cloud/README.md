@@ -16,10 +16,10 @@
 ### Why this?
 * Permits draw.io Diagrams to code collapse general purpose cloud computing
 
-### How this?
+### How this with Babel?
 * draw.io Live Browser Object Model (BOM) 
 * Helm and wrangler command line utilities Browser Object Model (BOM)   
-* Interconnections between them are mapped with Babel
+* Interconnections between them are then mapped
 
 # Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

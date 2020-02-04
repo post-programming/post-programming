@@ -19,7 +19,7 @@
 ### Can you Babel this?
 * draw.io dynamic Browser Object Model (BOM) 
 * Helm and wrangler command line APIs static Browser Object Model (BOM)   
-* Interconnections between them are then mapped
+* Babel-To-Shell Scripts Mapping, resulting code collapse
 
 # Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

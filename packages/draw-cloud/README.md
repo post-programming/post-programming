@@ -17,8 +17,8 @@
 * Permits draw.io Diagrams to code collapse general purpose cloud computing
 
 ### Can you Babel this?
-* draw.io dynamic Browser Object Model (BOM) 
-* Helm and wrangler command line APIs static Browser Object Model (BOM)   
+* draw.io dynamic Browser Object Model (BOM) in Babel
+* Helm and wrangler command line APIs static Browser Object Model (BOM) in Babel   
 * Babel-To-Shell Scripts Mapping
 
 # Usage

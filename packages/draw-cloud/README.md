@@ -13,7 +13,7 @@
 > draw.io's Cloud Computing Layout
 
 # Influence
-### Why this?
+### What it does?
 * Permits draw.io Diagrams to code collapse general purpose cloud computing
 
 ### Can you Babel this?

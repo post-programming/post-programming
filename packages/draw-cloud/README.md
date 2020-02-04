@@ -10,9 +10,16 @@
 </p>
 
 
-> draw.io's Cloud Computing Metaprogramming
+> draw.io's Cloud Computing Layout
 
 # Influence
+### Why this?
+* Permits draw.io Diagrams to code collapse general purpose cloud computing
+
+### How this?
+* draw.io Live Browser Object Model (BOM) 
+* Helm and wrangler command line utilities Browser Object Model (BOM)   
+* Interconnections between them are mapped with Babel
 
 # Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

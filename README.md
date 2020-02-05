@@ -1,6 +1,6 @@
 <h1 align="center">paxos-raft </h1>
 
-####  `🗣 Developer Automata`: __Exploitation__ ~~of Developer's Intellectual Technical/Programming/Environment~~ __Sphere__  
+> `🗣 Developer Automata`: __Exploitation__ ~~of Developer's Intellectual Technical/Programming/Environment~~ __Sphere__  
 
 ### 🏠 [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 

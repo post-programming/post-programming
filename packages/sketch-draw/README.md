@@ -12,11 +12,11 @@
 
 > `Sketch Schemas & draw.io Plans` for `Stitching 'Web Apps'`
 
-# Influence
+## Influence
 ### What's Inside?
 * Sketch and draw.io Live Browser Object Model (BOM) construed via Babel
 * Gatsby projects generation connectors for Sketch, and Strapi projects generation connectors for draw.io
 
-# Usage
+## Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)
 

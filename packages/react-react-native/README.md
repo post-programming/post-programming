@@ -11,7 +11,7 @@
 
 > SourceMap Functional React To Standard React Native
 
-# Influence
+## Influence
 
 ### Why Alibaba Ant React Foundation<a href="https://github.com/paxos-raft/paxos-raft/tree/master/packages/gatsby-ant" target="_blank"><sup>?</sup></a> 
 * Broadest set of UI Elements for Frontend Engineering
@@ -26,6 +26,6 @@
 * From aspects of Developer Flexibility, they are Bipolar Evils
 * `React ridicules React Native` with Ecosystem Superpowers<a href="https://trends.google.com/trends/explore?q=React,React%20Native" target="_blank"><sup>2</sup></a>
 
-# Usage
+## Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)
 

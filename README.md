@@ -1,4 +1,4 @@
-<h1 align="center">paxos-raft </h1>
+<h1 align="center" style="color:green;font-size:300%">paxos-raft </h1>
 
 > `🗣 Developer Automata`: __Exploitation__ ~~of Developer's Intellectual Technical/Programming/Environment~~ __Sphere__  
 

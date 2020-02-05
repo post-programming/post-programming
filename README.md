@@ -4,7 +4,7 @@
 
 ### 🏠 [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 
-# Motivation
+## Motivation
 
 > 'Automata create Static Affect' on `Field` e.g. Car i.e. E = mc<sup>2</sup>
 
@@ -26,12 +26,12 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
   <img src="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/docs/originations/recycle.gif">
 </p>
 
-# Gist
+## Gist
 * Install: `'paxos-raft' as plugins/extensions on local instances of Sketch, draw.io, JupyterLab, or VS Code`
 * Export: `Programmer Jobs/Tasks as npm packages`
 * UX: `Automated Read-Write-Containers` Integrating `Developer Workflow BlockChains/SideChains`
 
-# Yo-Yo Talk
+## Yo-Yo Talk
 ### Again, What it does?
 It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing`, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 
 

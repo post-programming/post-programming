@@ -1,13 +1,4 @@
 <h1 align="center">paxos-raft </h1>
-<p align="center">
-<a href="https://www.npmjs.com/package/paxos-raft"><img src="https://badge.fury.io/js/paxos-raft.svg" alt="npm version" height="18"></a>
-  <a href="https://github.com/paxos-raft/paxos-raft#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-yellow.svg" />
-  </a>
-  <a href="https://github.com/paxos-raft/paxos-raft/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-darkviolet.svg" />
-  </a>
-</p>
 
  > `🗣 Developer Automata`: __Exploitation__ ~~of Developer's Intellectual Technical/Programming/Environment~~ __Sphere__  
 
@@ -99,4 +90,15 @@ Give your ⭐️ if this project helped you
 ### License
 
 This project is [ISC](https://en.wikipedia.org/wiki/ISC_license) licensed 📝
+
+<p align="center">
+<a href="https://www.npmjs.com/package/paxos-raft"><img src="https://badge.fury.io/js/paxos-raft.svg" alt="npm version" height="18"></a>
+  <a href="https://github.com/paxos-raft/paxos-raft#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-yellow.svg" />
+  </a>
+  <a href="https://github.com/paxos-raft/paxos-raft/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-darkviolet.svg" />
+  </a>
+</p>
+
 

@@ -89,7 +89,7 @@ Give your ⭐️ if this project helped you
 
 ### License
 
-PARC Xerox 📝
+Xerox PARC 📝
 
 <p align="center">
 <a href="https://www.npmjs.com/package/paxos-raft"><img src="https://badge.fury.io/js/paxos-raft.svg" alt="npm version" height="18"></a>

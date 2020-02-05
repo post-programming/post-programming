@@ -1,6 +1,6 @@
 {
   "name": "react-react-native",
-  "version": "0.0.10-alpha.30",
+  "version": "0.0.10",
   "description": "SourceMap Functional React To Standard React Native",
   "keywords": [
     "react",

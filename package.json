@@ -1,6 +1,6 @@
 {
     "name": "paxos-raft",
-    "description": "Developer Automata: Exploitation of Developer's Intellectual Technical/Programming/Environment Sphere",
+    "description": "🗣 Developer Automata: Exploitation of Developer's Intellectual Technical/Programming/Environment Sphere",
     "bin": "index.js",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",

@@ -1,5 +1,5 @@
 <h1 align="center">paxos-raft </h1>
-<p>
+<p align="center">
 <a href="https://www.npmjs.com/package/paxos-raft"><img src="https://badge.fury.io/js/paxos-raft.svg" alt="npm version" height="18"></a>
   <a href="https://github.com/paxos-raft/paxos-raft#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-yellow.svg" />
@@ -45,6 +45,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing`, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 
 
 ### How to Install?
+<p align="center">
   <a href="https://www.sketch.com/" target="_blank">
     <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-yellow.svg" height="36" />
   </a>
@@ -57,6 +58,7 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-darkred.svg" height="36" />
   </a>
+  </p>
   
 ### Why it uses Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations

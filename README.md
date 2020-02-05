@@ -1,5 +1,5 @@
 <h1 align="center">paxos-raft </h1>
-<p>
+<p align="center">
 <a href="https://www.npmjs.com/package/paxos-raft"><img src="https://badge.fury.io/js/paxos-raft.svg" alt="npm version" height="18"></a>
   <a href="https://github.com/paxos-raft/paxos-raft#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-yellow.svg" />

@@ -89,7 +89,7 @@ Give your ⭐️ if this project helped you
 
 ### License
 
-This project is [ISC](https://en.wikipedia.org/wiki/ISC_license) licensed 📝
+PAARC Xerox 📝
 
 <p align="center">
 <a href="https://www.npmjs.com/package/paxos-raft"><img src="https://badge.fury.io/js/paxos-raft.svg" alt="npm version" height="18"></a>

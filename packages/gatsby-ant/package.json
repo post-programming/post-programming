@@ -8,7 +8,7 @@
         "url": "git+https://github.com/paxos-raft/paxos-raft/tree/master/packages/gatsby-ant.git"
     },
     "author": "Prateek Rastogi",
-    "license": "ISC",
+    "license": "Xerox PARC",
     "bugs": {
         "url": "https://github.com/paxos-raft/paxos-raft/issues"
     },

@@ -1,15 +1,15 @@
 {
-  "name": "draw-cloud",
+  "name": "draw-map",
   "version": "0.0.10",
-  "description": "draw.io's Cloud Computing Layout",
+  "description": "draw.io JSON Mapper",
   "keywords": [
     "draw.io",
-    "cloud computing"
+    "json"
   ],
   "author": "Prateek Rastogi",
-  "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-cloud-computing#readme",
+  "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-map#readme",
   "license": "Xerox PARC",
-  "main": "lib/draw-cloud.js",
+  "main": "lib/draw-map.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/prateekrastogi/paxos-raft.git"

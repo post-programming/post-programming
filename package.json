@@ -4,7 +4,7 @@
     "bin": "index.js",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",
-    "license": "ISC",
+    "license": "Xerox PARC",
     "version": "0.0.10",
     "scripts": {
         "lint": "standard packages/**/**/*.js --fix",

@@ -8,7 +8,7 @@
   ],
   "author": "Prateek Rastogi",
   "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/react-react-native#readme",
-  "license": "ISC",
+  "license": "Xerox PARC",
   "main": "lib/react-react-native.js",
   "repository": {
     "type": "git",

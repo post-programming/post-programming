@@ -4,7 +4,7 @@
     "description": "Sketch Schemas & draw.io Plans for Stitching Web Apps",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/sketch-draw#readme",
-    "license": "ISC",
+    "license": "Xerox PARC",
     "main": "lib/sketch-draw.js",
     "repository": {
         "type": "git",

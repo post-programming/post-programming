@@ -12,7 +12,7 @@
 
 > draw.io's Cloud Computing Layout
 
-# Influence
+## Influence
 ### What it does?
 * Permits draw.io Diagrams to code collapse general purpose cloud computing
 
@@ -21,5 +21,5 @@
 * Helm and wrangler command line APIs static Browser Object Model (BOM) in Babel   
 * Babel-To-Shell Scripts Mapping
 
-# Usage
+## Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

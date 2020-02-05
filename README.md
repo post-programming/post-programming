@@ -31,6 +31,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/Compatibility%20with%20torchtext%20%C2%B7%20Issue%20%2369%20%C2%B7%20huggingface%20tokenizers.png"><img alt="4" src="https://img.shields.io/badge/4-darkgreen.svg" /></a>
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/r%20programming.png"><img alt="5" src="https://img.shields.io/badge/5-violet.svg" /></a>
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/%5BFeature%20Request%5D%20drawio-observer-iframe%20%C2%B7%20Issue%20%23715%20%C2%B7%20jgraph%20drawio.png"><img alt="6" src="https://img.shields.io/badge/6-darkred.svg" /></a> 
+  <br/>
   <img src="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/recycle.gif">
 </p>
 

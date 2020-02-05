@@ -31,7 +31,6 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/Compatibility%20with%20torchtext%20%C2%B7%20Issue%20%2369%20%C2%B7%20huggingface%20tokenizers.png"><img alt="4" src="https://img.shields.io/badge/4-darkgreen.svg" /></a>
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/r%20programming.png"><img alt="5" src="https://img.shields.io/badge/5-violet.svg" /></a>
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/%5BFeature%20Request%5D%20drawio-observer-iframe%20%C2%B7%20Issue%20%23715%20%C2%B7%20jgraph%20drawio.png"><img alt="6" src="https://img.shields.io/badge/6-darkred.svg" /></a> 
-  <br><br>
   <img src="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/downloads/originations/recycle.gif">
 </p>
 
@@ -45,11 +44,19 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing`, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 
 
 ### How to Install?
-* [Sketch](https://www.sketch.com/)
-* [draw.io](https://github.com/fjudith/docker-draw.io)
-* [JupyterLab](https://jupyter.org/)
-* [VS Code](https://code.visualstudio.com/)
-
+  <a href="https://www.sketch.com/" target="_blank">
+    <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-yellow.svg" height="36" />
+  </a>
+  <a href="https://github.com/fjudith/docker-draw.io" target="_blank">
+    <img alt="Install on draw.io" src="https://img.shields.io/badge/draw.io-darkviolet.svg" height="36" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-blue.svg" height="36" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-darkred.svg" height="36" />
+  </a>
+  
 ### Why it uses Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations
 

@@ -14,7 +14,7 @@
 
 ## Influence
 ### Tell me its internals?
-* It uses RxJS for establishing `map(JSON)` criterions
+* It authorizes using RxJS for establishing `map(JSON)` criterions
 
 ## Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

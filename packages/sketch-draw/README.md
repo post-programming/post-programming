@@ -15,7 +15,8 @@
 ## Influence
 ### What's Inside?
 * Sketch and draw.io Live Browser Object Model (BOM) construed via Babel
-* Gatsby projects generation connectors for Sketch, and Strapi projects generation connectors for draw.io
+* Gatsby projects generation connectors for Sketch 'cross-connecting' Strapi projects generation connectors for draw.io 
+* Gatsby + Strapi resulting complete generation of 'asymmetric I/O'
 
 ## Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

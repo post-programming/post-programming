@@ -45,10 +45,10 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
     <img alt="Install on draw.io" src="https://img.shields.io/badge/draw.io-58007E.svg" height="36" />
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-blue.svg" height="36" />
+    <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-89CFF0.svg" height="36" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-darkred.svg" height="36" />
+    <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-722F37.svg" height="36" />
   </a>
   </p>
   

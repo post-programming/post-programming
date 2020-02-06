@@ -38,11 +38,11 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
 
 <h3 align="center">How to Install? </h3>
 <p align="center">
-  <a href="https://www.sketch.com/" target="_blank">
-    <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-FFD300.svg" height="36" />
-  </a>
   <a href="https://jupyter.org/" target="_blank">
     <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="36" />
+  </a>
+  <a href="https://www.sketch.com/" target="_blank">
+    <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-FFD300.svg" height="36" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-FF4F00.svg" height="36" />

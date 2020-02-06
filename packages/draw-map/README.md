@@ -14,7 +14,7 @@
 
 ## Influence
 ### Tell me its internals?
-* It is RxJS+Lodash for establishing `map(JSON)` criterions
+* It is RxJS + Lodash for establishing `map(JSON)` criterions graphically
 
 ## Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

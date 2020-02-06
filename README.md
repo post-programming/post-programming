@@ -39,10 +39,10 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
 <h3 align="center">How to Install? </h3>
 <p align="center">
   <a href="https://www.sketch.com/" target="_blank">
-    <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-FFBF00.svg" height="36" />
+    <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-FFD300.svg" height="36" />
   </a>
   <a href="https://github.com/fjudith/docker-draw.io" target="_blank">
-    <img alt="Install on draw.io" src="https://img.shields.io/badge/draw.io-58007E.svg" height="36" />
+    <img alt="Install on draw.io" src="https://img.shields.io/badge/draw.io-7F00FF.svg" height="36" />
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-89CFF0.svg" height="36" />

@@ -42,7 +42,7 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
     <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-FFBF00.svg" height="36" />
   </a>
   <a href="https://github.com/fjudith/docker-draw.io" target="_blank">
-    <img alt="Install on draw.io" src="https://img.shields.io/badge/draw.io-darkviolet.svg" height="36" />
+    <img alt="Install on draw.io" src="https://img.shields.io/badge/draw.io-58007E.svg" height="36" />
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-blue.svg" height="36" />

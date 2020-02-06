@@ -75,10 +75,15 @@ Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Tra
 ### Contributing
 
 Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcome <br />
+<p>
+  <a href="https://github.com/prateekrastogi" target="_blank">
+  <img alt="Prateek Rastogi" src="https://avatars0.githubusercontent.com/u/14788991?s=460&v=4" height="36"/>
+  </a>
+  <a href="https://github.com/asymmetrickal" target="_blank">
+  <img alt="Verónica Juderías" src="https://avatars3.githubusercontent.com/u/53858466?s=460&v=4" height="36"/>
+  </a>
+  </p>
 
-👤 **Prateek Rastogi**
-
-* Github: [@prateekrastogi](https://github.com/prateekrastogi)
 
 ### Show your support
 

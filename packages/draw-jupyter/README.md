@@ -16,7 +16,7 @@
 * Babel Resurrected State TreeMap
 
 ### For What?
-* Enabling draw.io mappings for JupyterLab Files, and JupyterLab mappings for draw.io Diagrams
+* AutoML draw.io and JupyterLab
 
 ## Usage
 ### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)

@@ -50,6 +50,10 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-FF4F00.svg" height="36" />
   </a>
+  <br/>
+  <a href="https://github.com/paxos-raft/paxos-raft/blob/master/docs/TROUBLESHOOT.md" target="_blank">
+    Troubleshoot?
+  </a
   </p>
   
 ### Why it uses Babel?

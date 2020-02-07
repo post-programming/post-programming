@@ -16,7 +16,7 @@ Mathematical Induction: The ethereal natures of Automata can be described by Hom
 So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's Law":<br/>
 
 <p align="center"> 
-
+<br/>
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/docs/originations/r%20programming.png"><img alt="5" src="https://img.shields.io/badge/5-violet.svg" /></a>
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/docs/originations/Support%20backpropagation%20through%20unfold%20and%20recurse%20%C2%B7%20Issue%20%2379%20%C2%B7%20probcomp%20Gen.png"><img alt="2" src="https://img.shields.io/badge/2-blue.svg" /></a> 
   <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/docs/originations/How%20can%20we%20use%20Gen%20for%20facial%20recognition%20%C2%B7%20Issue%20%23179%20%C2%B7%20probcomp%20Gen.png"><img alt="3" src="https://img.shields.io/badge/3-orange.svg" /></a>

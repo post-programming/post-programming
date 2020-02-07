@@ -39,16 +39,16 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
 <h3 align="center">How to Install? </h3>
 <p align="center">
   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="36" />
+    <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="40" />
   </a>
   <a href="https://github.com/fjudith/docker-draw.io" target="_blank">
-    <img alt="Install on draw.io" src="https://img.shields.io/badge/draw.io-4C2882.svg" height="36" />
+    <img alt="Install on draw.io" src="https://img.shields.io/badge/draw.io-4C2882.svg" height="40" />
   </a>
   <a href="https://www.sketch.com/" target="_blank">
-    <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-FFD300.svg" height="36" />
+    <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-FFD300.svg" height="40" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-FF4F00.svg" height="36" />
+    <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-FF4F00.svg" height="40" />
   </a>
   <br/>
   <a href="https://github.com/paxos-raft/paxos-raft/blob/master/docs/TROUBLESHOOT.md" target="_blank">
@@ -123,7 +123,9 @@ Give your ⭐️ if this project helped you
 Xerox PARC 📝
 
 <p align="center">
-<a href="https://www.npmjs.com/package/paxos-raft"><img src="https://badge.fury.io/js/paxos-raft.svg" alt="npm version"></a>
+<a href="https://www.npmjs.com/package/paxos-raft">
+  <img src="https://badge.fury.io/js/paxos-raft.svg" alt="npm version"/>
+  </a>
   <a href="https://github.com/paxos-raft/paxos-raft#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-darkviolet.svg" />
   </a>

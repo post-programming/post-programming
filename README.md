@@ -59,6 +59,18 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
 ### Why it uses Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations
 
+### Can you 420 blaze it w.r.t modern alternatives?
+#### Web/App Development 
+It automates every aspect of web/app developers occupation 
+
+#### Cloud Computing
+It reduces cost of devops computing to zero and generates cloud deployment graphs
+
+#### Business Intelligence (BI) 
+Traditional BI softwares are vendor-locked and domain-locked, guided by domain-driven design, whereas it unlocks a <br/> BI Tool i.e. draw.io for exposing asynchronous domain-agnostic Turing complete mathematics to non-programmers/partial-programmers 
+
+#### Artificial Intelligence/Machine Learning
+
 ### What are its Base Packages?
 * [draw-map](https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-map)
 * [sketch-draw](https://github.com/paxos-raft/paxos-raft/tree/master/packages/sketch-draw)

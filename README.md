@@ -60,6 +60,12 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations
 
 ### Why so much indulgence in core BI?
+* BI is widely recognized in Banking/Financial Industries
+* It has been the core of domains such as Analytics and Business Process Management 
+* Whole corporations such as SAP can be described as BI Firms
+* The origins of Big Data/ETL i.e. ML/AI Pipelines is traced to BI World
+
+In simple words, maturations and abstractions of domain-specific automations are BI Softwares and BI Notations 
 
 ### Can you 420 blaze it w.r.t modern alternatives?
 #### Web/App Development 

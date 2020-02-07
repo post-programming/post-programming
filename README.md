@@ -59,6 +59,8 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
 ### Why it uses Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations
 
+### Why so much indulgence in core BI?
+
 ### Can you 420 blaze it w.r.t modern alternatives?
 #### Web/App Development 
 It automates every aspect of web/app developers occupation 

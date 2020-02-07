@@ -64,7 +64,7 @@ Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Tra
 It automates every aspect of web/app developers occupation 
 
 #### Cloud Computing
-It reduces cost of devops computing to zero and generates cloud deployment graphs
+It reduces cost of devops to zero and generates zero-cost cloud computing deployment graphs
 
 #### Business Intelligence (BI) 
 Traditional BI softwares are vendor-locked and domain-locked, guided by domain-driven design, whereas it unlocks a <br/> BI Tool i.e. draw.io for exposing asynchronous domain-agnostic Turing complete mathematics to non-programmers/partial-programmers 

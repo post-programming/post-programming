@@ -59,7 +59,7 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
 ### Why it uses Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations
 
-### Why so much indulgence in core BI?
+### Why so much indulgence in BI?
 * BI is widely recognized in Banking/Financial Industries
 * It has been the core of professions such as Analytics and Business Process Management 
 * Whole corporations such as SAP can be described as BI Firms

@@ -61,7 +61,7 @@ Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Tra
 
 ### Why so much indulgence in core BI?
 * BI is widely recognized in Banking/Financial Industries
-* It has been the core of domains such as Analytics and Business Process Management 
+* It has been the core of professions such as Analytics and Business Process Management 
 * Whole corporations such as SAP can be described as BI Firms
 * The origins of Big Data/ETL i.e. ML/AI Pipelines is traced to BI World
 

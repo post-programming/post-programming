@@ -6,6 +6,26 @@
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",
     "license": "Xerox PARC",
     "version": "0.0.14",
+    "publisher": "paxos-raft",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "activationEvents": [
+        "onCommand:extension.init",
+        "workspaceContains:**/.paxos-raft-trigger-template-files"
+    ],
+    "main": "lib/vscode/extension.js",
+    "contributes": {
+        "commands": [
+            {
+                "command": "extension.init",
+                "title": "paxos-raft: Exploitation Sphere"
+            }
+        ]
+    },
     "scripts": {
         "lint": "standard packages/**/**/*.js --fix",
         "lerna:bootstrap": "lerna bootstrap",

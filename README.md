@@ -1,6 +1,6 @@
 <h1 align="center">paxos-raft </h1>
 
-<h2> Cast Automata Spheres </h2> 
+> Cast Automata Spheres
 
 ### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 

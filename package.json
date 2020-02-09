@@ -25,15 +25,15 @@
         "commands": [
             {
                 "command": "extension.web",
-                "title": "paxos-raft: Render Web/App Developer"
+                "title": "paxos-raft: Cast Web/App Developer"
             },
             {
                 "command": "extension.ai",
-                "title": "paxos-raft: Render ML/AI Developer"
+                "title": "paxos-raft: Cast ML/AI Developer"
             },
             {
                 "command": "extension.cloud",
-                "title": "paxos-raft: Render Cloud Computing Developer"
+                "title": "paxos-raft: Cast Cloud Computing Developer"
             }
         ]
     },

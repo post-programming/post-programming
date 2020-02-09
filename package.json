@@ -8,7 +8,8 @@
     "version": "0.0.14",
     "publisher": "paxos-raft",
     "engines": {
-        "vscode": "^1.42.0"
+        "vscode": "^1.42.0",
+        "sketch": ">=49.0"
     },
     "categories": [
         "Extension Packs"
@@ -17,17 +18,21 @@
         "onCommand:extension.init",
         "workspaceContains:**/.paxos-raft-trigger-template-files"
     ],
-    "main": "lib/vscode/extension.js",
+    "main": "lib/vscode/vscode.js",
     "contributes": {
         "commands": [
             {
                 "command": "extension.init",
-                "title": "paxos-raft: Exploitation Sphere"
+                "title": "paxos-raft: Cast Automata Sphere"
             }
         ]
     },
     "scripts": {
         "lint": "standard packages/**/**/*.js --fix",
+        "skpm:build": "skpm-build",
+        "skpm:watch": "skpm-build --watch",
+        "skpm:start": "skpm-build --watch --run",
+        "skpm:postinstall": "npm run build && skpm-link",
         "lerna:bootstrap": "lerna bootstrap",
         "lerna:test": "lerna run test",
         "lerna:publish": "lerna version patch --yes && lerna publish from-package --yes"
@@ -41,7 +46,8 @@
     "devDependencies": {
         "husky": "^4.2.0",
         "lerna": "^3.20.2",
-        "standard": "^14.3.1"
+        "standard": "^14.3.1",
+        "@skpm/builder": "^0.7.0"
     },
     "keywords": [
         "Sketch",
@@ -56,10 +62,11 @@
     },
     "skpm": {
         "name": "paxos-raft",
-        "manifest": "lib/sketch/manifest.json",
-        "main": "paxos-raft.sketchplugin",
+        "manifest": "lib/sketch/src/manifest.json",
+        "main": "lib/sketch/paxos-raft.sketchplugin",
         "assets": [
             "lib/sketch/assets/**/*"
-        ]
+        ],
+        "sketch-assets-file": "lib/sketch/sketch-assets/icons.sketch"
     }
 }

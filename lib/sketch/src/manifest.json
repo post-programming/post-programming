@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Generate React & React Native Apps",
+      "identifier": "paxos-raft.init",
+      "shortcut": "ctrl shift r",
+      "script": "./sketch.js"
+    }
+  ],
+  "menu": {
+    "title": "paxos-raft",
+    "items": [
+      "paxos-raft.init"
+    ]
+  }
+}

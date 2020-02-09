@@ -1,0 +1,26 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Generate React & React Native Apps",
+      "identifier": "paxos-raft.init",
+      "shortcut": "ctrl shift r",
+      "script": "__sketch.js"
+    }
+  ],
+  "menu": {
+    "title": "paxos-raft",
+    "items": [
+      "paxos-raft.init"
+    ]
+  },
+  "version": "0.0.14",
+  "description": "🗣 Developer Automata: Exploitation of Developer's Intellectual Technical/Programming/Environment Sphere",
+  "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",
+  "name": "paxos-raft",
+  "identifier": "paxos-raft",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "author": "Prateek Rastogi"
+}

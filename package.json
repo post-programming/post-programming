@@ -60,6 +60,9 @@
         "@skpm/builder": "^0.7.0"
     },
     "keywords": [
+        "draw.io Plugin",
+        "Sketch Plugin",
+        "VS Code Extension",
         "jupyter",
         "jupyterlab",
         "jupyterlab-extension"

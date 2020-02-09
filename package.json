@@ -1,6 +1,6 @@
 {
     "name": "paxos-raft",
-    "description": "🗣 Developer Automata: Exploitation of Developer's Intellectual Technical/Programming/Environment Sphere",
+    "description": "Cast Automata Spheres",
     "bin": "index.js",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",
@@ -15,15 +15,25 @@
         "Extension Packs"
     ],
     "activationEvents": [
-        "onCommand:extension.init",
+        "onCommand:extension.web",
+        "onCommand:extension.ai",
+        "onCommand:extension.cloud",
         "workspaceContains:**/.paxos-raft-trigger-template-files"
     ],
     "main": "lib/vscode/vscode.js",
     "contributes": {
         "commands": [
             {
-                "command": "extension.init",
-                "title": "paxos-raft: Cast Automata Sphere"
+                "command": "extension.web",
+                "title": "paxos-raft: Render Web/App Developer"
+            },
+            {
+                "command": "extension.ai",
+                "title": "paxos-raft: Render ML/AI Developer"
+            },
+            {
+                "command": "extension.cloud",
+                "title": "paxos-raft: Render Cloud Computing Developer"
             }
         ]
     },

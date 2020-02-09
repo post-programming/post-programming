@@ -60,15 +60,12 @@
         "@skpm/builder": "^0.7.0"
     },
     "keywords": [
-        "Sketch",
-        "draw.io",
-        "VS Code",
         "jupyter",
         "jupyterlab",
         "jupyterlab-extension"
     ],
     "jupyterlab": {
-        "extension": "lib/jupyterlab"
+        "extension": "lib/jupyterlab/jupyterlab.js"
     },
     "skpm": {
         "name": "paxos-raft",

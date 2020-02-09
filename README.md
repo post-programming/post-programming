@@ -2,7 +2,7 @@
 
 > Cast Automata Spheres  
 
-### 🏠 [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
+### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 
 ## Motivation
 
@@ -120,7 +120,7 @@ Give your ⭐️ if this project helped you
 
 ### License
 
-Xerox PARC 📝
+Xerox PARC
 
 <p align="center">
 <a href="https://www.npmjs.com/package/paxos-raft">

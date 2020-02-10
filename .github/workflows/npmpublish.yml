@@ -36,7 +36,9 @@ jobs:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
 
       - name: Publish on npm
+        run: npm run skpm:publish
         run: npm run lerna:publish
+        
 
       - name: Publish on VS Code Marketplace
         uses: lannonbr/vsce-action@master

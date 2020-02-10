@@ -35,7 +35,7 @@ jobs:
         env:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
 
-      - name: Publish
+      - name: Publish on npm
         run: npm run lerna:publish
 
       - name: Publish on VS Code Marketplace

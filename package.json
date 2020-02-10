@@ -7,6 +7,10 @@
     "license": "Xerox PARC",
     "version": "0.0.16",
     "publisher": "paxos-raft",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/paxos-raft/paxos-raft.git"
+    },
     "engines": {
         "vscode": "^1.42.0",
         "sketch": ">=49.0"

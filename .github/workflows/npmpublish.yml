@@ -41,7 +41,7 @@ jobs:
       - name: Publish on VS Code Marketplace
         run: |
           npm i -g vsce
-          vsce publish -p $VSCE_TOKEN patch >> .npmrc
+          vsce publish -p $VSCE_TOKEN patch || true
         env:
           VSCE_TOKEN: ${{secrets.vsce_token}}
   

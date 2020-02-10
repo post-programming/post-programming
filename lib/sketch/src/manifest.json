@@ -1,6 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
   "icon": "icon.png",
+  "appcast": "https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/lib/sketch/.appcast.xml",
   "commands": [
     {
       "name": "Generate React & React Native Apps",

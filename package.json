@@ -5,7 +5,7 @@
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",
     "license": "Xerox PARC",
-    "version": "0.0.14",
+    "version": "0.0.15",
     "publisher": "paxos-raft",
     "engines": {
         "vscode": "^1.42.0",
@@ -54,10 +54,10 @@
         }
     },
     "devDependencies": {
+        "@skpm/builder": "^0.7.0",
         "husky": "^4.2.0",
         "lerna": "^3.20.2",
-        "standard": "^14.3.1",
-        "@skpm/builder": "^0.7.0"
+        "standard": "^14.3.1"
     },
     "keywords": [
         "draw.io Plugin",

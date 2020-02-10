@@ -13,6 +13,7 @@ jobs:
       - run: npm ci
       - run: npm run lerna:bootstrap 
       - run: npm run lerna:test
+      - run: npm i -g skpm
        
       - name: Authenticate with Git 
         run: |
@@ -36,7 +37,7 @@ jobs:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
 
       - name: Publish on Sketch
-        run: npm run skpm:publish
+        run: npm run skpm login GITHUB_SKETCH
         env:
           GITHUB_SKETCH: ${{secrets.github_sketch}}
 

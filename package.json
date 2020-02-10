@@ -47,7 +47,7 @@
         "skpm:watch": "skpm-build --watch",
         "skpm:start": "skpm-build --watch --run",
         "skpm:postinstall": "npm run build && skpm-link",
-        "skpm:publish": "skpm login GIT_AUTH_TOKEN",
+        "skpm:publish": "skpm login GITHUB_SKETCH",
         "lerna:bootstrap": "lerna bootstrap",
         "lerna:test": "lerna run test",
         "lerna:publish": "lerna version patch --yes && lerna publish from-package --yes"

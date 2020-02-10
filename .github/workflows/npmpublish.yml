@@ -35,12 +35,12 @@ jobs:
         env:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
 
+      - name: Publish on npm
+        run: npm run lerna:publish
+
       - name: Publish on VS Code Marketplace
         uses: lannonbr/vsce-action@master
         with:
           args: "publish -p $VSCE_TOKEN patch" 
         env:
           VSCE_TOKEN: ${{secrets.vsce_token}}
-          
-      - name: Publish on npm
-        run: npm run lerna:publish

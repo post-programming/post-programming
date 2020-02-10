@@ -41,6 +41,6 @@ jobs:
       - name: Publish on VS Code Marketplace
         uses: lannonbr/vsce-action@master
         with:
-          args: "publish -p $VSCE_TOKEN" 
+          args: "publish -p $VSCE_TOKEN patch" 
         env:
           VSCE_TOKEN: ${{secrets.vsce_token}}

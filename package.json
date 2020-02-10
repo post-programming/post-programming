@@ -6,6 +6,7 @@
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",
     "license": "Xerox PARC",
     "version": "0.0.27",
+    "icon": "lib/vscode/icon.png",
     "publisher": "paxos-raft",
     "repository": {
         "type": "git",

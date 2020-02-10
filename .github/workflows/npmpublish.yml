@@ -19,6 +19,7 @@ jobs:
           git config --global user.name $USER_NAME
           git config --global user.email $USER_EMAIL
           git remote set-url origin https://$GITHUB_ACTOR:$GIT_AUTH_TOKEN@github.com/paxos-raft/paxos-raft
+          npm run skpm:publish
         env:
           USER_EMAIL: ${{secrets.github_email}}
           USER_NAME: ${{secrets.github_user}}
@@ -34,9 +35,6 @@ jobs:
           npm whoami
         env:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
-
-      - name: Publish on Sketch
-        run: npm run skpm:publish
 
       - name: Publish on npm 
         run: npm run lerna:publish

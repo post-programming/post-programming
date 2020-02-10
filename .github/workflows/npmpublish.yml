@@ -38,7 +38,7 @@ jobs:
       - name: Publish on Sketch
         run: |
           npm i -g skpm
-          skpm login GITHUB_SKETCH
+          skpm login $GITHUB_SKETCH
         env:
           GITHUB_SKETCH: ${{secrets.github_sketch}}
 

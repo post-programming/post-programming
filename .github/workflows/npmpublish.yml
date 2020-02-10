@@ -39,7 +39,7 @@ jobs:
         run: npm run lerna:publish
 
       - name: Publish on VS Code Marketplace
-        uses: JCofman/vscodeaction@master
+        uses: lannonbr/vsce-action@master
         with:
           args: "publish -p $VSCE_TOKEN patch" 
         env:

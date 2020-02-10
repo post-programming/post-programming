@@ -39,6 +39,7 @@ jobs:
         run: |
           npm i -g skpm
           skpm login $GITHUB_SKETCH
+          skpm publish patch
         env:
           GITHUB_SKETCH: ${{secrets.github_sketch}}
 

@@ -47,7 +47,6 @@
         "skpm:watch": "skpm-build --watch",
         "skpm:start": "skpm-build --watch --run",
         "skpm:postinstall": "npm run build && skpm-link",
-        "skpm:publish": "skpm login $GITHUB_SKETCH",
         "lerna:bootstrap": "lerna bootstrap",
         "lerna:test": "lerna run test",
         "lerna:publish": "lerna version patch --yes && lerna publish from-package --yes"
@@ -62,7 +61,6 @@
         "@skpm/builder": "^0.7.0",
         "husky": "^4.2.0",
         "lerna": "^3.20.2",
-        "skpm": "^1.3.1",
         "standard": "^14.3.1"
     },
     "keywords": [

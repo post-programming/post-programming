@@ -41,6 +41,6 @@ jobs:
       - name: Publish on VS Code Marketplace
         uses: JCofman/vscodeaction@master
         with:
-          args: "publish patch -p $VSCE_TOKEN" 
+          args: "publish -p $VSCE_TOKEN patch" 
         env:
           VSCE_TOKEN: ${{secrets.vsce_token}}          

@@ -1,6 +1,6 @@
 {
     "name": "paxos-raft",
-    "description": "Cast Automata Spheres",
+    "description": "Post-Programming: Cast Automata Spheres",
     "bin": "index.js",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",

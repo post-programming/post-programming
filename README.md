@@ -53,10 +53,6 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-FF4F00.svg" height="40" />
   </a>
-  <br/>
-  <a href="https://github.com/paxos-raft/paxos-raft/blob/master/docs/TROUBLESHOOT.md" target="_blank">
-    Troubleshoot?
-  </a
   </p>
   
 ### Why it uses Babel?
@@ -83,6 +79,12 @@ Traditional BI softwares are vendor-locked and domain-locked, guided by domain-d
 #### Artificial Intelligence/Machine Learning
 Prophet, AutoML, JupyterLab, Google AI, Tensorflow Models, and Training Data on-click for Fortune 500 AI/ML Workloads
 
+### Help me with Troubleshoot
+<p> Help yourself with <a href="https://github.com/paxos-raft/paxos-raft/blob/master/docs/TROUBLESHOOT.md" target="_blank">
+    Troubleshoot
+  </a>
+ </p>
+
 ### What are its Base Packages?
 * [draw-map](https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-map)
 * [sketch-draw](https://github.com/paxos-raft/paxos-raft/tree/master/packages/sketch-draw)
@@ -102,7 +104,7 @@ Prophet, AutoML, JupyterLab, Google AI, Tensorflow Models, and Training Data on-
 
 ### Contributing
 
-Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are welcome <br />
+Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are wanted <br />
 <p>
   <a href="https://github.com/prateekrastogi" target="_blank">
   <img alt="Prateek Rastogi" src="https://avatars0.githubusercontent.com/u/14788991?s=460&v=4" height="36"/>

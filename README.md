@@ -47,11 +47,11 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
   <a href="https://www.npmjs.com/package/paxos-raft" target="_blank">
     <img alt="Install on npm" src="https://img.shields.io/badge/paxos--raft-960018.svg" height="40" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-FF4F00.svg" height="40" />
-  </a>
   <a href="https://www.sketch.com/" target="_blank">
     <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-FFD300.svg" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-FF4F00.svg" height="40" />
   </a>
   </p>
   

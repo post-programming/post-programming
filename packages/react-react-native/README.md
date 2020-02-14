@@ -28,6 +28,8 @@
 * From aspects of Developer Flexibility, they are Bipolar Evils
 * `React ridicules React Native` with Ecosystem Superpowers<a href="https://trends.google.com/trends/explore?q=React,React%20Native" target="_blank"><sup>2</sup></a>
 
-## Usage
-### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)
+## Installation
+```sh
+npm i paxos-raft
+```
 

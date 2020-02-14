@@ -16,5 +16,7 @@
 ### Tell me its internals?
 * It's RxJS + Lodash for establishing `map(JSON)` criterions graphically
 
-## Usage
-### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)
+## Installation
+```sh
+npm i paxos-raft
+```

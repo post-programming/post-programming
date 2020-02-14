@@ -18,5 +18,7 @@
 ### For What?
 * AutoML draw.io and JupyterLab
 
-## Usage
-### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)
+## Installation
+```sh
+npm i paxos-raft
+```

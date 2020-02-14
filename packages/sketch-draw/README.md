@@ -18,6 +18,8 @@
 * Gatsby projects generation connectors for Sketch 'cross-connecting' Strapi projects generation connectors for draw.io 
 * Gatsby + Strapi resulting complete generation of 'asymmetric I/O'
 
-## Usage
-### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)
+## Installation
+```sh
+npm i paxos-raft
+```
 

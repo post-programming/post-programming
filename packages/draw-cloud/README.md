@@ -21,5 +21,7 @@
 * draw.io dynamic Browser Object Model (BOM) in Babel
 * Babel-To-Shell Scripts Mapping
 
-## Usage
-### [paxos-raft](https://github.com/paxos-raft/paxos-raft#readme)
+## Installation
+```sh
+npm i paxos-raft
+```

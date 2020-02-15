@@ -1,8 +1,6 @@
 name: Node.js Package
 
-on:
-  schedule:
-    - cron:  '0 0 * * *'
+on: push
       
 jobs:
   deploy:
@@ -37,10 +35,13 @@ jobs:
         env:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
 
-      - name: Publish on npm 
-        run: |        
-          npm run lerna:publish          
-                  
+      - name: Publish on Sketch
+        run: |
+          npm i -g skpm
+          skpm publish patch --skip-registry || true
+        env:
+          GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
+          
       - name: Publish on VS Code Marketplace
         run: |
           npm i -g vsce
@@ -48,3 +49,6 @@ jobs:
         env:
           VSCE_TOKEN: ${{secrets.vsce_token}}
 
+      - name: Publish on npm 
+        run: |        
+          npm run lerna:publish          

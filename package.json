@@ -50,7 +50,7 @@
         "skpm:postinstall": "npm run build && skpm-link",
         "lerna:bootstrap": "lerna bootstrap",
         "lerna:test": "lerna run test",
-        "lerna:publish": "lerna version patch --yes && lerna publish from-package --yes"
+        "lerna:publish": "lerna version patch --yes --no-git-tag-version && lerna publish from-package --yes"
     },
     "husky": {
         "hooks": {

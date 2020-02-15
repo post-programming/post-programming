@@ -45,9 +45,14 @@ jobs:
       - name: Publish for Sketch
         run: |
           npm i -g skpm
+          git tag -l | xargs git tag -d
+          git tag -l | xargs -n 1 git push --delete origin
           skpm publish prepatch --skip-registry      
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
 
       - name: Publish on npm 
-        run: npm run lerna:publish
+        run: |
+          git tag -l | xargs git tag -d
+          git tag -l | xargs -n 1 git push --delete origin
+          npm run lerna:publish

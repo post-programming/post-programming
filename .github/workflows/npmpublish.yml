@@ -46,7 +46,7 @@ jobs:
         run: |
           npm i -g skpm
           git tag -l | xargs -n 1 git push --delete origin
-          skpm publish prepatch --skip-registry      
+          skpm publish patch --skip-registry      
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
 

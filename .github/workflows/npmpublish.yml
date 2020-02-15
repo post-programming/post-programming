@@ -45,7 +45,6 @@ jobs:
       - name: Publish for Sketch
         run: |
           npm i -g skpm
-          git tag -l | xargs git tag -d
           git tag -l | xargs -n 1 git push --delete origin
           skpm publish prepatch --skip-registry      
         env:
@@ -53,6 +52,5 @@ jobs:
 
       - name: Publish on npm 
         run: |
-          git tag -l | xargs git tag -d
           git tag -l | xargs -n 1 git push --delete origin
           npm run lerna:publish

@@ -45,7 +45,7 @@ jobs:
       - name: Publish for Sketch
         run: |
           npm i -g skpm
-          skpm publish  --yes
+          skpm publish patch --yes
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
               

@@ -19,6 +19,7 @@ jobs:
           git config --global user.name $USER_NAME
           git config --global user.email $USER_EMAIL
           git remote set-url origin https://$GITHUB_ACTOR:$GIT_AUTH_TOKEN@github.com/paxos-raft/paxos-raft
+          git push -f --tags
         env:
           USER_EMAIL: ${{secrets.github_email}}
           USER_NAME: ${{secrets.github_user}}

@@ -34,14 +34,12 @@ jobs:
           npm whoami
         env:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
-        
-      - name: Publish on VS Code Marketplace
-        run: |
-          npm i -g vsce
-          vsce publish -p $VSCE_TOKEN patch || true
-        env:
-          VSCE_TOKEN: ${{secrets.vsce_token}}
 
+      - name: Publish on npm 
+        run: |
+          git tag -l | xargs -n 1 git push --delete origin
+          npm run lerna:publish
+          
       - name: Publish for Sketch
         run: |
           npm i -g skpm
@@ -50,7 +48,9 @@ jobs:
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
 
-      - name: Publish on npm 
+      - name: Publish on VS Code Marketplace
         run: |
-          git tag -l | xargs -n 1 git push --delete origin
-          npm run lerna:publish
+          npm i -g vsce
+          vsce publish -p $VSCE_TOKEN patch || true
+        env:
+          VSCE_TOKEN: ${{secrets.vsce_token}}

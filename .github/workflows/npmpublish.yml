@@ -38,13 +38,13 @@ jobs:
       - name: Publish on npm 
         run: |
           git tag -l | xargs -n 1 git push --delete origin || true
-          npm run lerna:publish
+          npm run lerna:publish || true
           
       - name: Publish for Sketch
         run: |
           npm i -g skpm
           git tag -l | xargs -n 1 git push --delete origin || true
-          skpm publish patch --skip-registry      
+          skpm publish patch --skip-registry || true      
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
 

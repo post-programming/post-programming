@@ -5,7 +5,7 @@
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",
     "license": "Xerox PARC",
-    "version": "0.0.54",
+    "version": "0.0.55",
     "icon": "lib/vscode/icon.png",
     "publisher": "paxos-raft",
     "repository": {

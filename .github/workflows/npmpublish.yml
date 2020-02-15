@@ -1,8 +1,6 @@
 name: Node.js Package
 
-on:
-  schedule:
-    - cron:  '0 0 * * *'  
+on: push
     
 jobs:
   deploy:
@@ -46,4 +44,12 @@ jobs:
           vsce publish -p $VSCE_TOKEN patch || true
         env:
           VSCE_TOKEN: ${{secrets.vsce_token}}
+
+      - name: Publish for Sketch
+        run: |
+          npm i -g skpm
+          skpm publish patch
+        env:
+          GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
+              
   

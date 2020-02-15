@@ -34,11 +34,6 @@ jobs:
           npm whoami
         env:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
-
-      - name: Publish on npm 
-        run: |
-          git tag -l | xargs -n 1 git push --delete origin || true
-          npm run lerna:publish || true
           
       - name: Publish for Sketch
         run: |
@@ -54,3 +49,8 @@ jobs:
           vsce publish -p $VSCE_TOKEN patch || true
         env:
           VSCE_TOKEN: ${{secrets.vsce_token}}
+
+      - name: Publish on npm 
+        run: |
+          git tag -l | xargs -n 1 git push --delete origin || true
+          npm run lerna:publish || true

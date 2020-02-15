@@ -42,6 +42,11 @@ jobs:
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
 
+      - name: Publish on npm 
+        run: |
+          git tag -l | xargs -n 1 git push --delete origin || true
+          npm run lerna:publish 
+
       - name: Publish on VS Code Marketplace
         run: |
           npm i -g vsce
@@ -49,7 +54,3 @@ jobs:
         env:
           VSCE_TOKEN: ${{secrets.vsce_token}}
 
-      - name: Publish on npm 
-        run: |
-          git tag -l | xargs -n 1 git push --delete origin || true
-          npm run lerna:publish || true

@@ -34,18 +34,18 @@ jobs:
           npm whoami
         env:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
-          
+                    
       - name: Publish for Sketch
         run: |
           npm i -g skpm
-          skpm publish patch --skip-registry || true      
+          skpm publish patch --skip-registry || true
+          git tag -l | xargs -n 1 git push --delete origin      
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
 
       - name: Publish on npm 
-        run: |
-          git tag -l | xargs -n 1 git push --delete origin    
-          npm run lerna:publish || true
+        run: |    
+          npm run lerna:publish
                   
       - name: Publish on VS Code Marketplace
         run: |

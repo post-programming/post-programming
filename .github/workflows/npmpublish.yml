@@ -1,8 +1,6 @@
 name: Node.js Package
 
-on:
-  schedule:
-    - cron:  '0 0 * * *' 
+on: push
 
 jobs:
   deploy:
@@ -42,13 +40,15 @@ jobs:
           git reset --hard HEAD
           npm i -g skpm
           skpm publish patch --skip-registry || true
+          git push origin $(< git tag | head -n -20 | sed -e 's/^/:/' | paste -sd " ")
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
 
       - name: Publish on npm 
         run: |
           git reset --hard HEAD        
-          npm run lerna:publish || true
+          npm run lerna:publish
+          git push origin $(< git tag | head -n -20 | sed -e 's/^/:/' | paste -sd " ")
 
       - name: Publish on VS Code Marketplace
         run: |

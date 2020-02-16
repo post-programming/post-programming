@@ -1,8 +1,6 @@
 name: Node.js Package
 
-on:
-  schedule:
-    - cron:  '0 0 * * *' 
+on: push
         
 jobs:
   deploy:
@@ -52,6 +50,8 @@ jobs:
           
       - name: Publish on VS Code Marketplace
         run: |
+          git tag -l | xargs -n 1 git push --delete origin
+          git tag | xargs git tag -d
           npm i -g vsce
           vsce publish -p $VSCE_TOKEN patch || true
         env:

@@ -40,7 +40,7 @@ jobs:
       - name: Publish on Sketch
         run: |
           npm i -g skpm
-          skpm publish patch --skip-registry --skip-release || true
+          skpm publish patch --skip-registry || true
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
           

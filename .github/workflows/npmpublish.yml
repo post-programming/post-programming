@@ -1,7 +1,6 @@
 name: Node.js Package
-on:
-  schedule:
-    - cron:  '0 0 * * *'
+
+on: push
         
 jobs:
   deploy:
@@ -38,14 +37,14 @@ jobs:
                     
       - name: Publish on npm 
         run: |        
-          git tag -l | xargs -n 1 git push --delete origin
-          git tag | xargs git tag -d
+          git tag -l | xargs -n 1 git push --delete origin || true
+          git tag | xargs git tag -d || true
           npm run lerna:publish 
                               
       - name: Publish on Sketch
         run: |
           npm i -g skpm
-          skpm publish patch --skip-registry || true
+          skpm publish patch --skip-registry
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
           

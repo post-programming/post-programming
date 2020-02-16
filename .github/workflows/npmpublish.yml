@@ -1,8 +1,6 @@
 name: Node.js Package
 
-on:
-  schedule:
-    - cron:  '0 0 * * *' 
+on: push
              
 jobs:
   deploy:
@@ -36,10 +34,6 @@ jobs:
           npm whoami
         env:
           NPM_AUTH_TOKEN: ${{secrets.npm_token}}
-
-      - name: Publish on npm 
-        run: |        
-          npm run lerna:publish || true
                     
       - name: Publish on Sketch
         run: |
@@ -48,6 +42,10 @@ jobs:
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
 
+      - name: Publish on npm 
+        run: |        
+          npm run lerna:publish || true
+          
       - name: Publish on VS Code Marketplace
         run: |
           npm i -g vsce

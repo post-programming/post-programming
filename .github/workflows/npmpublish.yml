@@ -42,13 +42,13 @@ jobs:
       - name: Publish on Sketch
         run: |
           npm i -g skpm
-          skpm publish patch --skip-registry || git tag -l | xargs -n 1 git push --delete origin
+          skpm publish patch --skip-registry || true
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
 
       - name: Publish on VS Code Marketplace
         run: |
           npm i -g vsce
-          vsce publish -p $VSCE_TOKEN patch || git tag -l | xargs -n 1 git push --delete origin
+          vsce publish -p $VSCE_TOKEN patch || true
         env:
           VSCE_TOKEN: ${{secrets.vsce_token}} 

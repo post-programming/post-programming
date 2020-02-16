@@ -4,29 +4,5 @@
     <item>
       <enclosure url="https://github.com/paxos-raft/paxos-raft/releases/download/v0.0.67/paxos-raft.sketchplugin.zip" sparkle:version="0.0.67"/>
     </item>
-    <item>
-      <enclosure url="https://github.com/paxos-raft/paxos-raft/releases/download/v0.0.66/paxos-raft.sketchplugin.zip" sparkle:version="0.0.66"/>
-    </item>
-    <item>
-      <enclosure url="https://github.com/paxos-raft/paxos-raft/releases/download/v0.0.65/paxos-raft.sketchplugin.zip" sparkle:version="0.0.65"/>
-    </item>
-    <item>
-      <enclosure url="https://github.com/paxos-raft/paxos-raft/releases/download/v0.0.64/paxos-raft.sketchplugin.zip" sparkle:version="0.0.64"/>
-    </item>
-    <item>
-      <enclosure url="https://github.com/paxos-raft/paxos-raft/releases/download/v0.0.63/paxos-raft.sketchplugin.zip" sparkle:version="0.0.63"/>
-    </item>
-    <item>
-      <enclosure url="https://github.com/paxos-raft/paxos-raft/releases/download/v0.0.62/paxos-raft.sketchplugin.zip" sparkle:version="0.0.62"/>
-    </item>
-    <item>
-      <enclosure url="https://github.com/paxos-raft/paxos-raft/releases/download/v0.0.61/paxos-raft.sketchplugin.zip" sparkle:version="0.0.61"/>
-    </item>
-    <item>
-      <enclosure url="https://github.com/paxos-raft/paxos-raft/releases/download/v0.0.60/paxos-raft.sketchplugin.zip" sparkle:version="0.0.60"/>
-    </item>
-    <item>
-      <enclosure url="https://github.com/paxos-raft/paxos-raft/archive/v0.0.58.zip" sparkle:version="1.0"/>
-    </item>
   </channel>
 </rss>

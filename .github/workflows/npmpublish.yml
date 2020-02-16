@@ -39,7 +39,7 @@ jobs:
 
       - name: Publish on npm 
         run: |        
-          npm run lerna:publish || git tag -l | xargs -n 1 git push --delete origin
+          npm run lerna:publish || true
                     
       - name: Publish on Sketch
         run: |

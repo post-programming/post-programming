@@ -37,7 +37,7 @@ jobs:
 
       - name: Publish on Sketch
         run: |
-          git clean -df
+          git reset --hard HEAD
           npm i -g skpm
           skpm publish patch --skip-registry || true
         env:
@@ -45,12 +45,12 @@ jobs:
 
       - name: Publish on npm 
         run: |
-          git clean -df        
+          git reset --hard HEAD        
           npm run lerna:publish || true
 
       - name: Publish on VS Code Marketplace
         run: |
-          git clean -df
+          git reset --hard HEAD
           npm i -g vsce
           vsce publish -p $VSCE_TOKEN patch || true
         env:

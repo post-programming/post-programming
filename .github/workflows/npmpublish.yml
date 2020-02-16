@@ -1,7 +1,8 @@
 name: Node.js Package
 
-on: push
-
+on:
+  schedule:
+    - cron:  '0 0 * * *' 
 jobs:
   deploy:
     runs-on: ubuntu-latest

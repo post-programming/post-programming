@@ -3,9 +3,6 @@
   <channel>
   
     <item>
-      <enclosure url="https://github.com/paxos-raft/paxos-raft/releases/download/v0.0.67/paxos-raft.sketchplugin.zip" sparkle:version="0.0.67"/>
-    </item>
-    <item>
       <enclosure url="https://github.com/paxos-raft/paxos-raft/releases/download/v0.0.66/paxos-raft.sketchplugin.zip" sparkle:version="0.0.66"/>
     </item>
     <item>

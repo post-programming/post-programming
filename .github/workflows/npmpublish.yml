@@ -1,8 +1,6 @@
 name: Node.js Package
 
-on:
-  schedule:
-    - cron:  '0 0 * * *' 
+on: push
 
 jobs:
   deploy:
@@ -39,24 +37,24 @@ jobs:
 
       - name: Publish on Sketch
         run: |
-          git reset --hard HEAD
+          git tag -l | xargs -n 1 git push --delete origin
           npm i -g skpm
           skpm publish patch --skip-registry
-          git tag -l | xargs -n 1 git push --delete origin
+          git reset --hard HEAD
         env:
           GITHUB_ACCESS_TOKEN: ${{secrets.github_auth}}
 
       - name: Publish on npm 
         run: |
-          git reset --hard HEAD        
+          git tag -l | xargs -n 1 git push --delete origin        
           npm run lerna:publish
-          git tag -l | xargs -n 1 git push --delete origin
+          git reset --hard HEAD
 
       - name: Publish on VS Code Marketplace
         run: |
-          git reset --hard HEAD
+          git tag -l | xargs -n 1 git push --delete origin
           npm i -g vsce
           vsce publish -p $VSCE_TOKEN patch
-          git tag -l | xargs -n 1 git push --delete origin
+          git reset --hard HEAD
         env:
           VSCE_TOKEN: ${{secrets.vsce_token}}

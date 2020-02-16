@@ -1,8 +1,6 @@
 name: Node.js Package
 
-on:
-  schedule:
-    - cron:  '0 0 * * *' 
+on: push
              
 jobs:
   deploy:
@@ -46,6 +44,7 @@ jobs:
 
       - name: Publish on npm 
         run: |        
+          git reset --hard HEAD
           npm run lerna:publish || true
           
       - name: Publish on VS Code Marketplace

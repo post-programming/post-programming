@@ -1,6 +1,6 @@
 {
     "name": "gatsby-ant",
-    "version": "0.0.71",
+    "version": "0.0.72",
     "description": "Gatsby & Alibaba Ant Compilation For Sketch Auto-Codegen on React Native and React",
     "main": "lib/gatsby-ant.js",
     "repository": {

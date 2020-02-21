@@ -16,7 +16,7 @@
 * Babel Resurrected State TreeMap
 
 ### For What?
-* AutoML draw.io and JupyterLab
+* AutoML draw.io and JupyterLab on open-source Data Grid
 
 ## Installation
 ```sh

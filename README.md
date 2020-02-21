@@ -77,7 +77,7 @@ It reduces cost of devops to zero and generates zero-cost cloud computing deploy
 Traditional BI softwares are vendor-locked and domain-locked, guided by domain-driven design, whereas it unlocks a <br/> BI Tool i.e. draw.io for exposing asynchronous domain-agnostic Turing complete mathematics to <br/> non-programmers/partial-programmers 
 
 #### Artificial Intelligence/Machine Learning
-Prophet, AutoML, JupyterLab, Google AI, Tensorflow Models, and Training Data on-click for Fortune 500 AI/ML Workloads
+Prophet, AutoML, JupyterLab, Google AI, Tensorflow Models, and Training Data on-click in-chunks for <br/> Fortune 500 AI/ML Workloads
 
 ### Help me with Troubleshoot
 <p> Help yourself with <a href="https://github.com/paxos-raft/paxos-raft/blob/master/docs/TROUBLESHOOT.md" target="_blank">

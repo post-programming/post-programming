@@ -134,7 +134,7 @@ Xerox PARC
   <a href="https://github.com/paxos-raft/paxos-raft#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-darkviolet.svg" />
   </a>
-  <a href="https://github.com/paxos-raft/paxos-raft/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/paxos-raft/paxos-raft" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-yellow.svg" />
   </a>
   <a href="https://www.npmjs.com/package/paxos-raft">

@@ -114,11 +114,6 @@ Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are wanted
   </a>
   </p>
 
-
-### Show your support
-
-Give your ⭐️ if this project helped you
-
 ### License
 
 Xerox PARC

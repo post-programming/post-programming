@@ -47,7 +47,7 @@
         "lerna:test": "lerna run test",
         "lerna:publish": "lerna version patch --yes && lerna publish from-package --yes",
         "lint": "standard packages/**/**/*.js --fix",
-        "skpm:build": "skpm-build && zip -r paxos-raft.sketchplugin.zip lib/sketch/paxos-raft.sketchplugin",
+        "skpm:pack": "skpm-build && zip -r paxos-raft.sketchplugin.zip lib/sketch/paxos-raft.sketchplugin",
         "skpm:watch": "skpm-build --watch",
         "skpm:start": "skpm-build --watch --run",
         "skpm:postinstall": "npm run skpm:build && skpm-link"

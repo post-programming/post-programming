@@ -1,6 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
   "icon": "icon.png",
+  "appcast": "https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/lib/sketch/.appcast.xml",
   "commands": [
     {
       "name": "Generate React & React Native Apps",
@@ -15,12 +16,11 @@
       "paxos-raft.init"
     ]
   },
-  "version": "0.0.14",
-  "description": "🗣 Developer Automata: Exploitation of Developer's Intellectual Technical/Programming/Environment Sphere",
+  "version": "0.0.81",
+  "description": "Post-Programming: Cast Automata Spheres",
   "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",
   "name": "paxos-raft",
   "identifier": "paxos-raft",
   "disableCocoaScriptPreprocessor": true,
-  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
   "author": "Prateek Rastogi"
 }

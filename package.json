@@ -43,14 +43,14 @@
         ]
     },
     "scripts": {
-        "lint": "standard packages/**/**/*.js --fix",
-        "skpm:build": "skpm-build",
-        "skpm:watch": "skpm-build --watch",
-        "skpm:start": "skpm-build --watch --run",
-        "skpm:postinstall": "npm run build && skpm-link",
         "lerna:bootstrap": "lerna bootstrap",
         "lerna:test": "lerna run test",
-        "lerna:publish": "zip -r paxos-raft.sketchplugin.zip lib/sketch/paxos-raft.sketchplugin && lerna version patch --yes && lerna publish from-package --yes"
+        "lerna:publish": "lerna version patch --yes && lerna publish from-package --yes",
+        "lint": "standard packages/**/**/*.js --fix",
+        "skpm:build": "skpm-build && zip -r paxos-raft.sketchplugin.zip lib/sketch/paxos-raft.sketchplugin",
+        "skpm:watch": "skpm-build --watch",
+        "skpm:start": "skpm-build --watch --run",
+        "skpm:postinstall": "npm run skpm:build && skpm-link"
     },
     "husky": {
         "hooks": {

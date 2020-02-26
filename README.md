@@ -31,7 +31,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 * Export: `Programmer Jobs/Tasks as npm packages`
 * UX: `Automated Read-Write-Containers` Integrating `Developer Workflow BlockChains/SideChains`
 
-## Playground
+<h3 align="center"> Installation Playground </h3>
 
 <p align="center">
   <a href="https://jupyter.org/" target="_blank">

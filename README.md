@@ -1,6 +1,6 @@
 <h1 align="center">paxos-raft </h1>
 
-> Post-Programming: Cast Automata Spheres
+> Post-Programming: Spherical Automata
 
 ### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 

@@ -17,7 +17,7 @@
     ]
   },
   "version": "0.0.81",
-  "description": "Post-Programming: Cast Automata Spheres",
+  "description": "Post-Programming: Spherical Automata",
   "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",
   "name": "paxos-raft",
   "identifier": "paxos-raft",

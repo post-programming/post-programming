@@ -3,7 +3,6 @@
 > Post-Programming: Spherical Automata
 
 ### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
-
 ## Motivation
 
 > 'Automata create Static Affect' on `Field` e.g. Car i.e. E = mc<sup>2</sup>
@@ -13,7 +12,7 @@ Mathematical Induction: The ethereal natures of Automata can be described by Hom
 
 * `Organic Compounds` and their time-dimensional `climate change posses same virtues`
 
-So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's Law":<br/>
+So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's Law":
 
 <p align="center"> 
 <br/>
@@ -25,18 +24,8 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
    <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/docs/originations/Suggest%20%E6%8A%8A%E6%98%9F%E5%9B%BE%E5%8A%9F%E8%83%BD%E7%8B%AC%E7%AB%8B%E5%A4%84%E7%90%86%20%C2%B7%20Issue%20%23257%20%C2%B7%20521xueweihan%20HelloGitHub.png"><img alt="1" src="https://img.shields.io/badge/1-lightyellow.svg" /></a>
   
 </p>
-
-## Gist
-* Install: `'paxos-raft' as plugins/extensions on local instances of Sketch, draw.io, JupyterLab, or VS Code`
-* Export: `Programmer Jobs/Tasks as npm packages`
-* UX: `Automated Read-Write-Containers` Integrating `Developer Workflow BlockChains/SideChains`
-
-## Yo-Yo Talk
-### Again, What it does?
-It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing`, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 
-
-
-<h3 align="center">How to Install? </h3>
+<h2/>
+<h2 align="center"> npx paxos-raft</h2>
 <p align="center">
   <a href="https://jupyter.org/" target="_blank">
     <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="40" />
@@ -54,6 +43,19 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
     <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-FF4F00.svg" height="40" />
   </a>
   </p>
+  
+## Gist
+* Install: `'paxos-raft' as plugins/extensions on local instances of Sketch, draw.io, JupyterLab, or VS Code`
+* Export: `Programmer Jobs/Tasks as npm packages`
+* UX: `Automated Read-Write-Containers` Integrating `Developer Workflow BlockChains/SideChains`
+
+## Yo-Yo Talk
+### Again, What it does?
+It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing`, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 
+
+
+<h3 align="center">How to Install? </h3>
+
   
 ### Why it uses Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations

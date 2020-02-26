@@ -1,6 +1,6 @@
 {
     "name": "paxos-raft",
-    "description": "Post-Programming: Spherical Automata",
+    "description": "Post-Programming: Spherical Automata Clélie",
     "bin": "index.js",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",

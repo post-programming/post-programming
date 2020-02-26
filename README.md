@@ -1,6 +1,6 @@
 <h1 align="center">paxos-raft </h1>
 
-> Post-Programming: Spherical Automata
+> Post-Programming: Spherical Automata Clélie 
   
 ### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 ## Motivation

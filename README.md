@@ -35,7 +35,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing`, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 
 
 
-<h3 align="center">How to Install? </h3>
+<h3 align="center">Where Are Platform Binaries? </h3>
 <p align="center">
   <a href="https://jupyter.org/" target="_blank">
     <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="40" />

@@ -1,7 +1,7 @@
 <h1 align="center">paxos-raft </h1>
 
 > Post-Programming: Spherical Automata
-
+  
 ### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 ## Motivation
 
@@ -24,25 +24,6 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
    <a href="https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/docs/originations/Suggest%20%E6%8A%8A%E6%98%9F%E5%9B%BE%E5%8A%9F%E8%83%BD%E7%8B%AC%E7%AB%8B%E5%A4%84%E7%90%86%20%C2%B7%20Issue%20%23257%20%C2%B7%20521xueweihan%20HelloGitHub.png"><img alt="1" src="https://img.shields.io/badge/1-lightyellow.svg" /></a>
   
 </p>
-<h2/>
-<h2 align="center"> npx paxos-raft</h2>
-<p align="center">
-  <a href="https://jupyter.org/" target="_blank">
-    <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="40" />
-  </a>
-  <a href="https://github.com/fjudith/docker-draw.io" target="_blank">
-    <img alt="Install on draw.io" src="https://img.shields.io/badge/draw.io-4C2882.svg" height="40" />
-  </a>
-  <a href="https://www.npmjs.com/package/paxos-raft" target="_blank">
-    <img alt="Install on npm" src="https://img.shields.io/badge/paxos--raft-960018.svg" height="40" />
-  </a>
-  <a href="https://www.sketch.com/" target="_blank">
-    <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-FFD300.svg" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-FF4F00.svg" height="40" />
-  </a>
-  </p>
   
 ## Gist
 * Install: `'paxos-raft' as plugins/extensions on local instances of Sketch, draw.io, JupyterLab, or VS Code`
@@ -55,6 +36,23 @@ It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and che
 
 
 <h3 align="center">How to Install? </h3>
+<p align="center">
+  <a href="https://jupyter.org/" target="_blank">
+    <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="40" />
+  </a>
+  <a href="https://github.com/fjudith/docker-draw.io" target="_blank">
+    <img alt="Install on draw.io" src="https://img.shields.io/badge/draw.io-4C2882.svg" height="40" />
+  </a>
+  <a href="https://www.npmjs.com/package/paxos-raft" target="_blank">
+    <img alt="Install on npm" src="https://img.shields.io/badge/npx-paxos--raft-960018.svg" height="40" />
+  </a>
+  <a href="https://www.sketch.com/" target="_blank">
+    <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-FFD300.svg" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-FF4F00.svg" height="40" />
+  </a>
+  </p>
 
   
 ### Why it uses Babel?

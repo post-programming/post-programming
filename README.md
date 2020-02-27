@@ -32,7 +32,7 @@ So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's La
 * UX: `Automated Read-Write-Containers` Integrating `Developer Workflow BlockChains/SideChains`
 <br/>
 
-<h3 align="center"> Web Playgrounds </h3>
+<h3 align="center"> run 'paxos-raft' on web </h3>
 
 <p align="center">
   <a href="https://jupyter.org/" target="_blank">

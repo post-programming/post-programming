@@ -36,6 +36,6 @@ Let `==` denote `abstract homomorphism of functors i.e. mathematical identity`
 
 ## Installation
 ```sh
-npm i paxos-raft
+npm i gatsby-ant
 ```
 

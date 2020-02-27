@@ -38,7 +38,7 @@ Mathematical Induction: The ethereal natures of Automata can be described by Hom
 
 * `Organic Compounds` and their time-dimensional `climate change posses same virtues`
 
-So, mentioned are the originations of our eureka `Benzene Ring` i.e. "Moore's Law":
+So, mentioned are the originations of our eureka `Benzene Ring` i.e. "DRY and Moore's Law":
 
 <p align="center"> 
 <br/>

@@ -30,6 +30,6 @@
 
 ## Installation
 ```sh
-npm i paxos-raft
+npm i react-react-native
 ```
 

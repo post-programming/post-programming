@@ -20,5 +20,5 @@
 
 ## Installation
 ```sh
-npm i paxos-raft
+npm i draw-jupyter
 ```

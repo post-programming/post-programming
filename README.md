@@ -1,6 +1,6 @@
 <h1 align="center">paxos-raft </h1>
 
-> Post-Programming: Autonomous Spherical i.e. Complementary+Simultaneous Automata Clélie Rose
+> Post-Programming: Automata Autonomous Clélie Rose
   
 ### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 ## Motivation

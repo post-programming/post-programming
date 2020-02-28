@@ -1,7 +1,7 @@
 <h1 align="center">paxos-raft </h1>
 
-> Post-Programming: Automata Autonomous Clélie Rose <br />
-> Post-Programming: Everything Tech Is Unlocked/Programmed/Documented/Transpiled On Your PC
+> Post-Programming: Automata Autonomous Clélie Rose <br/>
+* Everything Tech Is Unlocked/Documented/Programmed/Transpiled/Deployed On Your PC
   
 ### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 

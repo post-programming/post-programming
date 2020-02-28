@@ -1,7 +1,7 @@
 <h1 align="center">paxos-raft </h1>
 
 > Post-Programming: Automata Autonomous Clélie Rose <br/>
-* Everything Tech Is Unlocked/Documented/Programmed/Transpiled/Deployed On Your PC
+
   
 ### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 
@@ -44,7 +44,9 @@ So, mentioned are the originations of our eureka Benzene Ring:
 <p align="center"> 
  DRY ≟ Moore's Law
 </p>
-
+  
+  tl;dr: everything tech is unlocked/documented/programmed/transpiled/deployed on/from your PC
+  
   
 ## Yo-Yo Talk
 ### Again, What it does?

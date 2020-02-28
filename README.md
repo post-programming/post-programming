@@ -7,7 +7,7 @@
 ## Quick Start
 * Install: `'paxos-raft' as plugins/extensions on local instances of JupyterLab, draw.io, Sketch, or VS Code`
 * Export: `Programmer Jobs/Tasks as npm packages`
-* UX: `Automated Read-Write-Containers` Integrating `Developer Workflow BlockChains/SideChains`
+* UX: `Automated Read-Write-Containers Integrating Developer Workflow BlockChains/SideChains`
 <br/>
 
 <h3 align="center"> run 'paxos-raft' on web: </h3>
@@ -31,7 +31,7 @@
 
 ## Motivation
 
-> 'Automata create Static Affect' on `Field` e.g. Car i.e. E = mc<sup>2</sup>
+> Automata create Static Affect on Field e.g. Car i.e. E = mc<sup>2</sup>
 
 ### Synthesis of Candy Flip
 Mathematical Induction: The ethereal natures of Automata can be described by Homomorphism e.g. functors and vectors  
@@ -47,7 +47,7 @@ So, mentioned are the originations of our eureka Benzene Ring:
   
 ## Yo-Yo Talk
 ### Again, What it does?
-It `automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing`, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 
+It automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 
 
   
 ### Why it uses Babel?

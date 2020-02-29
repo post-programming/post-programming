@@ -10,7 +10,7 @@
 </p>
 
 
-> `Sketch Schemas & draw.io Plans` for `Stitching 'Web Apps'`
+> `Sketch Schemas & diagrams.net Plans` for `Stitching 'Web Apps'`
 
 ## Influence
 ### What's Inside?

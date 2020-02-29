@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> draw.io & JupyterLab Metaprogramming
+> diagrams.net & JupyterLab Metaprogramming
 
 ## Influence
 ### What's this?

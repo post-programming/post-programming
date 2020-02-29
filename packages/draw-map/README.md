@@ -10,7 +10,7 @@
 </p>
 
 
-> draw.io JSON Mapper
+> diagrams.net JSON Mapper
 
 ## Influence
 ### Tell me its internals?

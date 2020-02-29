@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/fjudith/docker-draw.io" target="_blank">
-    <img alt="Install on draw.io" src="https://img.shields.io/badge/diagrams-4C2882.svg" height="40" />
+    <img alt="Install on draw.io" src="https://img.shields.io/badge/Diagrams-4C2882.svg" height="40" />
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="40" />

@@ -1,7 +1,7 @@
 {
     "name": "draw-jupyter",
     "version": "0.0.84",
-    "description": "draw.io & JupyterLab Metaprogramming",
+    "description": "diagrams.net & JupyterLab Metaprogramming",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-jupyter#readme",
     "license": "Xerox PARC",

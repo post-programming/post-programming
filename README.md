@@ -14,17 +14,17 @@
 <h3 align="center"> run 'paxos-raft' on web: </h3>
 
 <p align="center">
-  <a href="https://jupyter.org/" target="_blank">
-    <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="40" />
-  </a>
   <a href="https://github.com/fjudith/docker-draw.io" target="_blank">
     <img alt="Install on draw.io" src="https://img.shields.io/badge/diagrams-4C2882.svg" height="40" />
   </a>
-  <a href="https://www.sketch.com/" target="_blank">
-    <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-FFD300.svg" height="40" />
+  <a href="https://jupyter.org/" target="_blank">
+    <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="40" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-FF4F00.svg" height="40" />
+  </a>
+  <a href="https://www.sketch.com/" target="_blank">
+    <img alt="Install on Sketch" src="https://img.shields.io/badge/Sketch-FFD300.svg" height="40" />
   </a>
   </p>
   

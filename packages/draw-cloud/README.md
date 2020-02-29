@@ -10,7 +10,7 @@
 </p>
 
 
-> draw.io's Cloud Computing Layout
+> diagrams.net Cloud Computing Layout
 
 ## Influence
 ### What it does?

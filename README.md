@@ -93,7 +93,7 @@ Prophet, AutoML, JupyterLab, Google AI, Tensorflow Models, and Training Data on-
 
 ### Tell me Orchestration Infra?
 * [Gatsby](https://www.gatsbyjs.org/)
-* [Ghost](https://github.com/TryGhost/Ghost)
+* [Strapi](https://strapi.io/)
 * [Helm](https://helm.sh/)
 * [TensorFlow](https://www.tensorflow.org/) + [Google AI](https://ai.google/)
 * [Yeoman](https://yeoman.io/)

@@ -14,7 +14,7 @@
 
 ## Influence
 ### What it does?
-* Authorizes draw.io Diagrams to code collapse general purpose cloud computing
+* Authorizes diagrams.net Diagrams to code collapse general purpose cloud computing
 
 ### Can you Babel this?
 * Helm and wrangler command line APIs static Browser Object Model (BOM) in Babel

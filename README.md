@@ -95,10 +95,9 @@ Prophet, AutoML, JupyterLab, Google AI, Tensorflow Models, and Training Data on-
 * [Gatsby](https://www.gatsbyjs.org/)
 * [Strapi](https://strapi.io/)
 * [Ghost](https://github.com/TryGhost/Ghost)
-* [Helm](https://helm.sh/) + [wrangler](https://github.com/cloudflare/wrangler)
+* [Helm](https://helm.sh/)
 * [TensorFlow](https://www.tensorflow.org/) + [Google AI](https://ai.google/)
 * [Yeoman](https://yeoman.io/)
-* [Dark Reader](https://darkreader.org/)
 
 ### Contributing
 

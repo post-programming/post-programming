@@ -72,7 +72,7 @@ It automates every aspect of web/app developers occupation
 It reduces cost of devops to zero and generates zero-cost cloud computing deployment graphs
 
 #### Business Intelligence (BI) 
-Traditional BI softwares are vendor-locked and domain-locked, guided by domain-driven design, whereas it unlocks a <br/> BI Tool i.e. draw.io for exposing asynchronous domain-agnostic Turing complete mathematics to <br/> non-programmers/partial-programmers 
+Traditional BI softwares are vendor-locked and domain-locked, guided by domain-driven design, whereas it unlocks a <br/> BI Tool i.e. diagrams.net for exposing asynchronous domain-agnostic Turing complete mathematics to <br/> non-programmers/partial-programmers 
 
 #### Artificial Intelligence/Machine Learning
 Prophet, AutoML, JupyterLab, Google AI, Tensorflow Models, and Training Data on-click in-chunks <br/> for Fortune 500 AI/ML Workloads

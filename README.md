@@ -6,7 +6,7 @@
 ### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 
 ## Quick Start
-* Install: `'paxos-raft' as plugins/extensions on local instances of JupyterLab, VS Code, Diagrams, or Sketch`
+* Install: `'paxos-raft' as plugins/extensions on local instances of VS Code, JupyterLab, Diagrams, or Sketch`
 * Export: `Programmer Jobs/Tasks as npm packages`
 * UX: `Automated Read-Write-Containers Integrating Developer Workflow BlockChains/SideChains`
 <br/>
@@ -14,11 +14,11 @@
 <h3 align="center"> run 'paxos-raft' on web: </h3>
 
 <p align="center">
-  <a href="https://jupyter.org/" target="_blank">
-    <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="40" />
-  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Install on VS Code" src="https://img.shields.io/badge/VS Code-FF4F00.svg" height="40" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img alt="Install on JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="40" />
   </a>
   <a href="https://github.com/fjudith/docker-draw.io" target="_blank">
     <img alt="Install on draw.io" src="https://img.shields.io/badge/Diagrams-4C2882.svg" height="40" />

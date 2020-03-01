@@ -18,7 +18,7 @@
 
 ### Can you Babel this?
 * Helm and wrangler command line APIs static Browser Object Model (BOM) in Babel
-* draw.io dynamic Browser Object Model (BOM) in Babel
+* diagrams.net dynamic Browser Object Model (BOM) in Babel
 * Babel-To-Shell Scripts Mapping
 
 ## Installation

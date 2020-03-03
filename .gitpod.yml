@@ -3,7 +3,7 @@ workspaceLocation: "vscode"
 tasks:
     - command: npx paxos-raft
 ports:
-  - port: 3000-8999
+  - port: 2999-8999
     onOpen: ignore
 vscode:
   extensions:

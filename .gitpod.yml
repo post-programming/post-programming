@@ -1,3 +1,4 @@
+workspaceLocation: "paxos-raft"
 tasks:
     - init: npm i
       command: npx paxos-raft

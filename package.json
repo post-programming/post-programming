@@ -51,7 +51,7 @@
         "skpm:watch": "skpm-build --watch",
         "skpm:start": "skpm-build --watch --run",
         "skpm:postinstall": "npm run skpm:build && skpm-link",
-        "vsce:package": "vsce package"
+        "vsce:pack": "vsce package"
     },
     "husky": {
         "hooks": {

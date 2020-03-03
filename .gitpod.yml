@@ -1,4 +1,5 @@
-workspaceLocation: "paxos-raft"
+checkoutLocation: "paxos-raft"
+workspaceLocation: "."
 tasks:
     - init: npm i
       command: npx paxos-raft

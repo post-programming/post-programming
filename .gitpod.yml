@@ -6,4 +6,4 @@ ports:
     onOpen: ignore
 vscode:
   extensions:
-    - paxos-raft.paxos-raft
+    - paxos-raft.paxos-raft@0.0.87:Roq2YRM1Fk/5uLi75zpm4g==

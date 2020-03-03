@@ -1,4 +1,6 @@
 #!/usr/bin/env node
 'use strict'
 
-console.log('paxos-raft')
+const notifications = ':->'
+
+console.log(notifications)

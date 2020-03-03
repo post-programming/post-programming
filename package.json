@@ -50,8 +50,7 @@
         "skpm:pack": "skpm-build && cd lib/sketch/ && zip -r ../../paxos-raft.sketchplugin.zip paxos-raft.sketchplugin",
         "skpm:watch": "skpm-build --watch",
         "skpm:start": "skpm-build --watch --run",
-        "skpm:postinstall": "npm run skpm:build && skpm-link",
-        "vsce:pack": "vsce package"
+        "skpm:postinstall": "npm run skpm:build && skpm-link"
     },
     "husky": {
         "hooks": {
@@ -63,8 +62,7 @@
         "@skpm/builder": "^0.7.0",
         "husky": "^4.2.0",
         "lerna": "^3.20.2",
-        "standard": "^14.3.1",
-        "vsce": "^1.74.0"
+        "standard": "^14.3.1"
     },
     "keywords": [
         "draw.io Plugin",

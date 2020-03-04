@@ -16,7 +16,7 @@
 ### What's Inside?
 * Sketch To diagrams.net Transformer construed via Babel
 * Gatsby projects generation connectors 'cross-connecting' Strapi projects generation connectors
-* diagrams.net Virtual DOM striving full-fledged Web Apps. 
+* diagrams.net Virtual DOM striving full-fledged Web Apps
 
 ## Installation
 ```sh

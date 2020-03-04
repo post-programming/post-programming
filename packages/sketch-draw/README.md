@@ -15,7 +15,6 @@
 ## Influence
 ### What's Inside?
 * Sketch and diagrams.net Live Browser Object Model (BOM) construed via Babel
-* Gatsby projects generation connectors for Sketch 'cross-connecting' Strapi projects generation connectors for draw.io 
 * Gatsby + Strapi resulting complete generation of 'asymmetric I/O'
 
 ## Installation

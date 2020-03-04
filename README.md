@@ -8,7 +8,7 @@
 ## Quick Start
 * Install: `'paxos-raft' as plugins/extensions on Code, Diagram, or Book`
 * Export: `Programmer Jobs/Tasks as Git Repos`
-* UX: `Autonomous Read-Write-Containers Automating Developer Workflow BlockChains/SideChains`
+* UX: `Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains`
 <br/>
 
 <h3 align="center"> run 'paxos-raft' web: </h3>

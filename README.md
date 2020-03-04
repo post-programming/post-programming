@@ -7,7 +7,7 @@
 
 ## Quick Start
 * Install: `'paxos-raft' as plugins/extensions on VS Code, Diagrams, or JupyterLab`
-* Export: `Programmer Jobs/Tasks as npm packages`
+* Export: `Programmer Jobs/Tasks as git repos`
 * UX: `Automated Read-Write-Containers Disrupting Developer Workflow BlockChains/SideChains`
 <br/>
 

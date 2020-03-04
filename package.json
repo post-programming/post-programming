@@ -46,11 +46,7 @@
         "lerna:bootstrap": "lerna bootstrap",
         "lerna:test": "lerna run test",
         "lerna:publish": "lerna version patch --yes && lerna publish from-package --yes",
-        "lint": "standard packages/**/**/*.js --fix",
-        "skpm:pack": "skpm-build && cd lib/sketch/ && zip -r ../../paxos-raft.sketchplugin.zip paxos-raft.sketchplugin",
-        "skpm:watch": "skpm-build --watch",
-        "skpm:start": "skpm-build --watch --run",
-        "skpm:postinstall": "npm run skpm:build && skpm-link"
+        "lint": "standard packages/**/**/*.js --fix"
     },
     "husky": {
         "hooks": {
@@ -59,29 +55,18 @@
         }
     },
     "devDependencies": {
-        "@skpm/builder": "^0.7.0",
         "husky": "^4.2.0",
         "lerna": "^3.20.2",
         "standard": "^14.3.1"
     },
     "keywords": [
-        "draw.io Plugin",
-        "Sketch Plugin",
-        "VS Code Extension",
+        "VS Code",
+        "diagrams.net",
         "jupyter",
         "jupyterlab",
         "jupyterlab-extension"
     ],
     "jupyterlab": {
         "extension": "lib/jupyterlab/jupyterlab.js"
-    },
-    "skpm": {
-        "name": "paxos-raft",
-        "manifest": "lib/sketch/src/manifest.json",
-        "main": "lib/sketch/paxos-raft.sketchplugin",
-        "assets": [
-            "lib/sketch/assets/**/*"
-        ],
-        "sketch-assets-file": "lib/sketch/sketch-assets/icons.sketch"
     }
 }

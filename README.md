@@ -21,7 +21,7 @@
     <img alt="Run Diagrams" src="https://img.shields.io/badge/Diagrams-960018.svg" height="40" />
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Run JupyterLab" src="https://img.shields.io/badge/JupyterLab-0070BB.svg" height="40" />
+    <img alt="Run JupyterLab" src="https://img.shields.io/badge/JupyterLab-4C2882.svg" height="40" />
   </a>
   </p>
   

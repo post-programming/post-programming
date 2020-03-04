@@ -10,7 +10,7 @@
 </p>
 
 
-> Sketch To diagrams.net Converter Simultaneously Stitching Web Apps
+> diagrams.net Sketch Importer and Web Apps Stitcher
 
 ## Influence
 ### What's Inside?

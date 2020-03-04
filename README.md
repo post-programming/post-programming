@@ -11,7 +11,7 @@
 * UX: `Automated Read-Write-Containers Disrupting Developer Workflow BlockChains/SideChains`
 <br/>
 
-<h3 align="center"> run 'paxos-raft' on web: </h3>
+<h3 align="center"> run 'paxos-raft' web: </h3>
 
 <p align="center">
   <a href="https://gitpod.io/#https://github.com/paxos-raft/paxos-raft" target="_blank">

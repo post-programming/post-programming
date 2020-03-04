@@ -10,7 +10,7 @@
 </p>
 
 
-> `Sketch Schemas & diagrams.net Plans` for `Stitching 'Web Apps'`
+> `Sketch To diagrams.net Converter` for `Stitching Web Apps`
 
 ## Influence
 ### What's Inside?

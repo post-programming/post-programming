@@ -42,7 +42,7 @@ So, mentioned are the originations of our eureka Benzene Ring:
  DRY ≟ Moore's Law
 </p>
   
-  tl;dr: everything tech is programmed/packaged || transpiled by your PC
+  tl;dr: everything tech is programmed/packaged/deployed || transpiled by your PC
   
 <br/>
 

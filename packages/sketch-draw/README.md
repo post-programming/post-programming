@@ -10,12 +10,12 @@
 </p>
 
 
-> `Sketch To diagrams.net Converter` for `Stitching Web Apps`
+> Sketch To diagrams.net Converter Simultaneously Stitching Web Apps
 
 ## Influence
 ### What's Inside?
-* Sketch and diagrams.net Live Browser Object Model (BOM) construed via Babel
-* Gatsby + Strapi resulting complete generation of 'asymmetric I/O'
+* Sketch To diagrams.net Transformer construed via Babel
+* Gatsby projects generation connectors 'cross-connecting' Strapi projects generation connectors
 
 ## Installation
 ```sh

@@ -1,198 +1,127 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+<h1 align="center">paxos-raft </h1>
+
+> Post-Programming: Automata Autonomous Clélie Rose <br/>
+
+  
+### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
+
+## Quick Start
+* Install: `'paxos-raft' as plugins/extensions on Code, Diagram, or Book`
+* Export: `Programmer Jobs/Tasks as Git Repos`
+* UX: `Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains`
+<br/>
+
+<h3 align="center"> run 'paxos-raft' web: </h3>
+
+<p align="center">
+  <a href="https://gitpod.io/#https://github.com/paxos-raft/paxos-raft" target="_blank">
+    <img alt="Code" src="https://img.shields.io/badge/Code-FF4F00.svg" height="40" />
+  </a>
+  <a href="https://github.com/fjudith/docker-draw.io" target="_blank">
+    <img alt="Diagram" src="https://img.shields.io/badge/Diagram-960018.svg" height="40" />
+  </a>
+  <a href="https://mybinder.org/v2/gh/paxos-raft/paxos-raft/master?urlpath=lab/tree/index.book.ipynb" target="_blank">
+    <img alt="Book" src="https://img.shields.io/badge/Book-4C2882.svg" height="40" />
+  </a>
+  </p>
+  
+  <br/>
+
+## Motivation
+
+> Automata create Static Affect on Field e.g. Car i.e. E = mc<sup>2</sup>
+
+### Synthesis of Candy Flip
+Mathematical Induction: The ethereal natures of Automata can be described by Homomorphism e.g. functors and vectors  
+
+* Organic Compounds and their time-dimensional climate change posses same virtues
+
+So, mentioned are the originations of our eureka Benzene Ring:
+
+<p align="center"> 
+ DRY ≟ Moore's Law
+</p>
+  
+  tl;dr: everything tech is programmed/packaged/deployed || transpiled by your PC
+  
+<br/>
+
+## Yo-Yo Talk
+
+### Why it uses Babel?
+Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations
+
+### Again, What it does?
+It automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 
+
+### Why so much indulgence in BI?
+* BI is widely recognized in Banking/Financial Industries
+* It has been the core of professions such as Analytics and Business Process Management 
+* Whole corporations such as SAP can be described as BI Firms
+* The origins of Big Data/ETL i.e. ML/AI Pipelines is traced to BI World
+
+In simple words, maturations and abstractions of domain-specific automations are BI Softwares and BI Notations 
+
+### Can you 420 blaze it w.r.t modern alternatives?
+#### Web/App Development 
+It automates every aspect of web/app developers occupation 
+
+#### Cloud Computing
+It reduces cost of devops to zero and generates zero-cost cloud computing deployment graphs
+
+#### Business Intelligence (BI) 
+Traditional BI softwares are vendor-locked and domain-locked, guided by domain-driven design, whereas it unlocks a <br/> BI Tool i.e. diagrams.net for exposing asynchronous domain-agnostic Turing complete mathematics to <br/> non-programmers/partial-programmers 
+
+#### Artificial Intelligence/Machine Learning
+Prophet, AutoML, JupyterLab, Google AI, Tensorflow Models, and Training Data on-click in-chunks <br/> for Fortune 500 AI/ML Workloads
+
+### Help me with Troubleshoot
+<p> Help yourself with <a href="https://github.com/paxos-raft/paxos-raft/blob/master/docs/TROUBLESHOOT.md" target="_blank">
+    Troubleshoot
+  </a>
+ </p>
+
+### What are its Base Packages?
+* [draw-map](https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-map)
+* [sketch-draw](https://github.com/paxos-raft/paxos-raft/tree/master/packages/sketch-draw)
+* [draw-jupyter](https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-jupyter)
+* [draw-cloud](https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-cloud)
+* [gatsby-ant](https://github.com/paxos-raft/paxos-raft/tree/master/packages/gatsby-ant)
+* [react-react-native](https://github.com/paxos-raft/paxos-raft/tree/master/packages/react-react-native)
+
+### Tell me Orchestration Infra?
+* [Gatsby](https://www.gatsbyjs.org/)
+* [Strapi](https://strapi.io/)
+* [Helm](https://helm.sh/)
+* [TensorFlow](https://www.tensorflow.org/) + [Google AI](https://ai.google/)
+* [Yeoman](https://yeoman.io/)
+
+### Contributing
+
+Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are wanted <br />
+<p>
+  <a href="https://github.com/prateekrastogi" target="_blank">
+  <img alt="Prateek Rastogi" src="https://avatars0.githubusercontent.com/u/14788991?s=460&v=4" height="36"/>
+  </a>
+  <a href="https://github.com/asymmetrickal" target="_blank">
+  <img alt="Verónica Juderías" src="https://avatars3.githubusercontent.com/u/53858466?s=460&v=4" height="36"/>
+  </a>
+  </p>
+
+### License
+
+Xerox PARC
+
+<p align="center">
+  <a href="https://github.com/paxos-raft/paxos-raft#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/static/v1?label=Documentation&message=yes&color=black&labelColor=black" />
+  </a>
+  <a href="https://www.npmjs.com/package/paxos-raft">
+  <img src="https://img.shields.io/npm/dm/paxos-raft?label=Monthly+Active+Users&style=social" alt="Monthly Active Users" height="20"/>
+  </a>
+  <a href="https://github.com/paxos-raft/paxos-raft" target="_blank">
+    <img alt="Maintained" src="https://img.shields.io/static/v1?label=Maintained&message=yes&color=black&labelColor=black" />
+  </a>
+</p>
 
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
-
-# Repository Title Goes Here
-
-> Subtitle or Short Description Goes Here
-
-> ideally one sentence
-
-> include terms/tags that can be searched
-
-**Badges will go here**
-
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
-
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/pulls) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
-
-- For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
-
-***INSERT ANOTHER GRAPHIC HERE***
-
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
-
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
-
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
-**Recordit**
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
-
----
-
-## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
-
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
-
-
----
-
-## Example (Optional)
-
-```javascript
-// code away!
-
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
-```
-
----
-
-## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
-
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
-
-### Setup
-
-- If you want more syntax highlighting, format your code like this:
-
-> update and install this package first
-
-```shell
-$ brew update
-$ brew install fvcproductions
-```
-
-> now install npm and bower packages
-
-```shell
-$ npm install
-$ bower install
-```
-
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
-
----
-
-## Features
-## Usage (Optional)
-## Documentation (Optional)
-## Tests (Optional)
-
-- Going into more detail on code and technologies used
-- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
-
----
-
-## Contributing
-
-> To get started...
-
-### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
-
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
-
----
-
-## Team
-
-> Or Contributors/People
-
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
-| :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
-
-- You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
-
----
-
-## FAQ
-
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
-
----
-
-## Support
-
-Reach out to me at one of the following places!
-
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
-
----
-
-## Donations (Optional)
-
-- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
-
-
----
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.

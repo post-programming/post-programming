@@ -15,13 +15,13 @@
 
 <p align="center">
   <a href="https://gitpod.io/#https://github.com/paxos-raft/paxos-raft" target="_blank">
-    <img alt="VS Code" src="https://img.shields.io/badge/Code-FF4F00.svg" height="40" />
+    <img alt="Code" src="https://img.shields.io/badge/Code-FF4F00.svg" height="40" />
   </a>
   <a href="https://github.com/fjudith/docker-draw.io" target="_blank">
-    <img alt="Diagrams" src="https://img.shields.io/badge/Diagram-960018.svg" height="40" />
+    <img alt="Diagram" src="https://img.shields.io/badge/Diagram-960018.svg" height="40" />
   </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img alt="JupyterLab" src="https://img.shields.io/badge/Book-4C2882.svg" height="40" />
+  <a href="https://mybinder.org/v2/gh/paxos-raft/paxos-raft/master?urlpath=lab/tree/index.ipynb" target="_blank">
+    <img alt="Book" src="https://img.shields.io/badge/Book-4C2882.svg" height="40" />
   </a>
   </p>
   

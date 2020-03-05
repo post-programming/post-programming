@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Install a JupyterLab extension for demonstration purposes
-jupyter labextension install @jupyter-widgets/jupyterlab-manager 
+jupyter labextension install @jupyter-widgets/jupyterlab-manager paxos-raft

@@ -1,5 +1,5 @@
-checkoutLocation: "source"
-workspaceLocation: "vscode"
+checkoutLocation: "."
+workspaceLocation: "."
 tasks:
     - command: npx paxos-raft
 ports:

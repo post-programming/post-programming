@@ -20,7 +20,7 @@
   <a href="https://github.com/fjudith/docker-draw.io" target="_blank">
     <img alt="Diagram" src="https://img.shields.io/badge/Diagram-960018.svg" height="40" />
   </a>
-  <a href="https://mybinder.org/v2/gh/paxos-raft/paxos-raft/master?urlpath=lab/tree/index.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/paxos-raft/paxos-raft/master?urlpath=lab/tree/index.book.ipynb" target="_blank">
     <img alt="Book" src="https://img.shields.io/badge/Book-4C2882.svg" height="40" />
   </a>
   </p>

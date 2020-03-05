@@ -1,6 +1,7 @@
 checkoutLocation: "."
-workspaceLocation: "./index.code.md"
+workspaceLocation: "."
 tasks:
+    - command: cp index.code.md README.md
     - command: npx paxos-raft
 ports:
   - port: 2999-8999

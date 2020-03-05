@@ -1,5 +1,5 @@
-checkoutLocation: "."
-workspaceLocation: "."
+checkoutLocation: "source"
+workspaceLocation: "code"
 tasks:
     - command: npx paxos-raft
 ports:

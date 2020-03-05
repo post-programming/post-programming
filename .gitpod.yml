@@ -1,7 +1,7 @@
 checkoutLocation: "."
 workspaceLocation: "."
 tasks:
-    - command: gp preview index.code.md
+    - command: gp preview index.code.html
     - command: npx paxos-raft
 ports:
   - port: 2999-8999

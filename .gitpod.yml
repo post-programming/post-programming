@@ -1,7 +1,9 @@
 checkoutLocation: "."
 workspaceLocation: "."
 tasks:
-    - command: npx paxos-raft
+    - command: |
+      code gitpod.yml  
+      npx paxos-raft
 ports:
   - port: 2999-8999
     onOpen: ignore

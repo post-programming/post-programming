@@ -1,5 +1,5 @@
 [[redirects]]
   from = "*"
-  to = "https://github.com/paxos-raft/paxos-raft/tree/master/website/book?urlpath=lab/tree/index.book.ipynb"
+  to = "https://mybinder.org/v2/gh/paxos-raft/paxos-raft/tree/master/website/book?urlpath=lab/tree/index.book.ipynb"
   status = 301
   force = true

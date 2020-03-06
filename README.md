@@ -52,7 +52,7 @@ So, mentioned are the originations of our eureka Benzene Ring:
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations
 
 ### How it uses Docker?
-Theoretically, in scope of this project, Docker is one-on-one mapped to Developer's Local Machine i.e. PC
+Theoretically, in this project, Docker is 1-on-1 mapped to Developer's Local Machine i.e. PC
 
 ### Again, What it does?
 It automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 

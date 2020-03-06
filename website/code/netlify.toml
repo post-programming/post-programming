@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "*"
-  to = "https://gitpod.io/#https://github.com/paxos-raft/paxos-raft"
-  status = 301
-  force = true

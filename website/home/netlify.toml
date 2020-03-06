@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "*"
-  to = "https://github.com/paxos-raft/paxos-raft#readme"
-  status = 301
-  force = true

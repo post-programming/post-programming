@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "*"
+  to = "https://mybinder.org/v2/gh/paxos-raft/book/master?urlpath=lab/tree/index.ipynb"
+  status = 301
+  force = true

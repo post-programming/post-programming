@@ -3,14 +3,10 @@
 > Post-Programming: Automata Autonomous Clélie Clouds <br/>
 
   
-### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
-
-## Quick Start
-<br/>
-
-<h3 align="center"> run 'paxos-raft' web: </h3>
+### [](https://github.com/paxos-raft/paxos-raft#readme)
 
 <p align="center">
+  <br/>
   <a href="https://code.paxos-raft.com" target="_blank">
     <img alt="Code" src="https://img.shields.io/badge/Code-FF4F00.svg" height="40" />
   </a>
@@ -21,6 +17,13 @@
     <img alt="Book" src="https://img.shields.io/badge/Book-4C2882.svg" height="40" />
   </a>
   </p>
+  <br/>
+  
+## Manual
+
+* Install: `'paxos-raft' as plugins/extensions on local instances of VS Code, diagrams.net, or JupyterLab`
+* Export: `Programmer Jobs/Tasks as Git Repos`
+* UX: `Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains`
   
   <br/>
 

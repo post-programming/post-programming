@@ -16,14 +16,14 @@
     <img alt="Book" src="https://img.shields.io/badge/Book-4C2882.svg" height="40" />
   </a>
   </p>
-  
+  <br/>
   
 ## Instructions
 
 * Launch: `'paxos-raft' as plugins/extensions on local/cloud instances of VS Code, diagrams.net, or JupyterLab`
 * Experience: `Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains`
 * Export: `Programmer Jobs/Tasks as Git Repos`
-
+<br/>
 
 ## Motivation
 

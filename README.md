@@ -103,10 +103,10 @@ Prophet, AutoML, JupyterLab, Google AI, Tensorflow Models, and Training Data on-
 Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are wanted <br />
 <p>
   <a href="https://github.com/prateekrastogi" target="_blank">
-  <img alt="Prateek Rastogi" src="https://avatars0.githubusercontent.com/u/14788991?s=460&v=4" height="36"/>
+  <img alt="Prateek Rastogi" src="https://avatars0.githubusercontent.com/u/14788991?s=460&v=4" height="40"/>
   </a>
   <a href="https://github.com/asymmetrickal" target="_blank">
-  <img alt="Verónica Juderías" src="https://avatars3.githubusercontent.com/u/53858466?s=460&v=4" height="36"/>
+  <img alt="Verónica Juderías" src="https://avatars3.githubusercontent.com/u/53858466?s=460&v=4" height="40"/>
   </a>
   </p>
 

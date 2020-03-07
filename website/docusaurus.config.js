@@ -1,26 +1,26 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'paxos-raft',
+  tagline: 'Automata Autonomous Clélie Cloud',
+  url: 'https://paxos-raft.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'paxos-raft', // Usually your GitHub org/user name.
+  projectName: 'paxos-raft', // Usually your repo name.
   themeConfig: {
+  disableDarkMode: true,
+  algolia: {
+    apiKey: 'api-key',
+    indexName: 'index-name',
+    algoliaOptions: {}, // Optional, if provided by Algolia
+  },
     navbar: {
-      title: 'My Site',
+      title: 'paxos-raft',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'paxos-raft',
         src: 'img/logo.svg',
       },
       links: [
-        {to: 'docs/doc1', label: 'Docs', position: 'left'},
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+    
       ],
     },
     footer: {
@@ -32,11 +32,7 @@ module.exports = {
             {
               label: 'Style Guide',
               to: 'docs/doc1',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2',
-            },
+            }
           ],
         },
         {
@@ -44,33 +40,25 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/questions/tagged/post-programming',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
+              label: 'GitHub',
+              href: 'https://github.com/paxos-raft/paxos-raft',
+            }
           ],
         },
         {
           title: 'Social',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-            {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/femzrd',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: ` ${new Date().getFullYear()} paxos-raft, Inc.`,
     },
   },
   presets: [

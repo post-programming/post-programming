@@ -1,31 +1,30 @@
 <h1 align="center">paxos-raft </h1>
 
-> Post-Programming: Automata Autonomous Clélie Clouds <br/>
+> Post-Programming: Automata Autonomous Clélie Clouds 
 
   
 ### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
 
-## Quick Start
-* Install: `'paxos-raft' as plugins/extensions on Code, Diagram, or Book`
-* Export: `Programmer Jobs/Tasks as Git Repos`
-* UX: `Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains`
 <br/>
-
-<h3 align="center"> run 'paxos-raft' web: </h3>
-
 <p align="center">
   <a href="https://code.paxos-raft.com" target="_blank">
-    <img alt="Code" src="https://img.shields.io/badge/Code-FF4F00.svg" height="40" />
+    <img alt="Code" src="https://img.shields.io/badge/Code-FF4F00.svg" height="80" />
   </a>
   <a href="https://diagram.paxos-raft.com" target="_blank">
-    <img alt="Diagram" src="https://img.shields.io/badge/Diagram-960018.svg" height="40" />
+    <img alt="Diagram" src="https://img.shields.io/badge/Diagram-960018.svg" height="80" />
   </a>
   <a href="https://book.paxos-raft.com" target="_blank">
-    <img alt="Book" src="https://img.shields.io/badge/Book-4C2882.svg" height="40" />
+    <img alt="Book" src="https://img.shields.io/badge/Book-4C2882.svg" height="80" />
   </a>
   </p>
-  
   <br/>
+  
+## Instructions
+
+* Launch: `'paxos-raft' as plugins/extensions on local/cloud instances of VS Code, diagrams.net, or JupyterLab`
+* Ideate: `Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains`
+* Export: `Programmer Jobs/Tasks as Git Repos`
+<br/>
 
 ## Motivation
 
@@ -48,14 +47,14 @@ So, mentioned are the originations of our eureka Benzene Ring:
 
 ## Yo-Yo Talk
 
+### Again, What it does?
+It automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time.
+
 ### Why it uses Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations
 
 ### How it uses Docker?
-Theoretically, in this project, Docker is 1-on-1 mapped to developer's local environment on PC
-
-### Again, What it does?
-It automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 
+Theoretically, in this project, Docker is 1-on-1 mapped to developer's development environment on PC 
 
 ### Why so much indulgence in BI?
 * BI is widely recognized in Banking/Financial Industries

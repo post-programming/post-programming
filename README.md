@@ -48,14 +48,14 @@ So, mentioned are the originations of our eureka Benzene Ring:
 
 ## Yo-Yo Talk
 
+### Again, What it does?
+It automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time.
+
 ### Why it uses Babel?
 Focusing on Consensus, Babel has support of JS Ecosystem for Turing Complete Transformations
 
 ### How it uses Docker?
-Theoretically, in this project, Docker is 1-on-1 mapped to developer's development environment on PC
-
-### Again, What it does?
-It automatically renders full-fledged Web/Mobile Apps with latest ML/AI and cheapest Cloud Computing, <br/> employing best of cutting-edge technologies such as React, React Native, Node.js, Kubernetes, Tensorflow etc. <br/> to erode programming work and turnaround time. 
+Theoretically, in this project, Docker is 1-on-1 mapped to developer's development environment on PC 
 
 ### Why so much indulgence in BI?
 * BI is widely recognized in Banking/Financial Industries

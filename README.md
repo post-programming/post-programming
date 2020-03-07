@@ -21,7 +21,7 @@
 ## Instructions
 
 * Launch: `'paxos-raft' as plugins/extensions on local/cloud instances of VS Code, diagrams.net, or JupyterLab`
-* Experience: `Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains`
+* Develop: `Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains`
 * Export: `Programmer Jobs/Tasks as Git Repos`
 <br/>
 

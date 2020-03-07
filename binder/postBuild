@@ -1,6 +1,4 @@
 #!/bin/bash
 
-conda install nodejs
-
 # Install a JupyterLab extension for demonstration purposes
-jupyter labextension install @jupyter-widgets/jupyterlab-manager paxos-raft jupyter-matplotlib
+jupyter labextension install @jupyter-widgets/jupyterlab-manager paxos-raft

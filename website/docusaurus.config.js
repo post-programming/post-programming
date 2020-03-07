@@ -1,8 +1,8 @@
 module.exports = {
   title: 'paxos-raft',
   tagline: 'Automata Autonomous Clélie Cloud',
-  url: 'https://paxos-raft.com',
-  baseUrl: '/',
+  url: 'https://paxos-raft.netlify.com',
+  baseUrl: '/website',
   favicon: 'img/favicon.ico',
   organizationName: 'paxos-raft', // Usually your GitHub org/user name.
   projectName: 'paxos-raft', // Usually your repo name.

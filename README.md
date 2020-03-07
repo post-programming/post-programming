@@ -1,6 +1,6 @@
 <h1 align="center">paxos-raft </h1>
 
-> Post-Programming: Automata Autonomous Clélie Clouds 
+> Post-Programming: Automata Autonomous Clélie Cloud 
 
   
 ### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)

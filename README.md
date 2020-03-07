@@ -1,10 +1,11 @@
 <h1 align="center">paxos-raft </h1>
 
-> Post-Programming: Automata Autonomous Clélie Clouds <br/>
+> Post-Programming: Automata Autonomous Clélie Clouds 
 
   
 ### [](https://github.com/paxos-raft/paxos-raft#readme)
 
+<br/>
 <p align="center">
   <a href="https://code.paxos-raft.com" target="_blank">
     <img alt="Code" src="https://img.shields.io/badge/Code-FF4F00.svg" height="40" />

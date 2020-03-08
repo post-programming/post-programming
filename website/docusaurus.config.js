@@ -1,9 +1,9 @@
 module.exports = {
-  title: 'paxos-raft',
+  title: 'Post-Programming',
   tagline: 'Automata Autonomous Clélie Cloud',
   url: 'https://paxos-raft.com',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icon.png',
   organizationName: 'paxos-raft', // Usually your GitHub org/user name.
   projectName: 'paxos-raft', // Usually your repo name.
   themeConfig: {

@@ -46,7 +46,7 @@
         "lerna:bootstrap": "lerna bootstrap",
         "lerna:test": "lerna run test",
         "lerna:publish": "lerna version patch --yes && lerna publish from-package --yes",
-        "lint": "standard packages/**/**/*.js --fix"
+        "lint": "standard --fix"
     },
     "husky": {
         "hooks": {

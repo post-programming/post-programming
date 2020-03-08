@@ -18,4 +18,5 @@
 
 .footer.footer--dark {
   --ifm-footer-background-color: #000000;
+  --ifm-footer-link-hover-color: #ffffff;
 }

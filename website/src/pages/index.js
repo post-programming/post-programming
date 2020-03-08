@@ -9,7 +9,7 @@ import styles from './styles.module.css'
 const features = [
   {
     title: 'Code',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/code.jpg',
     href: 'https://code.paxos-raft.com/',
     description: (
       <>
@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: 'Diagram',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/diagram.jpg',
     href: 'https://diagram.paxos-raft.com/',
     description: (
       <>
@@ -29,7 +29,7 @@ const features = [
   },
   {
     title: 'Book',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/book.jpg',
     href: 'https://book.paxos-raft.com/',
     description: (
       <>

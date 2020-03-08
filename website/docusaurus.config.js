@@ -19,9 +19,7 @@ module.exports = {
         alt: 'paxos-raft',
         src: 'img/logo.svg'
       },
-      links: [
-
-      ]
+      links: []
     },
     footer: {
       style: 'dark',

@@ -46,7 +46,7 @@ function Feature ({ imageUrl, title, href, description }) {
   const imgUrl = useBaseUrl(imageUrl)
   return (
     <div className={classnames('col col--4', styles.feature)}>
-      <Link to={href}>
+      <Link to={href} target='_blank' rel='noopener noreferrer'>
         {imgUrl && (
           <div className='text--center'>
             <img className={styles.featureImage} src={imgUrl} alt={title} />
@@ -65,7 +65,7 @@ function Home () {
   return (
     <Layout
       title={`${siteConfig.organizationName}`}
-      description='Automata Autonomous Clélie Cloud <head />'
+      description='Automata Autonomous Clélie Cloud'
     >
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className='container'>

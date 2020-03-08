@@ -7,7 +7,7 @@ import styles from './styles.module.css'
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>Code</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
@@ -17,7 +17,7 @@ const features = [
     )
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Diagram</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
@@ -27,7 +27,7 @@ const features = [
     )
   },
   {
-    title: <>Powered by React</>,
+    title: <>Book</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>

@@ -19,7 +19,13 @@ module.exports = {
         alt: 'paxos-raft',
         src: 'img/logo.svg'
       },
-      links: []
+      links: [
+        {
+          href: 'https://github.com/paxos-raft/paxos-raft',
+          label: 'GitHub',
+          position: 'left'
+        }
+      ]
     },
     footer: {
       style: 'dark',

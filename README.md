@@ -14,7 +14,7 @@
     <img alt="Diagram" src="https://img.shields.io/badge/Diagram-960018.svg" height="60" />
   </a>
   <a href="https://book.paxos-raft.com" target="_blank">
-    <img alt="Book" src="https://img.shields.io/badge/Book-4C2882.svg" height="60" />
+    <img alt="Book" src="https://img.shields.io/badge/Book-66023C.svg" height="60" />
   </a>
   </p>
   <br/>

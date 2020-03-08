@@ -7,7 +7,6 @@ module.exports = {
   organizationName: 'paxos-raft', // Usually your GitHub org/user name.
   projectName: 'paxos-raft', // Usually your repo name.
   themeConfig: {
-    disableDarkMode: true,
     algolia: {
       apiKey: 'api-key',
       indexName: 'index-name',

@@ -8,7 +8,7 @@ import styles from './styles.module.css'
 
 const features = [
   {
-    title: <>Code</>,
+    title: 'Code',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     href: 'https://code.paxos-raft.com/',
     description: (
@@ -18,7 +18,7 @@ const features = [
     )
   },
   {
-    title: <>Diagram</>,
+    title: 'Diagram',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     href: 'https://diagram.paxos-raft.com/',
     description: (
@@ -28,7 +28,7 @@ const features = [
     )
   },
   {
-    title: <>Book</>,
+    title: 'Book',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     href: 'https://book.paxos-raft.com/',
     description: (

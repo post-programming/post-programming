@@ -14,9 +14,11 @@
   --ifm-color-primary-lighter: #000000;
   --ifm-color-primary-lightest: #000000;
   --ifm-code-font-size: 95%;
+  --ifm-link-hover-decoration: none;
 }
 
 .footer.footer--dark {
   --ifm-footer-background-color: #000000;
   --ifm-footer-link-hover-color: #ffffff;
+  --ifm-link-hover-decoration: underline;
 }

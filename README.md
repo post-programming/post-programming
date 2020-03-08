@@ -1,6 +1,6 @@
 <h1 align="center">paxos-raft </h1>
 
-> Post-Programming: Automata Autonomous Clélie Clouds 
+> Post-Programming: Automata Autonomous Clélie Cloud 
 
   
 ### [Homepage](https://github.com/paxos-raft/paxos-raft#readme)
@@ -8,13 +8,13 @@
 <br/>
 <p align="center">
   <a href="https://code.paxos-raft.com" target="_blank">
-    <img alt="Code" src="https://img.shields.io/badge/Code-FF4F00.svg" height="80" />
+    <img alt="Code" src="https://img.shields.io/badge/Code-FF4F00.svg" height="60" />
   </a>
   <a href="https://diagram.paxos-raft.com" target="_blank">
-    <img alt="Diagram" src="https://img.shields.io/badge/Diagram-960018.svg" height="80" />
+    <img alt="Diagram" src="https://img.shields.io/badge/Diagram-960018.svg" height="60" />
   </a>
   <a href="https://book.paxos-raft.com" target="_blank">
-    <img alt="Book" src="https://img.shields.io/badge/Book-4C2882.svg" height="80" />
+    <img alt="Book" src="https://img.shields.io/badge/Book-4C2882.svg" height="60" />
   </a>
   </p>
   <br/>
@@ -22,7 +22,7 @@
 ## Instructions
 
 * Launch: `'paxos-raft' as plugins/extensions on local/cloud instances of VS Code, diagrams.net, or JupyterLab`
-* Ideate: `Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains`
+* Surf: `Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains`
 * Export: `Programmer Jobs/Tasks as Git Repos`
 <br/>
 
@@ -103,10 +103,10 @@ Prophet, AutoML, JupyterLab, Google AI, Tensorflow Models, and Training Data on-
 Connotations, Hyperlinks, Contributions, Issues, and Feature Requests are wanted <br />
 <p>
   <a href="https://github.com/prateekrastogi" target="_blank">
-  <img alt="Prateek Rastogi" src="https://avatars0.githubusercontent.com/u/14788991?s=460&v=4" height="36"/>
+  <img alt="Prateek Rastogi" src="https://avatars0.githubusercontent.com/u/14788991?s=460&v=4" height="40"/>
   </a>
   <a href="https://github.com/asymmetrickal" target="_blank">
-  <img alt="Verónica Juderías" src="https://avatars3.githubusercontent.com/u/53858466?s=460&v=4" height="36"/>
+  <img alt="Verónica Juderías" src="https://avatars3.githubusercontent.com/u/53858466?s=460&v=4" height="40"/>
   </a>
   </p>
 
@@ -116,13 +116,13 @@ Xerox PARC
 
 <p align="center">
   <a href="https://github.com/paxos-raft/paxos-raft#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/static/v1?label=Documentation&message=yes&color=black&labelColor=black" />
+    <img alt="Documentation" src="https://img.shields.io/static/v1?label=Documentation&message=yes&color=black&labelColor=black" height="20"/>
   </a>
   <a href="https://www.npmjs.com/package/paxos-raft">
   <img src="https://img.shields.io/npm/dm/paxos-raft?label=Monthly+Active+Users&style=social" alt="Monthly Active Users" height="20"/>
   </a>
   <a href="https://github.com/paxos-raft/paxos-raft" target="_blank">
-    <img alt="Maintained" src="https://img.shields.io/static/v1?label=Maintained&message=yes&color=black&labelColor=black" />
+    <img alt="Maintained" src="https://img.shields.io/static/v1?label=Maintained&message=yes&color=black&labelColor=black" height="20"/>
   </a>
 </p>
 

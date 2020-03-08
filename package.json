@@ -1,6 +1,6 @@
 {
     "name": "paxos-raft",
-    "description": "Post-Programming: Automata Autonomous Clélie Clouds",
+    "description": "Post-Programming: Automata Autonomous Clélie Cloud",
     "bin": "index.js",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",

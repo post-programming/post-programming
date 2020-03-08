@@ -12,6 +12,6 @@ export const Highlight = ({children, color}) => ( <span style={{
       padding: '0.2rem',
     }}> {children} </span> );
 
-<Highlight color="#000000">Black</Highlight> and <Highlight color="#000000">White</Highlight> are my favorite colors.
+My favorite colors: <Highlight color="#000000">Black & White</Highlight>
 
 I can write **Markdown** alongside my _JSX_!

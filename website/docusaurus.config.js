@@ -15,7 +15,7 @@ module.exports = {
       algoliaOptions: {} // Optional, if provided by Algolia
     },
     googleAnalytics: {
-      trackingID: 'G-YBCBRSE693',
+      trackingID: 'G-KLXGBPP8GX',
       // Optional fields.
       anonymizeIP: false // Should IPs be anonymized?
     },

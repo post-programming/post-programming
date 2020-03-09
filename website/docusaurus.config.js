@@ -6,12 +6,18 @@ module.exports = {
   favicon: 'img/icon.png',
   organizationName: 'paxos-raft', // Usually your GitHub org/user name.
   projectName: 'paxos-raft', // Usually your repo name.
+  plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
     disableDarkMode: true,
     algolia: {
       apiKey: 'api-key',
       indexName: 'index-name',
       algoliaOptions: {} // Optional, if provided by Algolia
+    },
+    googleAnalytics: {
+      trackingID: 'G-YBCBRSE693',
+      // Optional fields.
+      anonymizeIP: false // Should IPs be anonymized?
     },
     navbar: {
       title: 'paxos-raft',

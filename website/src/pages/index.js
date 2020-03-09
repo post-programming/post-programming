@@ -13,7 +13,7 @@ const features = [
     href: 'https://code.paxos-raft.com/',
     description: (
       <>
-      Automatic Code Reproduction At Your Fingertips.
+      Cross-Code Generation At Your Fingertips
       </>
     )
   },
@@ -23,7 +23,7 @@ const features = [
     href: 'https://diagram.paxos-raft.com/',
     description: (
       <>
-        Draw, Connect, and Map Technology.
+        Draw, Connect, and Map Technology
       </>
     )
   },
@@ -33,7 +33,7 @@ const features = [
     href: 'https://book.paxos-raft.com/',
     description: (
       <>
-        Deep Dive Innovation Research.
+        Deep Dive Innovation Research
       </>
     )
   }
@@ -47,10 +47,9 @@ function Feature ({ imageUrl, title, href, description }) {
         {imgUrl && (
           <div className='text--center'>
             <img className={styles.featureImage} src={imgUrl} alt={title} />
+            <h3>&lt;{title}&gt; {description}</h3>
           </div>
         )}
-        <h3>{title}</h3>
-        <p>{description}</p>
       </Link>
     </div>
   )

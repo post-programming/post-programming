@@ -15,6 +15,7 @@
   --ifm-color-primary-lightest: #000000;
   --ifm-code-font-size: 95%;
   --ifm-link-hover-decoration: none;
+  --ifm-container-width: 100%;
 }
 
 .footer.footer--dark {

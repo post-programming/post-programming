@@ -14,6 +14,10 @@
   .heroBanner {
     padding: 2rem;
   }
+  .featureImage {
+    height: 320px;
+    width: 1000%;
+  }
 }
 
 .buttons {
@@ -25,11 +29,11 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 4rem 0;
+  padding: 6rem 0;
   width: 100%;
 }
 
 .featureImage {
-  height: 320px;
+  height: 100%;
   width: 80%;
 }

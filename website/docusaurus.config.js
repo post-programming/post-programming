@@ -9,11 +9,6 @@ module.exports = {
   plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
     disableDarkMode: true,
-    algolia: {
-      apiKey: 'api-key',
-      indexName: 'index-name',
-      algoliaOptions: {} // Optional, if provided by Algolia
-    },
     googleAnalytics: {
       trackingID: 'G-KLXGBPP8GX',
       // Optional fields.
@@ -29,7 +24,7 @@ module.exports = {
         {
           href: 'https://github.com/paxos-raft/paxos-raft',
           label: 'GitHub',
-          position: 'left'
+          position: 'right'
         }
       ]
     },

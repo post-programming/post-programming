@@ -13,7 +13,7 @@ const features = [
     href: 'https://code.paxos-raft.com/',
     description: (
       <>
-      Cross-Code Generation At Your Fingertips
+      Cross-Code Reproduction At Your Fingertips
       </>
     )
   },

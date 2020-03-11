@@ -10,7 +10,7 @@ module.exports = {
   themeConfig: {
     disableDarkMode: true,
     googleAnalytics: {
-      trackingID: 'G-KLXGBPP8GX'
+      trackingID: 'UA-160277294-1'
     },
     navbar: {
       title: 'paxos-raft',

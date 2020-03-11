@@ -6,11 +6,19 @@ module.exports = {
   favicon: 'img/icon.png',
   organizationName: 'paxos-raft', // Usually your GitHub org/user name.
   projectName: 'paxos-raft', // Usually your repo name.
-  plugins: ['@docusaurus/plugin-google-analytics'],
+  plugins: [
+    '@docusaurus/plugin-google-gtag',
+    '@docusaurus/plugin-sitemap',
+    {
+      cacheTime: 600 * 1000, // 600 sec - cache purge period
+      changefreq: 'weekly',
+      priority: 0.5
+    }
+  ],
   themeConfig: {
     disableDarkMode: true,
-    googleAnalytics: {
-      trackingID: 'UA-160277294-1'
+    gtag: {
+      trackingID: 'G-KLXGBPP8GX'
     },
     navbar: {
       title: 'paxos-raft',

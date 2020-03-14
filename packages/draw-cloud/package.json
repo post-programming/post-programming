@@ -3,8 +3,8 @@
   "version": "0.0.95",
   "description": "diagrams.net Cloud Computing Layout",
   "keywords": [
-    "draw.io",
-    "cloud computing"
+    "draw",
+    "helm"
   ],
   "author": "Prateek Rastogi",
   "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-cloud-computing#readme",

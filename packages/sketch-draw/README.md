@@ -10,11 +10,11 @@
 </p>
 
 
-> diagrams.net Image Decomposer Importer and Web Apps Stitcher
+> Sketch & Draw Stitching Web Apps
 
 ## Influence
 ### What's Inside?
-* Image To diagrams.net Code Generator
+* Code-Image Decomposition and Reconstruction
 * Gatsby and React Native projects generation connectors 'cross-connecting' Strapi projects generation connectors
 * diagrams.net Virtual DOM greedily orchestrating full-fledged Web Apps
 

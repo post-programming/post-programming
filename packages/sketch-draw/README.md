@@ -16,7 +16,7 @@
 ### What's Inside?
 * Code-Image Decomposition and Reconstruction
 * Gatsby and React Native projects generation connectors 'cross-connecting' Strapi projects generation connectors
-* diagrams.net Layered Virtual DOMs greedily orchestrating full-fledged Web Apps
+* diagrams.net Virtual Layers greedily orchestrating full-fledged Web Apps
 
 ## Installation
 ```sh

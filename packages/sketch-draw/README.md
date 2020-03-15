@@ -10,13 +10,13 @@
 </p>
 
 
-> diagrams.net Sketch Importer and Web Apps Stitcher
+> diagrams.net Image Decomposer Importer and Web Apps Stitcher
 
 ## Influence
 ### What's Inside?
-* Sketch To diagrams.net Transformer construed via Babel
-* Gatsby projects generation connectors 'cross-connecting' Strapi projects generation connectors
-* diagrams.net Virtual DOM striving full-fledged Web Apps
+* Image To diagrams.net Code Generator
+* Gatsby and React Native projects generation connectors 'cross-connecting' Strapi projects generation connectors
+* diagrams.net Virtual DOM greedily orchestrating full-fledged Web Apps
 
 ## Installation
 ```sh

@@ -23,7 +23,7 @@ const features = [
     href: 'https://diagram.paxos-raft.com/',
     description: (
       <>
-      Synthesis, Connect, and Map Technology
+      Synthesis, I/O, and Map Technology
       </>
     )
   },

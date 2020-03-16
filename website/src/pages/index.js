@@ -13,7 +13,7 @@ const features = [
     href: 'https://code.paxos-raft.com/',
     description: (
       <>
-      Cross-Code Reproduction At Your Fingertips
+      Adaptive Boilerplate Transducer
       </>
     )
   },

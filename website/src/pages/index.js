@@ -13,7 +13,7 @@ const features = [
     href: 'https://code.paxos-raft.com/',
     description: (
       <>
-      Reductive Boilerplate Transformer
+      Reductive Boilerplate Transform
       </>
     )
   },

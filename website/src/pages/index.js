@@ -13,7 +13,7 @@ const features = [
     href: 'https://code.paxos-raft.com/',
     description: (
       <>
-      Cross-Code Reproduction
+      Cross-Code Reproduction At Your Fingertips
       </>
     )
   },
@@ -33,7 +33,7 @@ const features = [
     href: 'https://book.paxos-raft.com/',
     description: (
       <>
-      Open Innovation Research
+      Integrated Open Innovation Research
       </>
     )
   }

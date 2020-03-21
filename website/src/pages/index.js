@@ -61,7 +61,7 @@ function Home () {
   return (
     <Layout
       title={`${siteConfig.organizationName}`}
-      description='Automata Autonomous Clélie Cloud'
+      description='Dev Photosynthesis'
     >
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className='container'>

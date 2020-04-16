@@ -1,6 +1,6 @@
 <h1 align="center">post-programming</h1>
 
-> Post-Programming: Automata Autonomous Clélie Cloud 
+> Post-Programming is formally defined as: Automata Autonomous Clélie Cloud 
 
 
 <br/>

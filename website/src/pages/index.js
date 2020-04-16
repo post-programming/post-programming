@@ -60,7 +60,6 @@ function Home () {
   const { siteConfig = {} } = context
   return (
     <Layout
-      title={`${siteConfig.organizationName}`}
       description='Dev Photosynthesis'
     >
       <header className={classnames('hero hero--primary', styles.heroBanner)}>

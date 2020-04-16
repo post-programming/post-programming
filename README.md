@@ -4,9 +4,7 @@
 
   
   
-## The Arguments Leading To Code Collapse of Journalism
-
-### Introduction of Post-Programming on NASA Mars Rover
+## The Arguments Leading To Shaming Of Journalism
 
 ```
 Since I took a slanted credit default swap at Github for not open-sourcing their own prod web code, here's relevant pieces of bulletin I tried getting logged for my HMM:
@@ -31,7 +29,6 @@ Feel free to throw your doubts and communicate everything needed to publish me i
 
 * URLs have been edited to reflect hyperlink changes, afterwords for SEO
 ```
-
 
 
 ## Pointfree

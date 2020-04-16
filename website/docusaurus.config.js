@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Post-Programming',
   tagline: 'Automata Autonomous Clélie Cloud',
-  url: 'https://paxos-raft.com',
+  url: 'https://post-programming.com',
   baseUrl: '/',
   favicon: 'img/icon.png',
   organizationName: 'post-programming', // Usually your GitHub org/user name.
@@ -23,7 +23,7 @@ module.exports = {
     navbar: {
       title: 'post-programming',
       logo: {
-        alt: 'paxos-raft',
+        alt: 'post-programming',
         src: 'img/logo.svg'
       },
       links: [
@@ -69,7 +69,7 @@ module.exports = {
           ]
         }
       ],
-      copyright: ` ${new Date().getFullYear()} post-programming, Inc.`
+      copyright: ` ${new Date().getFullYear()} paxos-raft, Inc.`
     }
   },
   presets: [

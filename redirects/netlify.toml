@@ -1,5 +1,5 @@
 [[redirects]]
   from = "*"
-  to = "https://github.com/paxos-raft/paxos-raft#readme"
+  to = "https://github.com/post-programming/post-programming#readme"
   status = 301
   force = true

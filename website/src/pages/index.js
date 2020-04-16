@@ -10,7 +10,7 @@ const features = [
   {
     title: 'Code',
     imageUrl: 'img/code.png',
-    href: 'https://code.paxos-raft.com/',
+    href: 'https://code.post-programming.com/',
     description: (
       <>
       Reductive Boilerplate Transpiler
@@ -20,7 +20,7 @@ const features = [
   {
     title: 'Diagram',
     imageUrl: 'img/diagram.png',
-    href: 'https://diagram.paxos-raft.com/',
+    href: 'https://diagram.post-programming.com/',
     description: (
       <>
       Synthesis, I/O, and Map Technology
@@ -30,7 +30,7 @@ const features = [
   {
     title: 'Book',
     imageUrl: 'img/book.png',
-    href: 'https://book.paxos-raft.com/',
+    href: 'https://book.post-programming.com/',
     description: (
       <>
       Integrated Open Innovation Research

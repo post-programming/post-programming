@@ -7,17 +7,17 @@
     "json"
   ],
   "author": "Prateek Rastogi",
-  "homepage": "https://github.com/paxos-raft/paxos-raft/tree/master/packages/draw-map#readme",
+  "homepage": "https://github.com/post-programming/post-programming/tree/master/packages/draw-map#readme",
   "license": "Xerox PARC",
   "main": "lib/draw-map.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prateekrastogi/paxos-raft.git"
+    "url": "git+https://github.com/prateekrastogi/post-programming.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 0"
   },
   "bugs": {
-    "url": "https://github.com/prateekrastogi/paxos-raft/issues"
+    "url": "https://github.com/prateekrastogi/post-programming/issues"
   }
 }

@@ -1,4 +1,4 @@
-<h1 align="center">paxos-raft </h1>
+<h1 align="center">post-programming</h1>
 
 > Post-Programming: Automata Autonomous Clélie Cloud 
 
@@ -6,13 +6,13 @@
 <br/>
 <br/>
 <p align="center">
-  <a href="https://code.paxos-raft.com" target="_blank">
+  <a href="https://code.post-programming.com" target="_blank">
     <img alt="Code" src="https://img.shields.io/badge/Code-FF4F00.svg" height="60" />
   </a>
-  <a href="https://diagram.paxos-raft.com" target="_blank">
+  <a href="https://diagram.post-programming.com" target="_blank">
     <img alt="Diagram" src="https://img.shields.io/badge/Diagram-960018.svg" height="60" />
   </a>
-  <a href="https://book.paxos-raft.com" target="_blank">
+  <a href="https://book.post-programming.com" target="_blank">
     <img alt="Book" src="https://img.shields.io/badge/Book-6F2DA8.svg" height="60" />
   </a>
   </p>

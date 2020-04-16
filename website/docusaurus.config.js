@@ -18,7 +18,7 @@ module.exports = {
   themeConfig: {
     disableDarkMode: true,
     gtag: {
-      trackingID: 'G-KLXGBPP8GX'
+      trackingID: 'G-7TWTMBQ4ZP'
     },
     navbar: {
       title: 'post-programming',

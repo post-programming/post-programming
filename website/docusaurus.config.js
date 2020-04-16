@@ -1,6 +1,5 @@
 module.exports = {
-  title: 'Post-Programming',
-  tagline: 'Automata Autonomous Clélie Cloud',
+  title: 'post-programming',
   url: 'https://post-programming.com',
   baseUrl: '/',
   favicon: 'img/icon.png',

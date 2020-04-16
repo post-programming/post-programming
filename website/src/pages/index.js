@@ -56,16 +56,14 @@ function Feature ({ imageUrl, title, href, description }) {
 }
 
 function Home () {
-  const context = useDocusaurusContext()
-  const { siteConfig = {} } = context
   return (
     <Layout
       description='Dev Photosynthesis'
     >
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className='container'>
-          <h1 className='hero__title'>{siteConfig.title}</h1>
-          <p className='hero__subtitle'>{siteConfig.tagline}</p>
+          <h1 className='hero__title'>Post-Programming</h1>
+          <p className='hero__subtitle'>Automata Autonomous Clélie Cloud</p>
         </div>
       </header>
       <main>

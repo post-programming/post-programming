@@ -7,8 +7,6 @@
 ## The Arguments Leading To Shaming Of Journalism
 
 ```
-Since I took a slanted credit default swap at Github for not open-sourcing their own prod web code, here's relevant pieces of bulletin I tried getting logged for my HMM:
-
 "Post-Programming" definition and its three fundamental laws are painted as 'homepage' of https://post-programming.com/. Taking it purely as an impressionist painting would yield its equivalence to "Un dimanche à la Grande Jatte" as mentioned by Itten in his book elements-of-color. So, please be gentle about dictionary multi-meaning of everything painted there. 
 Consider that snap as "single source of truth for extrapolations of post-programming definition in banking, business, medicinal sciences, programming, or human interactions". 
 

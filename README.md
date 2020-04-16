@@ -25,7 +25,7 @@ Though attached snap is still most complete painting of "Post-Programming", besi
 
 Feel free to throw your doubts and communicate everything needed to publish me in your post-programming article.
 
-* URLs have been edited to reflect hyperlink changes, afterwords for SEO
+* URLs have been edited to reflect hyperlink changes, afterwards for SEO
 ```
 
 

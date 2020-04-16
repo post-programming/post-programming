@@ -64,7 +64,7 @@ module.exports = {
           items: [
             {
               label: 'Twitter',
-              href: 'https://twitter.com/paxos-raft'
+              href: 'https://twitter.com/femzrd'
             }
           ]
         }

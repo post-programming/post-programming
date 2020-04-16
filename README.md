@@ -8,7 +8,7 @@
 
 ```
 "Post-Programming" definition and its three fundamental laws are painted as 'homepage' of https://post-programming.com/. Taking it purely as an impressionist painting would yield its equivalence to "Un dimanche à la Grande Jatte" as mentioned by Itten in his book elements-of-color. So, please be gentle about dictionary multi-meaning of everything painted there. 
-Consider that snap as "single source of truth for extrapolations of post-programming definition in banking, business, medicinal sciences, programming, or human interactions". 
+Consider that snap as 'single source of truth for extrapolations of post-programming definition in banking, business, medicinal sciences, programming, or human interactions'. 
 
 
 Since such painting will neither impress you nor lend me any credibility on publishing, below three links are shortest implementation guidelines on "Post-Programming" to `nullify i.e. code collapse` modern tech:

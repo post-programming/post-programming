@@ -69,7 +69,7 @@ module.exports = {
           ]
         }
       ],
-      copyright: ` ${new Date().getFullYear()} paxos-raft, Inc.`
+      copyright: ` ${new Date().getFullYear()} post-programming, Inc.`
     }
   },
   presets: [

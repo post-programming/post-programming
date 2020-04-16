@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://paxos-raft.com',
   baseUrl: '/',
   favicon: 'img/icon.png',
-  organizationName: 'paxos-raft', // Usually your GitHub org/user name.
-  projectName: 'paxos-raft', // Usually your repo name.
+  organizationName: 'post-programming', // Usually your GitHub org/user name.
+  projectName: 'post-programming', // Usually your repo name.
   plugins: [
     '@docusaurus/plugin-google-gtag',
     '@docusaurus/plugin-sitemap',
@@ -21,14 +21,14 @@ module.exports = {
       trackingID: 'G-KLXGBPP8GX'
     },
     navbar: {
-      title: 'paxos-raft',
+      title: 'post-programming',
       logo: {
         alt: 'paxos-raft',
         src: 'img/logo.svg'
       },
       links: [
         {
-          href: 'https://github.com/paxos-raft/paxos-raft',
+          href: 'https://github.com/post-programming/post-programming',
           label: 'GitHub',
           position: 'right'
         }
@@ -55,7 +55,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/paxos-raft/paxos-raft'
+              href: 'https://github.com/post-programming/post-programming'
             }
           ]
         },
@@ -64,12 +64,12 @@ module.exports = {
           items: [
             {
               label: 'Twitter',
-              href: 'https://twitter.com/femzrd'
+              href: 'https://twitter.com/paxos-raft'
             }
           ]
         }
       ],
-      copyright: ` ${new Date().getFullYear()} paxos-raft, Inc.`
+      copyright: ` ${new Date().getFullYear()} post-programming, Inc.`
     }
   },
   presets: [
@@ -79,7 +79,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/paxos-raft/paxos-raft/edit/master/website/'
+            'https://github.com/post-programming/post-programming/edit/master/website/'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css')

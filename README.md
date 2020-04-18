@@ -1,7 +1,26 @@
 <h1 align="center">post-programming</h1>
 
-> Post-Programming, after arguing with Techcrunch and Financial Times journalists on LinkedIn to the point of them losing their #startups, #metoo, and #coronavirus news trends credibility and their readers persecuting them for racial and sexual discrimination against me, is herein formally inscripted, on this day i.e. 16-April-2020, in the storms of COVID-19, as "Automata Autonomous Clélie Cloud" 
-
+  <br/>
+  <br/>
+  <br/>
+ 
+  
+  <p align="center">
+ <img alt="Code" src="https://raw.githubusercontent.com/post-programming/post-programming/master/website/static/img/icon.png" height="200" />
+  </p>
+  
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  
+  > Post-Programming, after arguing with Techcrunch and Financial Times journalists on LinkedIn to the point of them losing their #startups, #metoo, and #coronavirus news trends credibility and their readers persecuting them for racial and sexual discrimination against me, is herein formally inscripted, on this day i.e. 16-April-2020, in the storms of COVID-19, as "Automata Autonomous Clélie Cloud" 
+  
+  <br/>
+  <br/>
+  <br/>
   
   
 ## The Arguments Leading To Shaming Of Journalism

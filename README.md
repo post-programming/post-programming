@@ -49,7 +49,10 @@ Feel free to throw your doubts and communicate everything needed to publish me i
 * URLs have been edited to reflect hyperlink changes, afterwards for SEO
 ```
 
-
+  <br/>
+  <br/>
+  <br/>
+  
 ## Pointfree
 
 * Launch: `'paxos-raft' as plugins/extensions on local/cloud instances of VS Code, diagrams.net, or JupyterLab`

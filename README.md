@@ -52,7 +52,7 @@ Reading those links and understanding their effects on broad set of fields such 
 So, below is the link for zoombombing: 
  https://github.com/post-programming/post-programming/tree/archive/coronation 
 
-Reading that coronation branch textual state and its hyperlinks would be enough grab for "Post-Programming". 
+Reading coronation branch textual state and its hyperlinks would be enough grab for "Post-Programming". 
 Though that snap is still most complete painting of "Post-Programming", besides me.
 
 Feel free to throw your doubts and communicate everything needed to publish me in your post-programming article.

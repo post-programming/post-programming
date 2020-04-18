@@ -25,6 +25,17 @@
   <br/>
   <br/>
   
+  ## Pointfree
+
+* Launch: Develop `paxos-raft` as plugins/extensions for local/cloud instances of VS Code, diagrams.net, or JupyterLab
+* Surf: Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains
+* Export: Programmer Jobs/Tasks as Git Repos
+
+  <br/>
+  <br/>
+  <br/>
+  
+  
 ## The Arguments Leading To Shaming Of Journalism
 
 ```
@@ -49,13 +60,5 @@ Feel free to throw your doubts and communicate everything needed to publish me i
 * URLs have been edited to reflect hyperlink changes, afterwards for SEO
 ```
 
-  <br/>
-  <br/>
-  <br/>
-  
-## Pointfree
 
-* Launch: `paxos-raft` as plugins/extensions on local/cloud instances of VS Code, diagrams.net, or JupyterLab
-* Surf: Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains
-* Export: Programmer Jobs/Tasks as Git Repos
 

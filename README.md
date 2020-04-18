@@ -27,9 +27,9 @@
   
   ## Pointfree
 
-* Launch: `paxos-raft` as plugins/extensions for local/cloud instances of VS Code, diagrams.net, or JupyterLab
-* Surf: Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains
-* Export: Programmer Jobs/Tasks as Git Repos
+* Launch: ``paxos-raft` as plugins/extensions for local/cloud instances of VS Code, diagrams.net, or JupyterLab`
+* Surf: `Autonomous Read-Write-Containers automating Developer Workflow BlockChains/SideChains`
+* Export: `Programmer Jobs/Tasks as Git Repos`
 
   <br/>
   <br/>

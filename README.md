@@ -16,7 +16,7 @@
   <br/>
   <br/>
   
-  > Post-Programming, after arguing with Techcrunch and Financial Times journalists on LinkedIn to the point of them losing their #startups, #metoo, and #coronavirus news trends credibility and their readers persecuting them for racial and sexual discrimination against me, is herein formally inscripted, on this day i.e. 16-April-2020, in the storms of COVID-19, as "Automata Autonomous Clélie Cloud" 
+<b> Post-Programming, after arguing with Techcrunch and Financial Times journalists on LinkedIn to the point of them losing their #startups, #metoo, and #coronavirus news trends credibility and their readers persecuting them for racial and sexual discrimination against me, is herein formally inscripted, on this day i.e. 16-April-2020, in the storms of COVID-19, as "Automata Autonomous Clélie Cloud" </b>
   
   <br/>
   <br/>

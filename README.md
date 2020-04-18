@@ -44,7 +44,6 @@ Consider that snap as 'single source of truth for extrapolations of post-program
 
 
 Since such painting will neither impress you nor lend me any credibility on publishing, below three links are shortest implementation guidelines on "Post-Programming" to `nullify i.e. code collapse` modern tech:
- https://github.com/post-programming/post-programming
  https://github.com/post-programming/post-programming/tree/master/packages/draw-map
  https://github.com/post-programming/post-programming/tree/master/packages/sketch-draw 
 

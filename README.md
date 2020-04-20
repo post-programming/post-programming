@@ -27,7 +27,7 @@
   
   ## Pointfree
 
-* Launch: `'paxos-currents' as plugins/extensions for local/cloud instances of VS Code, diagrams.net, or JupyterLab`
+* Launch: `'sea-fresh' as plugins/extensions for local/cloud instances of VS Code, diagrams.net, or JupyterLab`
 * Surf: `Autonomous Read-Write-Containers transpiling/automating Developer Workflow BlockChains/SideChains`
 * Export: `Programmer Jobs/Tasks as Git Repos`
 

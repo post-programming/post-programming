@@ -40,8 +40,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1'
+              label: 'NewsReel Programming Guide',
+              href: 'https://github.com/post-programming/Art-of-NewsReel-Programming'
             }
           ]
         },
@@ -74,12 +74,6 @@ module.exports = {
   presets: [
     [
       '@docusaurus/preset-classic',
-      {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/post-programming/post-programming/edit/master/website/'
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css')
         }

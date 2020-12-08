@@ -74,6 +74,9 @@ module.exports = {
   presets: [
     [
       '@docusaurus/preset-classic',
+      {
+        docs: {
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css')
         }

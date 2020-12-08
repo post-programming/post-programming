@@ -10,7 +10,6 @@ const features = [
   {
     title: 'Code',
     imageUrl: 'img/code.png',
-    href: 'https://code.post-programming.com/',
     description: (
       <>
       Reductive Boilerplate Transpiler
@@ -20,7 +19,6 @@ const features = [
   {
     title: 'Diagram',
     imageUrl: 'img/diagram.png',
-    href: 'https://diagram.post-programming.com/',
     description: (
       <>
       Synthesis, I/O, and Map Technology
@@ -30,7 +28,6 @@ const features = [
   {
     title: 'Book',
     imageUrl: 'img/book.png',
-    href: 'https://book.post-programming.com/',
     description: (
       <>
       Integrated Open Innovation Research
@@ -43,14 +40,14 @@ function Feature ({ imageUrl, title, href, description }) {
   const imgUrl = useBaseUrl(imageUrl)
   return (
     <div className={classnames('col col--4', styles.feature)}>
-      <Link to={href} target='_blank' rel='noopener noreferrer'>
+   
         {imgUrl && (
           <div className='text--center'>
             <img className={styles.featureImage} src={imgUrl} alt={title} />
             <h3>&lt;{title}&gt; {description}</h3>
           </div>
         )}
-      </Link>
+      
     </div>
   )
 }

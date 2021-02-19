@@ -12,9 +12,6 @@
   <br/>
   <br/>
   <br/>
-  <br/>
-  <br/>
-  <br/>
   
 <b> 
   
@@ -23,9 +20,7 @@ Post-Programming; Automata Autonomous Clélie Cloud </b>
   <br/>
   <br/>
   <br/>
-  <br/>
-  <br/>
-  <br/>
+ 
   
   ## Pointfree
 

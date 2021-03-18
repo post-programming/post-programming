@@ -13,9 +13,7 @@
   <br/>
   <br/>
   
-<b> 
-  
-Post-Programming; Automata Autonomous Clélie Cloud </b>
+<b> Post-Programming; Automata Autonomous Clélie Cloud </b>
   
   <br/>
   <br/>
@@ -27,6 +25,21 @@ Post-Programming; Automata Autonomous Clélie Cloud </b>
 * `Surf: Autonomous Read-Write-Containers transpiling/automating Developer Workflow BlockChains/SideChains`
 * `Export: Programmer Jobs/Tasks as Git Repos`
   
+  <br/>
+  <br/>
 
+<h3 align="center">Theorem</h3>
 
-
+ <br/>
+  <br/>
+  <br/>
+ 
+  
+  <p align="center">
+ <img alt="Code" src="https://raw.githubusercontent.com/post-programming/post-programming/master/Theorem.png" height="450" />
+  </p>
+  
+  <br/>
+  <br/>
+  <br/>
+  

@@ -6,7 +6,7 @@
  
   
   <p align="center">
- <img alt="Code" src="https://raw.githubusercontent.com/post-programming/post-programming/master/website/static/img/icon.png" height="200" />
+  <img alt="Code" src="https://raw.githubusercontent.com/post-programming/post-programming/master/website/static/img/icon.png" height="200" />
   </p>
   
   <br/>
@@ -30,16 +30,13 @@
 
 <h3 align="center">Theorem</h3>
 
- <br/>
+  <br/>
   <br/>
   <br/>
  
   
   <p align="center">
- <img alt="Code" src="https://raw.githubusercontent.com/post-programming/post-programming/master/Theorem.png" height="450" />
+  <img alt="Code" src="https://raw.githubusercontent.com/post-programming/post-programming/master/Theorem.png" height="450" />
   </p>
   
-  <br/>
-  <br/>
-  <br/>
   

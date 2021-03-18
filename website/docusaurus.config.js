@@ -63,7 +63,7 @@ module.exports = {
           items: [
             {
               label: 'Twitter',
-              href: 'https://twitter.com/hyperTik'
+              href: 'https://twitter.com/swapZapp'
             }
           ]
         }

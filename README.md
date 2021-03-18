@@ -6,7 +6,7 @@
  
   
   <p align="center">
-  <img alt="Code" src="https://raw.githubusercontent.com/post-programming/post-programming/master/website/static/img/icon.png" height="180" />
+  <img alt="Code" src="https://raw.githubusercontent.com/post-programming/post-programming/master/website/static/img/icon.png" height="220" />
   </p>
   
   <br/>
@@ -38,5 +38,5 @@
  
   
   <p align="center">
-  <img alt="Code" src="https://raw.githubusercontent.com/post-programming/post-programming/master/Theorem.png" height="440" />
+  <img alt="Code" src="https://raw.githubusercontent.com/post-programming/post-programming/master/Theorem.png" height="450" />
   </p>

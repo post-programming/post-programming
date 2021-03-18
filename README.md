@@ -28,7 +28,7 @@
   <br/>
   <br/>
 
-<h3 align="center">Theorem</h3>
+<h2 align="center">Theorem</h2>
 
   <br/>
   <br/>

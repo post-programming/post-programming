@@ -6,7 +6,7 @@
  
   
   <p align="center">
-  <img alt="Code" src="https://raw.githubusercontent.com/post-programming/post-programming/master/website/static/img/icon.png" height="220" />
+  <img alt="Code" src="https://raw.githubusercontent.com/post-programming/post-programming/master/website/static/img/icon.png" height="210" />
   </p>
   
   <br/>

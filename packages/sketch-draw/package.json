@@ -4,7 +4,7 @@
     "description": "Sketch & Draw Stitching Web Apps",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/post-programming/post-programming/tree/master/packages/sketch-draw#readme",
-    "license": "Xerox PARC",
+    "license": "IP",
     "main": "lib/sketch-draw.js",
     "repository": {
         "type": "git",

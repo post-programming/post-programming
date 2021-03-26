@@ -8,7 +8,7 @@
   ],
   "author": "Prateek Rastogi",
   "homepage": "https://github.com/post-programming/post-programming/tree/master/packages/draw-map#readme",
-  "license": "Xerox PARC",
+  "license": "IP",
   "main": "lib/draw-map.js",
   "repository": {
     "type": "git",

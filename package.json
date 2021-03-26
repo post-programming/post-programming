@@ -4,7 +4,7 @@
     "bin": "index.js",
     "author": "Prateek Rastogi",
     "homepage": "https://github.com/paxos-raft/paxos-raft/#readme",
-    "license": "Xerox PARC",
+    "license": "IP",
     "version": "0.0.105",
     "icon": "lib/vscode/icon.png",
     "publisher": "paxos-raft",
